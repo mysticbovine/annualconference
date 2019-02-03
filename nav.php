@@ -24,12 +24,13 @@
 	   
 		  <ul class="nav navbar-nav navbar-right">
 			<li class="hidden"><a href="schedule.php">Schedule</a></li>	 
-			<li class="dropdown hidden">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events <span class="caret"></span></a>
+			<li class="dropdown">
+			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
 			  <ul class="dropdown-menu">
-        <li class=""><a href="schedule.php">Schedule</a></li>
-				<li class=""><a href="communication-leadership.php">Communication & Leadership Award</a></li>
-        <li class=""><a href="educations.php" class="">Education Sessions</a></li>
+        <li class=""><a href="team.php">Conference Team</a></li>
+        <li class="hidden"><a href="schedule.php">Schedule</a></li>
+				<li class="hidden"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
+        <li class="hidden"><a href="educations.php" class="">Education Sessions</a></li>
 				<li class="hidden"><a href="businessmeeting.php">Business Meeting</a></li>
 				<li class="hidden"><a href="awards.php" class="hidden">Awards</a></li>
 				<li class="hidden"><a href="contests.php">Contests</a></li>

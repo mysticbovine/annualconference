@@ -43,47 +43,15 @@
 	<!-- Body Start -->
 	<div class="container body ">
 		<div class="col-sm-12 text-center">
-			<h1 class="page-header">Conference Team</h1>
+			<h1 class="page-header">Meet the Conference Team for 2019</h1>
 			
 		
 		</div>
 		
     <div class="col-sm-12 path-leaders">
-      <div class="view-header">
-      <div class="division view view-quartet-leaders view-id-quartet_leaders view-display-id-block_1 js-view-dom-id-d6a5e67a5dd9607f946cf71d3664486bacadb510c863803178e87cd0dfed7519">
-        <div class="view-header">
-          <div class="col-sm-12">
-            <h2 class="text-center">Leadership Quartet for 2018-2019</h2>
-          </div>
-        </div>
-        <div class="view-content">
-          <div class="division">
-            <div class="committee leader displayorder-">
-              <div class="img-circle center-block"><img alt="" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/elle2018.jpg?itok=GWLNdi3d" typeof="Image" width="200"></div>
-              <h4>Eleanor Kroeger<br>
-              District Director</h4><a href="mailto:districtdirector@d96toastmasters.ca">districtdirector@d96toastmasters.ca</a><br>
-            </div>
-            <div class="committee leader displayorder-">
-              <div class="img-circle center-block"><img alt="Louisa Davis" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Louisa%20Davis.png?itok=yoYXhLUM" typeof="Image" width="200"></div>
-              <h4>Louisa Davis, DTM<br>
-              Program Quality Director</h4><a href="mailto:louisamba@hotmail.com">louisamba@hotmail.com</a><br>
-            </div>
-            <div class="committee leader displayorder-">
-              <div class="img-circle center-block"><img alt="Camilo Reyes, Division S Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Camilo-Reyes.jpg?itok=9x0UkhC4" typeof="Image" width="200"></div>
-              <h4>Camilo Reyes, DTM<br>
-              Club Growth Director</h4><a href="mailto:clubgrowth@d96toastmasters.ca">clubgrowth@d96toastmasters.ca</a><br>
-            </div>
-            <div class="committee leader displayorder-">
-              <div class="img-circle center-block"><img alt="Neil Booth, Division H Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Neil-Booth.jpg?itok=fRcwHxIN" typeof="Image" width="200"></div>
-              <h4>Neil Booth<br>
-              Public Relations Manager</h4><a href="mailto:publicrelations@d96toastmasters.ca">publicrelations@d96toastmasters.ca</a><br>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+      
     <div class="view-content">
-      <h3>Reports to Program Quality Director</h3>
+      <h3>Conference Co-Chairs</h3>
       <div class="division">
         <div class="views-field views-field-nothing">
           <span class="field-content"></span>
@@ -108,7 +76,7 @@
           </div><span class="field-content"></span>
         </div>
       </div>
-      <h3>Reports to Conference Chair</h3>
+      <h3>Conference Team</h3>
       <div class="division">
         <div class="views-field views-field-nothing">
           <span class="field-content"></span>
@@ -406,6 +374,36 @@
             <h4><span class="field-content">Open<br>
             Program Coordinator - Design &amp; Printing</span></h4><span class="field-content"><br></span>
           </div><span class="field-content"></span>
+        </div>
+      </div>
+    </div>
+    <div class="view-header">
+      <div class="division view view-quartet-leaders view-id-quartet_leaders view-display-id-block_1 js-view-dom-id-d6a5e67a5dd9607f946cf71d3664486bacadb510c863803178e87cd0dfed7519">
+      
+        <div class="view-content">
+          <h3>Leadership Quartet for 2018-2019</h3>
+          <div class="division">
+            <div class="committee leader displayorder-">
+              <div class="img-circle center-block"><img alt="" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/elle2018.jpg?itok=GWLNdi3d" typeof="Image" width="200"></div>
+              <h4>Eleanor Kroeger<br>
+              District Director</h4><a href="mailto:districtdirector@d96toastmasters.ca">districtdirector@d96toastmasters.ca</a><br>
+            </div>
+            <div class="committee leader displayorder-">
+              <div class="img-circle center-block"><img alt="Louisa Davis" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Louisa%20Davis.png?itok=yoYXhLUM" typeof="Image" width="200"></div>
+              <h4>Louisa Davis, DTM<br>
+              Program Quality Director</h4><a href="mailto:louisamba@hotmail.com">louisamba@hotmail.com</a><br>
+            </div>
+            <div class="committee leader displayorder-">
+              <div class="img-circle center-block"><img alt="Camilo Reyes, Division S Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Camilo-Reyes.jpg?itok=9x0UkhC4" typeof="Image" width="200"></div>
+              <h4>Camilo Reyes, DTM<br>
+              Club Growth Director</h4><a href="mailto:clubgrowth@d96toastmasters.ca">clubgrowth@d96toastmasters.ca</a><br>
+            </div>
+            <div class="committee leader displayorder-">
+              <div class="img-circle center-block"><img alt="Neil Booth, Division H Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Neil-Booth.jpg?itok=fRcwHxIN" typeof="Image" width="200"></div>
+              <h4>Neil Booth<br>
+              Public Relations Manager</h4><a href="mailto:publicrelations@d96toastmasters.ca">publicrelations@d96toastmasters.ca</a><br>
+            </div>
+          </div>
         </div>
       </div>
     </div>
