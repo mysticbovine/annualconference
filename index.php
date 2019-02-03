@@ -44,8 +44,9 @@
 	<!-- Carousel Start -->
 	<div class="banner vh_height100 homepage"> 
     <div class="conference-logo">
-     
+     <img src="images/lg-tm.png" class="center-block" style="z-index:10">
         <div class="col-sm-10 col-sm-offset-1">
+           
           <img src="images/d96conference2019logo.png" class="img-responsive center-block">
          
         </div>
@@ -213,8 +214,8 @@
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Inspiring keynote speakers</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Educational sessions to ante up your speaking and leadership skills</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Delicious meals all weekend long</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District business meeting and elections</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication & Leadership Awards</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District Council Annual Meeting and Elections</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication & Leadership Award</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> International Speech Contest</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Evaluation Speech Contest</p>
@@ -265,6 +266,12 @@
           <h2 class="text-center">Interested in Helping?</h2>
           <p class="lead"> Do you have sales, marketing or project management skills or are you willing to help in any capacity? </p>
           <p class="lead">Email <a href="mailto:mark.zuberbuhler@gmail.com" class="text-muted" style="text-decoration: underline">Mark Zuberbuhler</a> if you are interested in joining the Conference Committee.</p>
+
+        </div>
+        <div class="col-md-5 col-md-offset-1 col-sm-6 callout-black">
+          <h2 class="text-center">See who is involved.</h2>
+          <p class="lead"> For a complete list of the conference team, including any positions we are looking visit the Conference Team page on <a href="https://d96toastmasters.ca/leaders/conference%20team" class="text-muted" style="text-decoration: underline" >d96toastmasters.ca</a></p>
+          <p class="text-center"><a href="https://d96toastmasters.ca/leaders/conference%20team" class="btn btn-register btn-lg" target=_blank >Conference Team</a></p>
 
         </div>
       </div>

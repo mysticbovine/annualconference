@@ -52,10 +52,11 @@
       <p class="lead">Are you a dynamic presenter known to dazzle large audiences? Can you speak
 eloquently and expertly on a topic that offers personal and professional growth and
 enrichment?</p>
+      <p class="well">SUBMISSION DEADLINE EXTENDED TO FEB. 8th, 2019</p>
       <p>District 96 Toastmasters is inviting qualified presenters to submit an application to  present an Education Session at our upcoming Annual Conference.   We are looking for three to six speakers who can present a 45-minute session on Saturday morning, March 30, 2019 at the Pinnacle Hotel at the Pier in North Vancouver, B.C. </p>
       <p>Non-Toastmasters may also apply. Many speakers consider it an honor and a privilege to be invited to present at a Toastmasters Conference.  After all, Toastmasters International is the world leader in Communication and Leadership development.</p>
       <p>For more information and to download the form below.</p>
-      <a href="/document/EdSessionCallForProposalRevised-Jan82018.docx" class="btn btn-primary">Download the form</a>
+      <a href="/document/EdSessionCallForProposalRevised-Feb22018.docx" class="btn btn-primary">Download the form</a>
 </p>
     </div>
 <div class="col-sm-4">
