@@ -271,7 +271,7 @@
         <div class="col-md-5 col-md-offset-1 col-sm-6 callout-black">
           <h2 class="text-center">See who is involved.</h2>
           <p class="lead"> For a complete list of the conference team, including any positions we are looking visit the Conference Team page.</p>
-          <p class="text-center"><a href="team.php" class="btn btn-register btn-lg" target=_blank >Conference Team</a></p>
+          <p class="text-center"><a href="team.php" class="btn btn-register btn-lg">Conference Team</a></p>
 
         </div>
       </div>
