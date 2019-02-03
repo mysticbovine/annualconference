@@ -342,17 +342,7 @@
             Audio Visual Manager</span></h4><span class="field-content"><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Conference Contest Chair</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
+        
         <div class="views-field views-field-nothing">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
