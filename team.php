@@ -232,7 +232,7 @@
             Education Sessions Chair</span></h4><span class="field-content"><a href="mailto:percy.x.billimoria@hsbc.ca">percy.x.billimoria@hsbc.ca</a><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
+        <div class="views-field views-field-nothing hidden">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
             <span class="field-content"></span>
@@ -243,7 +243,7 @@
             Conference Secretary</span></h4><span class="field-content"><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
+        <div class="views-field views-field-nothing hidden">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
             <span class="field-content"></span>
@@ -254,7 +254,7 @@
             Silent Auction Chair</span></h4><span class="field-content"><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
+        <div class="views-field views-field-nothing hidden">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
             <span class="field-content"></span>
@@ -331,7 +331,7 @@
             Conference Videographer and Photographer</span></h4><span class="field-content"><a href="mailto:deniseswozniak@gmail.com">deniseswozniak@gmail.com</a><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
+        <div class="views-field views-field-nothing hidden">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
             <span class="field-content"></span>
@@ -354,7 +354,7 @@
             Conference Contest Chair</span></h4><span class="field-content"><a href="mailto:boaler_inc@hotmail.com">boaler_inc@hotmail.com</a><br></span>
           </div><span class="field-content"></span>
         </div>
-        <div class="views-field views-field-nothing">
+        <div class="views-field views-field-nothing hidden">
           <span class="field-content"></span>
           <div class="committee leader displayorder-">
             <span class="field-content"></span>
