@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Schedule | Spring 2018 Conference | District 96 Toastmasters</title>
+    <title>Annual Conference 2019 | Schedule | District 96 Toastmasters</title>
 
-	<meta name="author" content="Rob Evans ACS, ALB, Rocky Coast Creative, www.rockycoastcreative.ca">
+	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/d96conference.css" rel="stylesheet">
