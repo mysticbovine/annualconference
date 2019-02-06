@@ -47,93 +47,141 @@
 			
 		
 		</div>
+    
+    
+    
+    
 		
     <div class="col-sm-7">
       <p class=""><strong>Note: Schedule below is subject to change</strong></p>
-      <h3>Friday, May 11</h3>
+      <h3>Friday, March 29</h3>
       <table class="table table-hover">
         <thead>
           <tr>
-            <th width="100px"><br />Evening</th>
+            <th width="150px"><br />Evening</th>
             <th></th>
           </tr>
         </thead>
 
         <tbody>	
           <tr>
-            <td><strong>3:00 pm</strong></td>
-            <td> Registration & Check-in</td>
+            <td><strong> 4pm-6pm</strong></td>
+            <td> Registration Open</td>
             
           </tr>
           
           <tr>					
-            <td><strong>4:45 pm</strong></td>
-            <td> Doug Anderson First-Timers Reception</td>
+            <td><strong>5pm-6pm</strong></td>
+            <td> 1st Timers’ Reception<br />Hosted by Doug Anderson DTM</td>
             
           </tr>
 
           <tr>
-            <td><strong>6:00 pm</strong></td>
-            <td> Opening Ceremony & Banner Parade<br /> Dinner followed by Candidates Showcase</td>
+            <td><strong>6pm-7pm</strong></td>
+            <td> Opening Session</td>
             
           </tr>
 
           <tr>
-            <td><strong>8:15 pm</strong></td>
-            <td> Evaluation Contest & Entertainment</td>
-            
+            <td><strong>6pm-6:15pm</strong></td>
+            <td> Banner Parade</td>
           </tr>
 
+          <tr>
+            <td><strong>7pm-8pm</strong></td>
+            <td> Conference Dinner</td>
+
+          </tr>
+          
+          
+          <tr>
+            <td><strong>8pm-9pm</strong></td>
+            <td> Opening Keynote Speaker<br />
+                  
+                  <h3>Living Beyond Imagination!</h3>
+                  <p><b>Steve Curtis</b><br />
+                   Investor, entrepreneur, adventurer<br />
+                  and revolutionary thought leader</p>
+            </td>
+
+          </tr>
+          <tr>
+            <td><strong>7pm-8pm</strong></td>
+            <td> After Party at the <b>Tap and Barrel</b></td>
+
+          </tr>
         </tbody>
       </table>
 
-      <h3>Saturday May 12</h3>
+      <h3>Saturday, March 30th</h3>
       <table class="table table-hover">
         <thead>
           <tr>
-            <th width="100px"><br />Morning</th>
+            <th width="150px"><br />Morning</th>
             <th></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><strong>8:00 am</strong></td>
-            <td> District Executive Committee Meeting & Breakfast</td>
-            
+            <td><strong>7:30am – 8:30am</strong></td>
+            <td> Contestants and Judges Briefings</td>
           </tr>
-                    
+
+
           <tr>
-            <td><strong>9:00 am</strong></td>
-            <td> Education Sessions</td>
-            
+            <td><strong>8am – 9am</strong></td>
+            <td> District Executive Committee Meeting</td>
           </tr>
-                    
+
+
           <tr>
-            <td><strong>11:30 am</strong></td>
-            <td> Communication/Leadership Award Luncheon</td>
-            
+            <td><strong>8am – 10am</strong></td>
+            <td> Registration Open</td>
           </tr>
+
+
+          <tr>
+            <td><strong>9:30am – 10:15am</strong></td>
+            <td> Opening & Candidate Showcase</td>
+          </tr>
+
+
+          <tr>
+            <td><strong>10:30am – 11:15am</strong></td>
+            <td> Education Session Breakout 1</td>
+          </tr>
+
+
+          <tr>
+            <td><strong>11:30am – 12:15pm</strong></td>
+            <td> Education Session Breakout 2</td>
+          </tr>
+
+
+          
+
+
+          
+          
         </tbody>
         <thead>
           <tr>
-            <th width="100px"><br />Afternoon</th>
+            <th width="100px"><br />Afteroon</th>
             <th></th>
           </tr>
         </thead>
-        <tbody>
           <tr>
-            <td><strong>1:00 pm</strong></td>
-            <td>District Council Business Meeting</td>
-            
+            <td><strong>12:15pm – 1:45pm</strong></td>
+            <td> Communication & Leadership Award Lunch</td>
           </tr>
-                    
+
+
           <tr>
-            <td><strong>4:00 pm</strong></td>
-            <td> International Speech Contest</td>
-            
+            <td><strong>2pm – 4pm</strong></td>
+            <td> District Council Business Meeting</td>
           </tr>
-          
-        </tbody>
+         <tbody>
+         </tbody>
         <thead>
           <tr>
             <th width="100px"><br />Evening</th>
@@ -141,43 +189,53 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td><strong>6:30 pm</strong></td>
-            <td> Dinner followed by Lowry Olafson Keynote & Entertainment</td>
-            
+            <tr>
+            <td><strong>4:30pm – 6:30pm</strong></td>
+            <td> District 96 International Speech Contest</td>
           </tr>
-            
+
+
+          <tr>
+            <td><strong>6:30pm – 8:30pm</strong></td>
+            <td> Conference Dinner</td>
+          </tr>
+
+
+          <tr>
+            <td><strong>8:30pm – 9:30pm</strong></td>
+            <td>Keynote Speaker
+            <h3>The Power of a Courageous Message</h3>
+            <p><b>Karen McGregor</b><br />
+              Bestselling author, international speaker & coach</p>
+            </td>
+          </tr>
         </tbody>   
       </table>
       
-      <h3>Sunday May 13</h3>
+      <h3>Sunday March 31</h3>
       <table class="table table-hover">
         <thead>
           <tr>
-            <th width="100px"><br />Morning</th>
+            <th width="150px"><br />Morning</th>
             <th></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><strong>9:00 am</strong></td>
-            <td> Mother's Day Breakfast</td>
-            
+            <td><strong>8:30am-9am</strong></td>
+            <td> Registration Open</td>
           </tr>
           <tr>
-            <td><strong>10:00 am</strong></td>
-            <td> Diane Rolston Keynote</td>
-            
+            <td><strong>9am-9:45am</strong></td>
+            <td> Educational Session Breakout 3</td>
           </tr>
           <tr>
-            <td><strong>11:15 am</strong></td>
+            <td><strong>9:45am – 11:45am</strong></td>
+            <td> District 96 Evaluation Contest</td>
+          </tr>
+          <tr>
+            <td><strong>11:45am – 12:30pm</strong></td>
             <td> Closing Ceremony</td>
-            
-          </tr>
-          <tr>
-            <td><strong>12:00 pm</strong></td>
-            <td> Adjourned</td>
-            
           </tr>
         </tbody>
       </table>
