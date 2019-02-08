@@ -29,7 +29,7 @@
 			  <ul class="dropdown-menu">
         <li class=""><a href="team.php">Conference Team</a></li>	 
         <li class=""><a href="hotel.php">Hotel Information</a></li>
-        <li class=""><a href="schedule.php">Schedule</a></li>
+        <li class=""><a href="document/D96ConferenceSchedule.pdf">Schedule(PDF)</a></li>
 				<li class="hidden"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
         <li class="hidden"><a href="educations.php" class="">Education Sessions</a></li>
 				<li class="hidden"><a href="businessmeeting.php">Business Meeting</a></li>
