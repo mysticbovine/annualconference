@@ -37,11 +37,11 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class=" bg-yellow faded">
+  <body class=" bg-blue faded">
     <?php include("nav.php");?>
 	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
-	<div class="container body">
+	<div class="container body  path-leaders">
 		<div class="col-sm-12 text-center">
 			<h1 class="page-header">Conference Schedule</h1>
 			
@@ -52,9 +52,34 @@
     
     
 		
-    <div class="col-sm-7">
+    <div class="col-sm-7off">
       <p class=""><strong>Note: Schedule below is subject to change</strong></p>
       <h3>Friday, March 29</h3>
+      <div class="col-sm-5off pull-right">
+			<div class="division">
+      <h4>Featured Hosts</h4>
+      <div class="views-field views-field-nothing pull-left">
+        <span class="field-content"></span>
+        <div class="committee leader displayorder- ">
+          <span class="field-content"></span>
+          <div class="img-circle center-block">
+            <span class="field-content"><img alt="Devon Downie DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DevonDownie.jpg?itok=qWGtpvOM" typeof="Image" width="200"></span>
+          </div><span class="field-content"></span>
+          <h4><span class="field-content">Devon Downie</span></h4><span class="field-content"><a href="mailto:dtmdevon@gmail.com">dtmdevon@gmail.com</a><br></span>
+        </div><span class="field-content"></span>
+      </div>
+      <div class="views-field views-field-nothing pull-right">
+          <span class="field-content"></span>
+          <div class="committee leader displayorder-">
+            <span class="field-content"></span>
+            <div class="img-circle center-block">
+              <span class="field-content"><img alt="Stefano Cossalter DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/StefanoCossalter.jpg?itok=WN0z-5TB" typeof="Image" width="200"></span>
+            </div><span class="field-content"></span>
+            <h4><span class="field-content">Stefano Cossalter, DTM</span></h4><span class="field-content"><a href="mailto:stefanocossalter@gmail.com">stefanocossalter@gmail.com</a><br></span>
+          </div><span class="field-content"></span>
+        </div>
+    </div>
+		</div>
       <table class="table table-hover">
         <thead>
           <tr>
@@ -112,7 +137,9 @@
           </tr>
         </tbody>
       </table>
-
+    </div>
+    
+ <div class="col-sm-7">
       <h3>Saturday, March 30th</h3>
       <table class="table table-hover">
         <thead>
@@ -240,11 +267,6 @@
         </tbody>
       </table>
     </div>
-<div class="col-sm-5">
-			<p><img src="images/fall_photo1.jpg" class="img-responsive img-rounded img-thumbnail"></p>
-			<p><img src="images/fall_photo2.jpg" class="img-responsive img-rounded img-thumbnail"></p>
-			<p><img src="images/fall_photo3.jpg" class="img-responsive img-rounded img-thumbnail"></p>
-		</div>
 
 
 

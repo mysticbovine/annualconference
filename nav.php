@@ -23,10 +23,11 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	   
 		  <ul class="nav navbar-nav navbar-right">
-			<li class=""><a href="team.php">Conference Team</a></li>	 
+			 
 			<li class="dropdown">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
 			  <ul class="dropdown-menu">
+        <li class=""><a href="team.php">Conference Team</a></li>	 
         <li class=""><a href="hotel.php">Hotel Information</a></li>
         <li class=""><a href="schedule.php">Schedule</a></li>
 				<li class="hidden"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
