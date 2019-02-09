@@ -11,6 +11,26 @@
 @green:   #8cc540;
 @spring:  #abc8e9;
 
+// Fonts //
+
+@font-face {font-family: "LubalinGraphEF";
+	src: url("../fonts/lubalin_graph_regular_2-webfont.eot");
+	src: url("../fonts/lubalin_graph_regular_2-webfont.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/lubalin_graph_regular_2-webfont.woff2") format("woff2"),
+	url("../fonts/lubalin_graph_regular_2-webfont.woff") format("woff"),
+	url("../fonts/lubalin_graph_regular_2-webfont.ttf") format("truetype"),
+	url("../fonts/lubalin_graph_regular_2-webfont.svg#LubalinGraphEF") format("svg");
+	}
+@font-face {
+  
+  font-family: 'LubalinGraphBold';
+  src: url('../fonts/lubalingraphef-bold-webfont.woff2') format('woff2'),
+    url('../fonts/lubalingraphef-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  
+	}
+  
 // Global styles
 * {
   -webkit-box-sizing: border-box;
@@ -73,7 +93,10 @@ body {
 		background-color: darken(@color, 20%);
 	}
 }
-
+h1, h2, h3 {
+  font-family: "LubalinGraphBold",serif;
+  font-weight: bold;
+}
 
 // Colour classes
 .text-red {
@@ -602,6 +625,22 @@ span.anchor {
 	color: #fff;
 	background-color: @yellow;
 }
+.schedule{
+  table.table {
+    thead{
+      font-size: 20px;
+    }
+    tbody {
+      font-size: 16px;
+    }
+    td, th {
+      border-color: #93c0ba;
+    }
+  }
+}
+.page-header {
+  border-color: #93c0ba;
+}
 // Sponsor Pricing table
 @bronze:  	#cd7f32;
 @gold:		#D4AF37;
@@ -883,6 +922,7 @@ section#contact, .form {
 
 /* Team Page */
 .path-leaders,
+.schedule,
 .path-district-director-team {
   /* role-92 = all division directors */
   /* role-93 = all area directors */

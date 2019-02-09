@@ -13,7 +13,7 @@
 			<h2>
 				<a href="/" class="page-scroll">
 					<img alt="Toastmasters International logo" src="../../images/sm-tm.png" class="align-left hidden-xs">
-					<em>Toastmasters<span>District 96 Annual Conference 2019</span></em>
+					<em>District 96<span> Annual Conference 2019</span></em>
 				</a>
 			</h2>
 		  </div>
@@ -29,7 +29,7 @@
 			  <ul class="dropdown-menu">
         <li class=""><a href="team.php">Conference Team</a></li>	 
         <li class=""><a href="hotel.php">Hotel Information</a></li>
-        <li class=""><a href="document/D96ConferenceSchedule.pdf">Schedule(PDF)</a></li>
+        <li class=""><a href="schedule.php">Schedule</a></li>
 				<li class="hidden"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
         <li class="hidden"><a href="educations.php" class="">Education Sessions</a></li>
 				<li class="hidden"><a href="businessmeeting.php">Business Meeting</a></li>
@@ -49,7 +49,7 @@
 			  </ul>
 			</li>
 						
-			<li class="dropdown">
+			<li class="dropdown hidden">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Education Sessions<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li class=""><a href="edsession.php">Call for Speakers</a></li>
