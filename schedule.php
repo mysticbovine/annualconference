@@ -261,7 +261,7 @@
                     <div class="committee leader displayorder- ">
                         <span class="field-content"></span>
                         <div class="img-circle center-block">
-                          <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/Karen.jpg" typeof="Image" width="250"></span>
+                          <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/karen.jpg" typeof="Image" width="250"></span>
                         </div><span class="field-content"></span>
                         <h4><span class="field-content">Karen McGregor</span></h4>
                         <p>Bestselling author, international speaker & coach</p>
@@ -281,7 +281,7 @@
             <div class="committee leader displayorder- ">
               <span class="field-content"></span>
               <div class="img-circle center-block">
-                <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/Karen.jpg" typeof="Image" width="250"></span>
+                <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/karen.jpg" typeof="Image" width="250"></span>
               </div><span class="field-content"></span>
               <h4><span class="field-content">Karen McGregor</span></h4>
               <p>Bestselling author, international speaker & coach</p>

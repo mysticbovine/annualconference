@@ -52,7 +52,7 @@
         <h2 class="keynote-bio"><span class="anchor" id="steve"></span>Opening Keynote: Living Beyond Imagination!</h2>
       </div>
 			<div class="col-md-3">
-				<p class="text-center"><img src="images/Stevek.jpg" class="img-responsive img-circle"></p>
+				<p class="text-center"><img src="images/stevek.jpg" class="img-responsive img-circle"></p>
 			</div>
 			<div class="col-md-9">
 				
@@ -72,7 +72,7 @@
         <h2 class="keynote-bio"><span class="anchor" id="karen"></span>Saturday's Keynote: The Power of a Courageous Message</h2>
       </div>
 			<div class="col-md-3">
-				<p  class="text-center"><img src="images/Karen.jpg" class="img-circle"></p>
+				<p  class="text-center"><img src="images/karen.jpg" class="img-circle"></p>
 			</div>
 			<div class="col-md-9">
 				

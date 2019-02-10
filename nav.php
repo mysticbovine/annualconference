@@ -39,6 +39,7 @@
 				<li class="hidden"><a href="live_auction.php">Live Auction</a></li>
 			  </ul>
 			</li>
+      <li class=""><a href="keynotes.php">Keynotes</a></li>
       <li class="hidden"><a href="sponsors.php">Our Sponsors</a></li>
 			<li class="dropdown hidden">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsors <span class="caret"></span></a>
