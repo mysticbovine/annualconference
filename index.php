@@ -85,45 +85,39 @@
       </div>
     </div>
   </div>
-  <div id="keynote" class="bg-blue faded container-full padding100 text-white keynote hidden">	
+  <div id="keynote" class="bg-blue faded container-full padding100 text-white keynote">	
     <div class="container">
       <div class="row">
         <div class="col-md-5 col-sm-offset-1 callout-black">
           
-          <img src="images/lowry-headshot.jpg" class="img-circle center-block">
+          <img src="images/Stevek.jpg" class="img-circle center-block">
          
-            <h3 class="text-center">Saturday's Speaker<h3>
-            <h2 class="text-center">Lowry Olafson</h2>
-            <h3 class="text-center">"If Not You, Then Who?"</h3>
-            <p class="lead">It is said that our sense of contribution is our strongest motivating force – that our deepest fulfillment comes when we connect the dots between the work we do each day and the greater contributions we want to make in the world. In this thought-provoking keynote, Lowry weaves stories and songs with a message that listening to our hearts and tuning into our life's purpose are both essential and achievable elements that make our work and our lives richly rewarding.</p>
+            <h3 class="text-center">Opening Keynote<h3>
+            <h2 class="text-center">Steve Curtis</h2>
+            <h3 class="text-center">"Living Beyond Imagination!"</h3>
+            <p class="lead">Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future.</p>
 
-            <p class="lead">Lowry Olafson is a performing songwriter and keynote speaker who has released nine albums and toured the globe. His concerts are peppered with stories that offer a window into his songs and invite listeners of all ages to connect to the stories of their own lives.</p>
-            
-            <p class="lead">For more information please visit <a href="http://lowryolafson.com" class="text-muted" target=_blank>Lowry's website</a>.</p>
+            <p class="lead">Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it. </p>
+          
+            <p class="text-center"><a href="keynotes.php#steve" class="btn-lg btn-register page-scroll">Read More</a></p>
         
         </div>
         <div class="padding50 hidden-lg hidden-md"></div>
    
         <div class="col-md-5 col-sm-offset-1 callout-black">
           
-          <img src="images/diane-headshot.jpg" class="img-circle center-block">
+          <img src="images/karen.jpg" class="img-circle center-block">
 
-          <h3 class="text-center">Sunday's Speaker<h3>
-          <h2 class="text-center">Diane Rolston</h2>
-          <h3 class="text-center">"Unleash Your Dynamic You™: Secrets to Success, Confidence & Leadership"</h3>
-          <p class="lead">Many people wish things could be different—that they could step into what they truly 
-          want and be more confident about it. They wish obstacles felt smaller and goals felt within reach. 
-          And they wish they had a reliable solution so nothing would get in their way.</p>
+          <h3 class="text-center">Saturday's Keynote<h3>
+          <h2 class="text-center">Karen McGregor</h2>
+          <h3 class="text-center">"The Power of a Courageous Message"</h3>
+          <p class="lead">Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future</p>
           
-          <p class="lead">Dynamic Women<sup>®</sup> and leadership expert, Diane Rolston, will share her powerful MOVEMENT 
-          to bring you not only the success you want but also the secret code to increase your influence, impact, 
-          and income. And the best part is you can apply it beyond your career to ALL areas of your life.</p>  
+          <p class="lead">Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it.</p>  
           
-          <p class="lead">As an award-winning coach, Diane empowers professionals to increase their clarity, 
-          confidence and action. The same will be true for you—at the end of Diane’s keynote, you’ll also have 
-          the tools to stop wishing and be unapologetically YOU.</p>
+         <p  class="text-center"><a href="keynotes.php#karen" class="btn-lg btn-register page-scroll">Read More</a></p>
          
-          <p class="lead">For more information please visit <a href="http://www.dianerolston.com" class="text-muted" target=_blank>Diane's website</a>.</p>
+         
         </div>
      
       </div>

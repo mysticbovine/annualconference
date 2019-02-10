@@ -12,12 +12,6 @@ $(function() {
 });
 
 $(document).ready(function(){
-  // Last updated
-  var x = document.lastModified;
-  document.getElementById("updated").innerHTML = x;
-});
-
-$(document).ready(function(){
   
 
 // vUnit  
@@ -160,3 +154,8 @@ function initMap() {
   map.setMapTypeId('map_style');
 }
 }
+$(document).ready(function(){
+  // Last updated
+  var x = document.lastModified;
+  document.getElementById("updated").innerHTML = x;
+});

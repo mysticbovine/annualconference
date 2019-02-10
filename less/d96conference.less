@@ -177,6 +177,11 @@ h1, h2, h3 {
 .less {
 	display: block;
 }
+.img-circle img, .img-circle {
+    border-radius: 50%;
+    border: 2px solid #772432;
+    margin: auto;
+  }
 // Nav Bar
 .navbar-default {
 /*	background-color: @blue;
@@ -305,9 +310,20 @@ h1, h2, h3 {
   float: none;
 	width: 100%;
 	overflow: hidden;
-	background: url("/images/image1.jpeg") #fff;
+	background: url("/images/clouds.jpg") #fff;
 	background-size: cover;
-	background-position: bottom;
+	background-position: top;
+  background-repeat: repeat-x;
+	position: relative;
+	height: 100%;
+}
+.keynotes-bg{
+  float: none;
+	width: 100%;
+	overflow: hidden;
+	background: url("/images/clouds.jpg") #fff;
+	background-size: cover;
+	background-position: top;
   background-repeat: repeat-x;
 	position: relative;
 	height: 100%;
@@ -555,18 +571,24 @@ blockquote {
 }
 // Body
 .keynote-bio {
-		position: relative;
-		background: @blue;
-		color: #fff;
-		margin-left: -30px;
-		padding: 5px 30px;
-		margin-bottom: 10px;
+		h2{
+      position: relative;
+      background: @blue;
+      color: #fff;
+
+      padding: 10px 30px;
+      margin-bottom: 10px;
+    }
 		span {
 			font-weight: 700;
 			font-size: 18px;
 			display: block;
 		}
+    img.img-circle{
+      max-width: 200px;
+    }
 	}
+
 	
 span.anchor {
 	position: absolute;

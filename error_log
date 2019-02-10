@@ -1,4 +1,0 @@
-[12-Dec-2017 23:45:07 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/alacarde/public_html/annualconference/index.php on line 70
-[12-Dec-2017 23:45:07 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alacarde/public_html/annualconference/index.php on line 70
-[13-Dec-2017 18:28:06 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/alacarde/public_html/annualconference/index.php on line 70
-[13-Dec-2017 18:28:06 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alacarde/public_html/annualconference/index.php on line 70
