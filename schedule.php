@@ -89,7 +89,7 @@
           <div class="views-field views-field-nothing">
             <div class="committee leader displayorder- ">
               <div class="img-circle center-block">
-                <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/Stevek.jpg" typeof="Image" width="250"></span>
+                <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/stevek.jpg" typeof="Image" width="250"></span>
               </div>
               <h4><span class="field-content">Steve Curtis</span></h4>
               <p>Investor, entrepreneur, adventurer and revolutionary thought leader</p>
@@ -144,7 +144,7 @@
                 <div class="views-field views-field-nothing">
                   <div class="committee leader displayorder- ">
                     <div class="img-circle center-block">
-                      <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/Stevek.jpg" typeof="Image" width="250"></span>
+                      <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/stevek.jpg" typeof="Image" width="250"></span>
                     </div>
                     <h4><span class="field-content">Steve Curtis</span></h4>
                     <p>Investor, entrepreneur, adventurer and revolutionary thought leader</p>

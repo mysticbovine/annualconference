@@ -90,7 +90,7 @@
       <div class="row">
         <div class="col-md-5 col-sm-offset-1 callout-black">
           
-          <img src="images/Stevek.jpg" class="img-circle center-block">
+          <img src="images/stevek.jpg" class="img-circle center-block">
          
             <h3 class="text-center">Opening Keynote<h3>
             <h2 class="text-center">Steve Curtis</h2>
