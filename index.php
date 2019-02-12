@@ -111,9 +111,10 @@
           <h3 class="text-center">Saturday's Keynote<h3>
           <h2 class="text-center">Karen McGregor</h2>
           <h3 class="text-center">"The Power of a Courageous Message"</h3>
-          <p class="lead">Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future</p>
+          <p class="lead">Karen McGregor is a bestselling author, international speaker, coach, trainer and the founder/CEO of the Speaker Success Formula.</p>
           
-          <p class="lead">Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it.</p>  
+          <p class="lead">As a speaker she has graced the stage with Deepak Chopra, Loral Langemeier, Brendon Burchard, Marci Schimoff and other world influencers.</p>  
+          <p class="lead">As a trainer, coach and lead facilitator of the Speaker Success Formula, Karen attracts a wide range of clients from Olympic athletes, health experts, elite artists, and musicians to coaches, financial advisors, real estate experts, bestselling and aspiring authors.</p>  
           
          <p  class="text-center"><a href="keynotes.php#karen" class="btn-lg btn-register page-scroll">Read More</a></p>
          
