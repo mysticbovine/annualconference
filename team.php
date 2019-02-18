@@ -365,6 +365,16 @@
             Program Coordinator - Design &amp; Printing</span></h4><span class="field-content"><br></span>
           </div><span class="field-content"></span>
         </div>
+        <div class="views-field views-field-nothing">
+          <span class="field-content"></span>
+          <div class="committee leader displayorder-">
+            <span class="field-content"></span>
+            <div class="img-circle center-block">
+              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Allyza.jpg" typeof="Image" width="200"></span>
+            </div><span class="field-content"></span>
+            <h4><span class="field-content">Allyza Gutlay<br>Stage Manager</span></h4><span class="field-content"><a href="mailto:allyza.gutlay@gmail.com">allyza.gutlay@gmail.com</a><br></span>
+          </div><span class="field-content"></span>
+        </div>
       </div>
     </div>
     <div class="view-header">
@@ -397,6 +407,10 @@
         </div>
       </div>
     </div>
+    
+    
+    
+    
     </div>
 
 
