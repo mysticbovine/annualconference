@@ -946,18 +946,6 @@ section#contact, .form {
 .path-leaders,
 .schedule,
 .path-district-director-team {
-  /* role-92 = all division directors */
-  /* role-93 = all area directors */
-  .leader {
-    width: 250px;
-    text-align: center; 
-    margin: 10px auto;
-  } 
-  .leadermain {
-    width: 200px;
-    text-align: center; 
-    margin: 10px auto;
-  }
   h3 { 
     margin-top: 30px;
     border-bottom: 1px solid #ccc;
@@ -967,6 +955,30 @@ section#contact, .form {
     border-radius: 5px;
     text-align: center;
   }
+}
+
+.path-leaders,
+.schedule,
+.ed-speakers,
+.path-district-director-team {
+  /* role-92 = all division directors */
+  /* role-93 = all area directors */
+  .leader {
+    width: 250px;
+    text-align: center; 
+    margin: 10px auto;
+  }
+  .name {
+    font-weight: 100;
+    display: block;
+    margin-top: 10px;
+  }  
+  .leadermain {
+    width: 200px;
+    text-align: center; 
+    margin: 10px auto;
+  }
+  
   .img-circle img {
     border-radius: 50%;
     border: 2px solid #772432;
@@ -1035,7 +1047,15 @@ section#contact, .form {
     align-self: auto;
   }
 }
-
+.ed-speakers{
+  .leader {
+    width: 25%;
+    min-width: 300px;    
+  }
+  h4 {
+    padding: 0 25px;
+  }
+}
 
 /* Bootstrap carosel*/
 .carousel-control 			 { width:  4%; }

@@ -147,7 +147,7 @@
 						<p class="lead">Session 1 - 9:00 am</p>
 					</div>
 				</div>
-				<div class="ed-speakers row">
+				<div class="ed-speakers row blue-bg faded">
 					<div class="col-xs-4 bio">
 						<div class="blue-bg text-center"><b>Communication</b><br />Ballroom 1</div>
 						<a href="#sheilac" class="page-scroll">

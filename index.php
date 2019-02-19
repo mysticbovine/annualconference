@@ -114,7 +114,7 @@
           <p class="lead">Karen McGregor is a bestselling author, international speaker, coach, trainer and the founder/CEO of the Speaker Success Formula.</p>
           
           <p class="lead">As a speaker she has graced the stage with Deepak Chopra, Loral Langemeier, Brendon Burchard, Marci Schimoff and other world influencers.</p>  
-          <p class="lead">As a trainer, coach and lead facilitator of the Speaker Success Formula, Karen attracts a wide range of clients from Olympic athletes, health experts, elite artists, and musicians to coaches, financial advisors, real estate experts, bestselling and aspiring authors.</p>  
+          <p class="lead">As a trainer, coach and lead facilitator of the Speaker Success Formula, Karen attracts a wide range of clients.</p>  
           
          <p  class="text-center"><a href="keynotes.php#karen" class="btn-lg btn-register page-scroll">Read More</a></p>
          
@@ -125,102 +125,119 @@
     </div>
   </div>
   <div id="education" class="container-fluid">
-		<div class="ed-speakers row">
-		<div class="col-sm-12 bg-primary text-center">
+		<div class="ed-speakers row bg-blue faded">
+      <div class="col-sm-12 bg-primary text-center">
 				<h2>Our Education Session Speakers</h2>	
 				<h3 class="text-white text-muted">Sessions to increase your Communication, Leadership and Personal Development skills.</h3>
         <p class="text-white text-muted">For more information on the presentations please click the their images.</p>
 			</div>
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#traceyp" class="page-scroll">
-					<div class="grow pic">					
-							<img src="images/traceyp.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>Gratitude is the Key to Optimism, Health and Happiness
-					<span class="name">Tracey Purvis</span></p>
-				</div>
-			</div>
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#gerardp" class="page-scroll">
-					<div class="grow pic">					
-							<img src="images/gerardp.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>How to Effectively Apply Toastmasters Skills in Your Workplace 
-					<span class="name">Gerard Pietrykiewicz DTM</span>	</p>
-				</div>
-			</div>
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#neilas" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/neilas.jpg" class="img-responsive center-block" alt="">
-					</div>
-				</a>
-				<div class="session">
-					<p>Training is a Show<span class="name">Neila Scott DTM</span></p>
-				</div>
-			</div>		
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#samm" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/samm.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>How to Create Deeper Connections
-					<span class="name">Sam Middlewood</span></p>
-				</div>
-			</div>	
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#ainaa" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/ainaa.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>How to Apply “Agile” Thinking to Everyday Leadership
-					<span class="name">Aina Aliieva DTM</span></p>
-					</div>
-			</div>			
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#reneej" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/reneej.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>How to Construct Presentations that Win Collaboration
-					<span class="name">Renee Jacobs DTM</span></p>
-				</div>
-			</div>
-						
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#sheilac" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/sheilac.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>Why Don’t You?
-					<span class="name">Sheila Cameron DTM</span></p>
-				</div>
-			</div>
-			
-			<div class="col-sm-3 col-xs-6 bio">
-				<a href="educations.php#davidf" class="page-scroll">
-					<div class="grow pic">					
-						<img src="images/davidf.jpg" class="img-responsive center-block">
-					</div>
-				</a>
-				<div class="session">
-					<p>Create World Changing Connections through Vulnerability, Storytelling, and Influence
+    
+        <div class="committee leader ">
+          <a href="educations.php#traceyp" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/traceyp.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+           Gratitude is the Key to Optimism, Health and Happiness<br>
+            <span class="name">Tracey Purvis</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#gerardp" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/gerardp.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+            How to Effectively Apply Toastmasters Skills in Your Workplace<br>
+            <span class="name">Gerard Pietrykiewicz DTM</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#neilas" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/neilas.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+            Training is a Show<br>
+            <span class="name">Neila Scott DTM</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#samm" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Sam Middlewood" class="img-responsive" height="200" src="images/samm.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+            How to Create Deeper Connections<br>
+            <span class="name">Sam Middlewood</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#ainaa" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Aina Aliieva DTM" class="img-responsive" height="200" src="images/ainaa.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+            How to Apply “Agile” Thinking to Everyday Leadership<br>
+            <span class="name">Aina Aliieva DTM</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#reneej" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Renee Jacobs DTM" class="img-responsive" height="200" src="images/reneej.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+           How to Construct Presentations that Win Collaboration<br>
+            <span class="name">Renee Jacobs DTM</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#sheilac" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Sheila Cameron DTM" class="img-responsive" height="200" src="images/sheilac.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+           Why Don’t You?<br>
+            <span class="name">Sheila Cameron DTM</span>
+          </h4>
+        </div>
+        <div class="committee leader ">
+          <a href="educations.php#davidf" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="David Fischer" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4> 
+            Create World Changing Connections through Vulnerability, Storytelling, and Influence<br>
+            <span class="name">David Fischer</span>
+          </h4>
+        </div>
 
-					<span class="name">David Fischer</span></p>
-				</div>
-			</div>      
+		    
 			
 		</div>
 	</div>	
