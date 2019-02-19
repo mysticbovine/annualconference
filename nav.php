@@ -39,7 +39,14 @@
 				<li class="hidden"><a href="live_auction.php">Live Auction</a></li>
 			  </ul>
 			</li>
-      <li class=""><a href="keynotes.php">Keynotes</a></li>
+      <li class="dropdown">
+         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li class=""><a href="keynotes.php">Keynotes</a></li>	
+            <li class=""><a href="educations.php">Education Sessions</a></li>	
+          </ul>
+      </li>
+      <li class="hidden"><a href="keynotes.php">Keynotes</a></li>
       <li class="hidden"><a href="sponsors.php">Our Sponsors</a></li>
 			<li class="dropdown hidden">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsors <span class="caret"></span></a>

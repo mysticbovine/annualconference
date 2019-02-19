@@ -124,79 +124,103 @@
       </div>
     </div>
   </div>
-  <div id="education" class="container-fluid hidden">
+  <div id="education" class="container-fluid">
 		<div class="ed-speakers row">
 		<div class="col-sm-12 bg-primary text-center">
 				<h2>Our Education Session Speakers</h2>	
 				<h3 class="text-white text-muted">Sessions to increase your Communication, Leadership and Personal Development skills.</h3>
+        <p class="text-white text-muted">For more information on the presentations please click the their images.</p>
 			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#noelb" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#traceyp" class="page-scroll">
 					<div class="grow pic">					
-							<img src="images/noelb.jpg" class="img-responsive center-block">
+							<img src="images/traceyp.jpg" class="img-responsive center-block">
 					</div>
 				</a>
 				<div class="session">
-					<p>Funny. You Should Say That.
-					<span class="name">Noel Bentley</span></p>
+					<p>Gratitude is the Key to Optimism, Health and Happiness
+					<span class="name">Tracey Purvis</span></p>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#sabahatn" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#gerardp" class="page-scroll">
 					<div class="grow pic">					
-							<img src="images/sabahatn.jpg" class="img-responsive center-block">
+							<img src="images/gerardp.jpg" class="img-responsive center-block">
 					</div>
 				</a>
 				<div class="session">
-					<p>The Four A's of Self-Leadership 
-					<span class="name">Sabahat Naureen</span>	</p>
+					<p>How to Effectively Apply Toastmasters Skills in Your Workplace 
+					<span class="name">Gerard Pietrykiewicz DTM</span>	</p>
 				</div>
 			</div>
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#azedehy" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#neilas" class="page-scroll">
 					<div class="grow pic">					
-						<img src="images/azadehy.jpg" class="img-responsive center-block" alt="">
+						<img src="images/neilas.jpg" class="img-responsive center-block" alt="">
 					</div>
 				</a>
 				<div class="session">
-					<p>Your ONE IDEA - The Key to Your Success
-					<span class="name">Azadeh Yaraghi</span></p>
+					<p>Training is a Show<span class="name">Neila Scott DTM</span></p>
 				</div>
 			</div>		
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#rifah" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#samm" class="page-scroll">
 					<div class="grow pic">					
-						<img src="images/rifah.jpg" class="img-responsive center-block">
+						<img src="images/samm.jpg" class="img-responsive center-block">
 					</div>
 				</a>
 				<div class="session">
-					<p>Energy Behind Communication
-					<span class="name">Rifa Hodgson</span></p>
+					<p>How to Create Deeper Connections
+					<span class="name">Sam Middlewood</span></p>
 				</div>
 			</div>	
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#sharookhd" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#ainaa" class="page-scroll">
 					<div class="grow pic">					
-						<img src="images/sharookhd.jpg" class="img-responsive center-block">
+						<img src="images/ainaa.jpg" class="img-responsive center-block">
 					</div>
 				</a>
 				<div class="session">
-					<p>Risk Not, Have Not!
-					<span class="name">Sharookh Daroowala</span></p>
+					<p>How to Apply “Agile” Thinking to Everyday Leadership
+					<span class="name">Aina Aliieva DTM</span></p>
 					</div>
 			</div>			
-			<div class="col-md-2 col-sm-4 col-xs-6 bio">
-				<a href="educations.php#terih" class="page-scroll">
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#reneej" class="page-scroll">
 					<div class="grow pic">					
-						<img src="images/terih.jpg" class="img-responsive center-block">
+						<img src="images/reneej.jpg" class="img-responsive center-block">
 					</div>
 				</a>
 				<div class="session">
-					<p>How to Achieve More of What You Want in Life
-					<span class="name">Teri Holland</span></p>
+					<p>How to Construct Presentations that Win Collaboration
+					<span class="name">Renee Jacobs DTM</span></p>
 				</div>
 			</div>
-				
+						
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#sheilac" class="page-scroll">
+					<div class="grow pic">					
+						<img src="images/sheilac.jpg" class="img-responsive center-block">
+					</div>
+				</a>
+				<div class="session">
+					<p>Why Don’t You?
+					<span class="name">Sheila Cameron DTM</span></p>
+				</div>
+			</div>
+			
+			<div class="col-sm-3 col-xs-6 bio">
+				<a href="educations.php#davidf" class="page-scroll">
+					<div class="grow pic">					
+						<img src="images/davidf.jpg" class="img-responsive center-block">
+					</div>
+				</a>
+				<div class="session">
+					<p>Create World Changing Connections through Vulnerability, Storytelling, and Influence
+
+					<span class="name">David Fischer</span></p>
+				</div>
+			</div>      
 			
 		</div>
 	</div>	

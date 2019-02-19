@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Education Sessions | Spring 2018 Conference | District 96 Toastmasters</title>
+    <title>Education Sessions | Annual Conference 2019 | District 96 Toastmasters</title>
 
-	<meta name="author" content="Rob Evans ACS, ALB, Rocky Coast Creative, www.rockycoastcreative.ca">
+	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/d96conference.css" rel="stylesheet">
 
 	<!-- Custom Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
-
+  <script src="https://use.fontawesome.com/27d80a9134.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -37,102 +37,148 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
 	<meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class=" bg-yellow faded">
+  <body class=" bg-blue faded">
     <?php include("nav.php");?>
 	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
 	<div class="container body">
 		<div class="row">
       <div class="col-sm-12 text-center">
-        <h1 class="page-header">Education Session Presenters</h1>
+        <h1 class="page-header">Education Session</h1>
       </div>
 		</div>
     <div class="sessions hidden-xs">
 				<div class="row blue-bg text-center">
 					<div class="col-xs-12">
-						<h2>9 AM Education Sessions</h2>
-						<p class="lead">Clicking the image will give you more information about the session and speaker to help you choose which one to attend.</p>
+						<h2>Saturday, March 30</h2>
+						<p class="lead">Session 1 - 10:30 am</p>
 					</div>
 				</div>
 				<div class="ed-speakers row">
 					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Communication</b></div>
-						<a href="#noelb" class="page-scroll">
+						<div class="blue-bg text-center"><b>Professional Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 1</div>
+						<a href="#traceyp" class="page-scroll">
 						<div class="grow pic">					
-								<img src="images/noelb.jpg" class="img-responsive center-block">
+								<img src="images/traceyp.jpg" class="img-responsive center-block">
 						</div>
 						</a>
 						<div class="title">
-							<p>Funny. You Should Say That
-							<span class="name">Noel Bentley</span></p>
+							<p>Gratitude is the Key to Optimism, Health and Happiness
+
+							<span class="name">Tracey Purvis</span></p>
 						</div>
 					</div>
 					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Leadership</b></div>
-						<a href="#sabahatn" class="page-scroll">
+						<div class="blue-bg text-center"><b>Leadership</b><br />Ballroom 2</div>
+						<a href="#gerardp" class="page-scroll">
 						<div class="grow pic">					
-								<img src="images/sabahatn.jpg" class="img-responsive center-block">
+								<img src="images/gerardp.jpg" class="img-responsive center-block">
 						</div></a>
 						<div class="title">
-							<p>The Four A's of Self-Leadership 
-							<span class="name">Sabahat Naureen</span></p>
+							<p>How to Effectively Apply Toastmasters Skills in Your Workplace 
+							<span class="name">Gerard Pietrykiewicz DTM</span></p>
 						</div>
 					</div>
 					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Professional Dev<span class="hidden-xs">elopment</span></b></div>
-						<a href="#azadehy" class="page-scroll">
+						<div class="blue-bg text-center"><b>Communication</span></b><br />Ballroom 3</div>
+						<a href="#neilas" class="page-scroll">
 						<div class="grow pic">					
-								<img src="images/azadehy.jpg" class="img-responsive center-block">
+								<img src="images/neilas.jpg" class="img-responsive center-block">
 						</div>
 						</a>
 						<div class="title">
-							<p>Your ONE IDEA 
-							<span class="name">Azadeh Yaraghi </span></p>
+							<p>Training is a Show 
+							<span class="name">Neila Scott DTM
+ </span></p>
 						</div>
 						
 						
 					</div>
 				</div>
-				
+				<div class="row blue-bg text-center">
+					<div class="col-xs-12">
+						
+						<p class="lead">Session 2 - 11:30 am</p>
+					</div>
+				</div>
+				<div class="ed-speakers row">
+					<div class="col-xs-4 bio">
+						<div class="blue-bg text-center"><b>Professional Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 1</div>
+						<a href="#samm" class="page-scroll">
+						<div class="grow pic">					
+								<img src="images/samm.jpg" class="img-responsive center-block">
+						</div>
+						</a>
+						<div class="title">
+							<p>How to Create Deeper Connections
+							<span class="name">Sam Middlewood</span></p>
+						</div>
+					</div>
+					<div class="col-xs-4 bio">
+						<div class="blue-bg text-center"><b>Leadership</b><br />Ballroom 2</div>
+						<a href="#ainaa" class="page-scroll">
+						<div class="grow pic">					
+								<img src="images/ainaa.jpg" class="img-responsive center-block">
+						</div></a>
+						<div class="title">
+							<p>How to Apply "Agile" Thinking to Everyday Leadership
+							<span class="name">Aina Aliieva DTM</span></p>
+						</div>
+					</div>
+					<div class="col-xs-4 bio">
+						<div class="blue-bg text-center"><b>Communication</span></b><br />Ballroom 3</div>
+						<a href="#reneej" class="page-scroll">
+						<div class="grow pic">					
+								<img src="images/reneej.jpg" class="img-responsive center-block">
+						</div>
+						</a>
+						<div class="title">
+							<p>How to Construct Presentations that Win Collaboration
+							<span class="name">Renee Jacobs DTM</span></p>
+						</div>
+						
+						
+					</div>
+				</div>
 				
 				<div class="row blue-bg text-center">
 					<div class="col-sm-12">
-						<h2>10:30 AM Education Sessions</h2>
-						<p class="lead">Clicking the image will give you more information about the session and speaker to help you choose which one to attend.</p>
+						<h2>Sunday March 31</h2>
+						<p class="lead">Session 1 - 9:00 am</p>
 					</div>
 				</div>
 				<div class="ed-speakers row">
 					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Communication</b></div>
-						<a href="#rifah" class="page-scroll">
+						<div class="blue-bg text-center"><b>Communication</b><br />Ballroom 1</div>
+						<a href="#sheilac" class="page-scroll">
 						<div class="grow pic">					
-								<img src="images/rifah.jpg" class="img-responsive center-block">
+								<img src="images/sheilac.jpg" class="img-responsive center-block">
 						</div></a>
 						<div class="title">
-							<p>Energy Behind Communication 
-							<span class="name">Rifa Hodgson</span>	</p>
+							<p>Why Don’t You?
+							<span class="name">Sheila Cameron DTM</span>	</p>
 						</div>
 					</div>
 					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Leadership</b></div>
-						<a href="#sharookhd" class="page-scroll">
+						<div class="blue-bg text-center"><b>Personal Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 2</div>
+						<a href="#davidf" class="page-scroll">
 						<div class="grow pic">					
-							<img src="images/sharookhd.jpg" class="img-responsive center-block">
+							<img src="images/davidf.jpg" class="img-responsive center-block">
 						</div></a>
 						<div class="title">
-							<p>Risk Not, Have Not!
-							<span class="name">Sharookh Daroowala</span></p>
+							<p>Create World Changing Connections through Vulnerability, Storytelling, and Influence
+							<span class="name">David Fischer</span></p>
 						</div>
 					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Personal Dev<span class="hidden-xs">elopment</span></b></div>
-						<a href="#terih" class="page-scroll">
+					<div class="col-xs-4 bio ">
+						<div class="blue-bg text-center"><b>&nbsp;</b><br />&nbsp;</div>
+						
 						<div class="grow pic">					
-							<img src="images/terih.jpg" class="img-responsive center-block">
+							&nbsp;
 						</div></a>
 						<div class="title">
-							<p><span class="hidden-xs"> How to </span>Achieve More of What You Want in Life
-							<span class="name">Teri Holland</span></p>
+							<p><span class="hidden-xs">
+							<span class="name"></span></p>
 						</div>
 					</div>
 				</div>
