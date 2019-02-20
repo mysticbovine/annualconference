@@ -39,6 +39,7 @@
           box-sizing: border-box;
 }
 body {
+  font-size: 16px;
 	padding-top: 100px;
 }
 // Row style
@@ -381,6 +382,7 @@ h1, h2, h3 {
     -webkit-align-self: auto;
     -ms-flex-item-align: auto;
     align-self: auto;
+    z-index: 2;
   }
   .description{
     position: absolute;
@@ -433,15 +435,22 @@ h1, h2, h3 {
 }
 // Testimonials
 blockquote {
-    font-size:18px; 
-	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    padding:18px 20px 1px 20px;
-    margin-left:3px; 
-    margin-bottom:40px;
-	border: none;
-    color: @red;
-	&:before {
-		color: @red;
+   font-size: 22px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 18px 20px 1px;
+    margin-left: auto;
+    margin-bottom: 40px;
+    border: none;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+    b {  
+      display: block;
+      
+    }
+
+	&.off:before {
+
 		font-size: 30px;
 		line-height: 0.5em;
 		margin-right: 0.27em;
@@ -509,7 +518,7 @@ blockquote {
 		
 	.bio {
 		
-		background: darken(@yellow, 25);
+		//background: darken(@yellow, 25);
 		color: #000;
 		display: block; 
 	
@@ -614,7 +623,7 @@ span.anchor {
 
 	.title {
 		padding: 10px;
-		background: darken(@yellow, 25);
+		//background: darken(@yellow, 25);
 		color: #000;
 		
 		font-size: 16px;
@@ -628,12 +637,31 @@ span.anchor {
 }
 .ed-session-bios{
 	h2 {
-			padding: 15px;
-			span {
-				display: block;
-				font-weight: 100;
-			}
-		}
+    padding: 15px 0;
+    span {
+      display: block;
+      font-weight: 100;
+    }
+    .date {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    &.blue-bg{
+    padding: 15px;
+    }
+  }
+}
+.ed-session{
+  .table {
+    background-color: #fff;
+    thead {
+      background-color: @blue;
+      color: #fff;
+    }
+    .btn {
+      margin-top: 10px;
+    }
+  }
 }
 .blue-bg {
 	color: #fff;

@@ -41,281 +41,414 @@
     <?php include("nav.php");?>
 	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
-	<div class="container body">
+	<div class="container body ed-session">
 		<div class="row">
       <div class="col-sm-12 text-center">
         <h1 class="page-header">Education Session</h1>
       </div>
 		</div>
-    <div class="sessions hidden-xs">
-				<div class="row blue-bg text-center">
-					<div class="col-xs-12">
-						<h2>Saturday, March 30</h2>
-						<p class="lead">Session 1 - 10:30 am</p>
-					</div>
-				</div>
-				<div class="ed-speakers row">
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Professional Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 1</div>
-						<a href="#traceyp" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/traceyp.jpg" class="img-responsive center-block">
-						</div>
-						</a>
-						<div class="title">
-							<p>Gratitude is the Key to Optimism, Health and Happiness
+    <span class="anchor" id="top"></span>
+    <table class="table table-striped table-hover white-bg">
+  <thead>
+    <tr>
+      <th width="150px">Session</th>
+      <th>Personal Development<br />Ballroom 1</th>
+      <th>Leadership Development<br />Ballroom 2</th>
+      <th>Communications Development<br />Ballroom 3</th>
+    </tr>
+  </thead>
 
-							<span class="name">Tracey Purvis</span></p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Leadership</b><br />Ballroom 2</div>
-						<a href="#gerardp" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/gerardp.jpg" class="img-responsive center-block">
-						</div></a>
-						<div class="title">
-							<p>How to Effectively Apply Toastmasters Skills in Your Workplace 
-							<span class="name">Gerard Pietrykiewicz DTM</span></p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Communication</span></b><br />Ballroom 3</div>
-						<a href="#neilas" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/neilas.jpg" class="img-responsive center-block">
-						</div>
-						</a>
-						<div class="title">
-							<p>Training is a Show 
-							<span class="name">Neila Scott DTM
- </span></p>
-						</div>
-						
-						
-					</div>
-				</div>
-				<div class="row blue-bg text-center">
-					<div class="col-xs-12">
-						
-						<p class="lead">Session 2 - 11:30 am</p>
-					</div>
-				</div>
-				<div class="ed-speakers row">
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Professional Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 1</div>
-						<a href="#samm" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/samm.jpg" class="img-responsive center-block">
-						</div>
-						</a>
-						<div class="title">
-							<p>How to Create Deeper Connections
-							<span class="name">Sam Middlewood</span></p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Leadership</b><br />Ballroom 2</div>
-						<a href="#ainaa" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/ainaa.jpg" class="img-responsive center-block">
-						</div></a>
-						<div class="title">
-							<p>How to Apply "Agile" Thinking to Everyday Leadership
-							<span class="name">Aina Aliieva DTM</span></p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Communication</span></b><br />Ballroom 3</div>
-						<a href="#reneej" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/reneej.jpg" class="img-responsive center-block">
-						</div>
-						</a>
-						<div class="title">
-							<p>How to Construct Presentations that Win Collaboration
-							<span class="name">Renee Jacobs DTM</span></p>
-						</div>
-						
-						
-					</div>
-				</div>
-				
-				<div class="row blue-bg text-center">
-					<div class="col-sm-12">
-						<h2>Sunday March 31</h2>
-						<p class="lead">Session 1 - 9:00 am</p>
-					</div>
-				</div>
-				<div class="ed-speakers row blue-bg faded">
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Communication</b><br />Ballroom 1</div>
-						<a href="#sheilac" class="page-scroll">
-						<div class="grow pic">					
-								<img src="images/sheilac.jpg" class="img-responsive center-block">
-						</div></a>
-						<div class="title">
-							<p>Why Don’t You?
-							<span class="name">Sheila Cameron DTM</span>	</p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio">
-						<div class="blue-bg text-center"><b>Personal Dev<span class="hidden-xs">elopment</span></b><br />Ballroom 2</div>
-						<a href="#davidf" class="page-scroll">
-						<div class="grow pic">					
-							<img src="images/davidf.jpg" class="img-responsive center-block">
-						</div></a>
-						<div class="title">
-							<p>Create World Changing Connections through Vulnerability, Storytelling, and Influence
-							<span class="name">David Fischer</span></p>
-						</div>
-					</div>
-					<div class="col-xs-4 bio ">
-						<div class="blue-bg text-center"><b>&nbsp;</b><br />&nbsp;</div>
-						
-						<div class="grow pic">					
-							&nbsp;
-						</div></a>
-						<div class="title">
-							<p><span class="hidden-xs">
-							<span class="name"></span></p>
-						</div>
-					</div>
-				</div>
-			
-			</div>
+  <tbody>	
+    <tr>
+      <td colspan="4" class="bg-blue faded"><h3>Saturday, March 30</h3></td>
+    </tr>
+    <tr>
+      <td>Session 1</td>
+      <td><b>Tracey Purvis</b></td>
+      <td><b>Gerard Pietrykiewicz DTM</b></td>
+      <td><b>Neila Scott DTM</b></td>
+    <tr>
+      <td></td>
+      <td>Gratitude is the Key to Optimism, Health and Happiness<br /><a href="#traceyp" class="page-scroll btn btn-primary">Read More</a></td>
+      <td>How to Effectively Apply Toastmasters Skills in Your Workplace<br /><a href="#gerardp" class="page-scroll btn btn-primary">Read More</a></td>
+      <td>Training is a Show<br /><a href="#neilas" class="page-scroll btn btn-primary">Read More</a></td>
+    </tr>
+    <tr>
+      <td>Session 2</td>
+      <td><b>Sam Middlewood</b></td>
+      <td><b>Aina Aliieva DTM</b></td>
+      <td><b>Renee Jacobs DTM</b></td>    
+    </tr>
+    <tr>
+      <td></td>
+      <td>How to Create Deeper Connections<br /><a href="#samm" class="page-scroll btn btn-primary">Read More</a></td>
+      <td>How to Apply “Agile” Thinking to Everyday Leadership<br /><a href="#ainaa" class="page-scroll btn btn-primary">Read More</a></td>
+      <td>How to Construct Presentations that Win Collaboration<br /><a href="#reneej" class="page-scroll btn btn-primary">Read More</a></td>
+    </tr>
+    <tr>
+      <td colspan="4"  class="bg-blue faded"><h3>Sunday, March 31</h3></td>
+    </tr>
+        <tr>
+      <td>Session 3</td>
+      <td><b>Sheila Cameron DTM</b></td>
+      <td><b>David Fischer</b></td>
+      <td></td>    
+    </tr>
+    <tr>
+      <td></td>
+      <td>Why Don’t You?
+<br /><a href="#sheilac" class="page-scroll btn btn-primary">Read More</a></td>
+      <td>Create World Changing Connections through Vulnerability, Storytelling, and Influence
+<br /><a href="#davidf" class="page-scroll btn btn-primary">Read More</a></td>
+      </td>
+       <td></td>
+    </tr>
+  </tbody>
+</table>
 		<div class="row ed-session-bios">
 			<!-- Bio -->	
 			<div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="noelb"></span>Funny. You Should Say That.<br />
-				<span>Noel Bentley</span></h2>
+			<h2 class="blue-bg"><span class="anchor" id="traceyp"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 1</span>
+        Personal Development Track</h2>
 			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/noelb.jpg" class="img-responsive img-thumbnail"></p>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#traceyp" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/traceyp.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+           Tracey Purvis<br>
+            <span class="name"></span>
+          </h4>
+        </div>
 			</div>
-			<div class="col-sm-9">
-				<p class="lead">Do you want to have fun and improve your quality of life in and outside of Toastmasters? </p>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>Gratitude is the Key to Optimism, Health and Happiness</h2>
 
-				<p>Then add more humour. Yes, you can do it. The best way to get started is to attend this session. Why invest 45 minutes of your life here? Because we’re going to bust the myths and give you the foundations of humorous presentations and speaking.</p>
-        <p> But wait, there’s more! We’ll show you how to include humour in any speech. Act now and we’ll give you the secret to great Toastmasters meetings and member satisfaction (Hint: It’s not boredom). As a special bonus you’ll leave with ready-made meeting plans and other tools. Warning: Missing this educational may result in regret and gnashing of teeth. Take the first step and sign up today.</p>			 
+        <ul>
+          <li>Understand the relationship between gratitude, optimism and happiness.</li>
+          <li>Explore benefits of gratitude on health and wellness.</li>
+          <li>Identify ways to incorporate gratitude into daily life.</li>
+        </ul>
 
-				<h3>About Noel</h3>
-        <p>Noel is an avid speaker who specializes in humorous and educational performances. His creative approach to presentations almost guarantees that his audiences will experience something fresh, entertaining, and memorable. After seven years of Toastmasters he decided to co-found Funny Bone, a club dedicated to comical performances. Noel has appeared in front of audiences as a trainer, emcee, storyteller and comedian and is currently writing a humour anthology. Other passions include photography and volunteering; he hopes to combine them into an art program this coming fall.</p>	
+        <p>It’s easy to be optimistic when the sun is shining, your relationships are rewarding, and you’re healthy… But, what happens when we lose our job or a loved one, break a leg or get overwhelmed by life’s challenges, as we all do from time to time. Thoughts like “Why is this happening to me?” “Why me?” or “What did I do to deserve this?” send us spiralling downward into negative victim-land where it’s dark and lonely. It doesn’t have to be this way. Instead of despairing and wondering if there’s light at the end of the tunnel, you can overcome the darkness with your own light; a torch called Gratitude that will always show you the way!</p>
+
+        <p>Tracey Purvis has a passion for helping and serving others. She has over 20 years experience in health care as a registered psychiatric nurse in a wide range of settings.
+        As a “brain tumour and 4x brain surgery” survivor, Tracey knows what overcoming adversity is all about. As a speaker, she wants to share that with the world, to inspire those that struggle with their own adversities, to see beyond their obstacles and count their blessings.</p>
+        <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+   
 			</div>
 			<!-- Bio -->	
 			<div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="sabahatn"></span>The Four A's of Self-Leadership<br />
-				<span>Sabahat Naureen</span></h2>
+			<h2 class="blue-bg"><span class="anchor" id="gerardp"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 2</span>
+        Leadership Track</h2>
 			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/sabahatn.jpg" class="img-responsive img-thumbnail"></p>
-			</div>
-			<div class="col-sm-9">
-				<p class="lead">True leadership starts with mastering your SELF first, and then understanding how to use your individual values, strengths and experiences to your advantage.</p>
-        <p>In this session, you will learn a unique proprietary model that can be used as a navigational compass to help you advance toward (and sustain!) any big life transformation—whether it be accelerating your career, starting a passion-centric business or enriching your life with healthy habits.</p>
-				<p>This will be a hands-on workshop. Come prepared with one big change you want to make in your life. We will map it out together using the Four As model, and you will not only go home with a deeper understanding of yourself, but also an ACTION PLAN to set you up for continued success! </p>		 
- 
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#gerardp" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/gerardp.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+           Gerard Pietrykiewicz DTM
 
-				<h3>About Sabahat</h3>
-        <p>Sabahat Naureen is a Certified Executive Coach on a mission to help individuals take control and become the CEOs of their life! Known for her energetic disposition and propensity to inspire action, she has coached entrepreneurs, engineers, and executives on the virtues of values-based leadership. Visit <a href="http://www.sabahatnaureen.com">her website</a> to learn more about Sabahat.</p>	
+<br>
+            <span class="name">Golden Speakers Toastmasters</span>
+          </h4>
+        </div>
 			</div>
-		
-			<!-- END -->
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>How to Effectively Apply ToastmastersSkills in Your Workplace</h2>
+
+        <ul>
+          <li>Apply Toastmasters skills at any organization</li>
+          <li>Empower people at any level of any organization</li>
+          <li>Practical ways to implement your leadership skills</li>
+        </ul>
+
+        <p>Gerard Pietrykiewicz is an experienced Toastmaster, Leader and Project Manager with long experience in the IT sector. 
+</p>
+
+        <p>Born in Poland, he immigrated to Canada in 2012, where he established himself as a mentor for his colleagues from multiple Toastmasters Clubs, but also to attendees of his Mastermind Group.</p>
+        <p>Currently he works as a Project Director for a technology company producing software for the mortgage sector in Canada. In his spare time, he loves listening to audiobooks, traveling the world, and enjoys fine dining.</p>
+          <blockquote>
+            <b>It is easy to implement all the skills 
+            we learn at Toastmasters meetings </b>
+            in your professional life, once you know how.
+          </blockquote>
+          <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+   
+			</div>
       <!-- Bio -->	
 			<div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="azadehy"></span>Your ONE IDEA &mdash; The Key to Your Success.<br />
-				<span>Azadeh Yaraghi</span></h2>
+			<h2 class="blue-bg"><span class="anchor" id="neilas"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 3</span>
+        Communication Track</h2>
 			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/azadehy.jpg" class="img-responsive img-thumbnail"></p>
-			</div>
-			<div class="col-sm-9">
-				<p class="lead">Being an entrepreneur means that one is on a constant journey of self and business discovery.</p>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#neilas" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Tracey Purvis" class="img-responsive" height="200" src="images/neilas.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+           Neila Scott DTM
 
-				<p>Entrepreneurs are asked to step outside their comfort zone, to take on challenges, learn new things, and reach greater heights. In order to achieve success, they must build their brand in a way that speaks of who they are authentically and one that attracts their ideal clients. The biggest risk is when they do not know how to do this well and miss opportunity after opportunity.</p>
-        <p>Contradictory to popular belief, branding is not your logo, website, or marketing collateral. Understanding the true definition of branding will ignite how entrepreneurs can use it to their advantage. Introducing the out-of- the-box idea that a business's clients or customers are not buying products or services from the business. What they are in fact buying is an idea and a brand promise. Often, entrepreneurs make the mistake of focusing too much on their own end-game and forget to turn the focus on the perspective of their ideal target market. Discovering the ONE THING that an audience actually buys into will give way to define a company's brand, positioning, story, and ultimately how people connect with that business. It's quite empowering! Take a risk … get to know your unique brand.</p>			 
-        <p>Participants will:</p>
+<br>
+            <span class="name">Blue Heron Toastmasters</span>
+          </h4>
+        </div>
+			</div>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>Training is a Show</h2>
+
         <ul>
-          <li>learn definition of branding and its importance in business,</li>
-          <li>discover the concept of the ONE IDEA,</li>
-          <li>determine one’s own ONE IDEA,</li>
-          <li>learn to shift perspective toward the target market's gain,</li>
-          <li>learn to use the 20-80 rule,</li>
-          <li>learn strategies of successful companies and what they can model from them,</li>
-          <li>understand the journey and risks entrepreneurs take in order to live their mission and achieve success.</li>
-        </ul>
-				<h3>About Azadeh</h3>
-        <p>Azadeh Yaraghi is a Brand Strategist, #1 best seller on Amazon, speaker, and founder of Gogo Telugo Creatives. With 14+ years of experience working locally and internationally (France, Italy, USA) in branding and marketing, she has built successful campaigns and picked-up awards along the way. She works with amazing entrepreneurs and corporations who are looking to create an authentic connection between their company and their ideal target market, take their brand and business to new heights, and ultimately make a difference in the world. In her free time, she dances flamenco and salsa, plays beach volleyball, and travels the globe.</p>	
-        <p>Visit <a href="http://www.gogotelugo.com" target=_blank>her website</a> to learn more about Azadeh.</p>        
-			</div>
-      <!-- Bio start -->
-      <div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="rifah"></span>Energy Behind Communication <br />
-				<span>Rifa Hodgson</span></h2>
-			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/rifah.jpg" class="img-responsive img-thumbnail"></p>
-			</div>
-			<div class="col-sm-9">
-				<p class="lead">How to Build Stronger Connections with Your Audience</p>
-        <p>This session provides an in-depth look at all aspects of nonverbal communication, including a brief explanation of energy phenomena from the ancient views to modern times. Points will be illustrated with corresponding examples and stories, and participants will practise exercises in pairs and share their experiences.</p>
-        <p>The audience will: </p>
-        <ul>
-          <li>gain understanding about energetic layers hidden in any communication,</li>
-          <li>learn the ways we receive nonverbal messages,</li>
-          <li>observe the energetic connections between the speaker and the audience,</li>
-          <li>understand what it takes to hold the attention of the audience,</li>
-          <li>discover how to bring an empathic response in the audience, </li>
-          <li>find out how to use body language to achieve a desirable outcome.</li>
+          <li>Make training fun and more effective</li>
+          <li>Create effective presentations</li>
+          <li>Understand how adults learn</li>
         </ul>
 
-				<h3>About Rifa</h3>
-        <p>Rifa Hodgson, ACS, is a Certified Clinical Hypnotherapist, Past Life Regression therapist and a founding member of The Newton Institute for Life Between Life™ (LBL). Rifa was the first accredited LBL therapist in Canada. A Moscow born teacher and educator for 45 years, Rifa joined Toastmasters in 1997. She achieved Toastmasters Advanced Communicator Silver designation in 2004. Rifa operates her own business “Adventure into Time and Beyond” and for the last 17 years she has been working with thousands of clients assisting them in achieving more clarity and understanding in their present life.</p>	
-        <p>See <a href="http://www.rifahodgson.com" target=_blank>her website</a> to learn more.</p>	
+        <p>Neila has been an adult educator for the past 25 years. She trains Customer Relationship Management (CRM) software around the world. </p>
+
+        <p>She has taught in the Philippines, England, Spain, Mexico, Brazil, Hungary, United States, Canada, Mexico, Peru, Ecuador, Costa Rica, Colombia, Argentina, and Chile. </p>
+        <p>Neila trains the trainers from major corporations, in three languages: Portuguese, Spanish, and English.</p>
+          <blockquote>
+           I love what I do, and get recommended to many businesses because, according to my students, 
+<b>my sessions are entertaining, I am patient, 
+and I explain in a manner they can understand.</b>
+
+          </blockquote>
+          <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+   
 			</div>
-			<!-- END -->
-      <!-- Bio start -->
-      <div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="sharookhd"></span>Risk Not, Have Not!<br />
-				<span>Sharookh Daroowala</span></h2>
+      <!-- Bio -->	
+			<div class="col-sm-12">
+			<h2 class="blue-bg"><span class="anchor" id="samm"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 1</span>
+        Personal Development Track</h2>
 			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/sharookhd.jpg" class="img-responsive img-thumbnail"></p>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#samm" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Sam Middlewood" class="img-responsive" height="200" src="images/samm.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+          Sam Middlewood DTM<br>
+            <span class="name">Vancouver Entrepreneurs Toastmasters</span>
+          </h4>
+        </div>
 			</div>
-			<div class="col-sm-9">
-				<p class="lead">Are you tired of telling yourself “could have, would have, should have"?</p>
-        <p> Fear and regret are two dragons that shadow and stalk us from a young age. Most of our fears are self-instilled; we talk ourselves into feeling and fueling them. When fear grips us, we take the low road to safety and end up with regrets. But effective leaders know that it doesn’t have to be that way. They know that bravery and courage are not just the nemesis of fear; they are the mastery of fear. And risk-taking is the master key that opens doors to possibilities you never thought you could unlock.</p>
-        <p>This is your journey. Your one good shot on this beautiful planet. Don’t go out with memories of what might have been. Stop playing it safe and living a little less. Take risks. Slay the dragons of fear and regret! Reap your just rewards. You can do it! And Sharookh can show you how.</p>
-        <p>In this interactive, playful and engaging workshop, you will learn to change your story &mdash; and your life &mdash; by:</p>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>How to Create Deeper Connections</h2>
+
         <ul>
-          <li>learning the difference between taking and managing risks,</li>
-          <li>reframing your mindset and your self-talk,</li>
-          <li>learning how to be brave and courageous.</li>
+          <li>Uncover your personal barriers which are stopping you from connecting deeply.</li>
+          <li>Learn how to go beyond superficial conversation.</li>
+          <li>Discover the three simple principals that lead to deeper connections.</li>
         </ul>
 
-        <p>You will also be encouraged to find an accountability partner to support you to do something you have been too scared to do.
+        <p>Sam Middlewood is a research-storyteller who is fascinated by people & psychology; how we interact, the emotional challenges and existential crises we face, and the associated societal pressures can be the root cause of our biggest uncertainties and questions.
+</p>
+
+        <p>As the founder, host, and a speaker at Be Inspired Vancouver - he curates a series of interactive talks, on interesting topics designed to simply inspire his audience with ideas.
+</p>
+        <p>Following a 7-year engineering career in the UK aerospace industry, in 2015 Sam experienced his quarter-life-crisis. After taking some time to reignite his inspiration, he moved to Vancouver and turned that crisis into a breakthrough in the process. 
+</p>
+          <blockquote>
+           Instead of asking ourselves “what do I want to do”, 
+          <b>a more beneficial question is “who do I want to be”.</b>
+
+          </blockquote>
+          <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+   
+			</div>
+      <!-- Bio -->	
+			<div class="col-sm-12">
+			<h2 class="blue-bg"><span class="anchor" id="ainaa"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 2</span>
+        Leadership Track</h2>
+			</div>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#ainaa" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Aina Aliieva DTM" class="img-responsive" height="200" src="images/ainaa.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+            Aina Aliieva DTM<br>
+            <span class="name">Babylon Business Booster,<br /> PMI Toastmasters</span>
+          </h4>
+        </div>
+			</div>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>How to Apply “Agile” Thinking to Everyday Leadership</h2>
+
+        <ul>
+          <li>Use Agile mindset in everyday life.</li>
+          <li>See how Agile tools can be adapted into everyday routine.</li>
+          <li>Achieve your goals without stress!</li>
+        </ul>
+
+        <p>Aina Aliieva is an international speaker, coach, author, blogger and founder of Bee Agile Consulting. She has a background in Electrical Engineering and holds an MBA program from SFU. Aina has worked as a Project Manager and Scrum Master for the past 5 years, and has her PMP (Professional Project Manager) designation.</p>
+
+        <p>Recently, she started Hundred Dares; this project is about people who dared to change their lives and followed their dreams. She has interviewed Hollywood designer Shelly Komarov, legendary poker player Evgen Kachalov, and the youngest executive in the aerospace industry - Katerina Lengold.</p>
+    
+          <blockquote> 
+            <b>Every day can be inspiring</b>
+            if you concentrate
+            on the positive side of things.
+          </blockquote>
+          <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+			</div>
+      <!-- Bio -->	
+			<div class="col-sm-12">
+			<h2 class="blue-bg"><span class="anchor" id="reneej"></span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 3</span>
+        Communication Track</h2>
+			</div>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#reneej" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Renee Jacobs DTM" class="img-responsive" height="200" src="images/reneej.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+            Renee Jacobs DTM<br>
+            <span class="name">Competitive Speakers Vancouver Toastmasters
+</span>
+          </h4>
+        </div>
+			</div>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>How to Construct Presentations That Win Collaboration </h2>
+
+        <ul>
+          <li>How to cultivate your personal archive of “raw ingredients” - for a lifetime of original and fascinating presentations.</li>
+          <li>How humans make decisions.</li>
+          <li>How to earn respect and trust.</li>
+        </ul>
+
+        <p>Most presentations, for work or stages like TEDx, are intended to win collaboration. You might want to persuade, motivate, sell or something else.</p>
+
+        <p>Attend this workshop to shortcut your success. Learn how to construct fascinating and original presentations that fast-track likeability, credibility and trust.</p>
+        
+        <blockquote> 
+          <b>What You Say, and How You Say It, make all the difference.</b>
+        </blockquote>
+
+        <p>Dr. Renee Jacobs served in the United States Air Force, then opened her private practice Optometry business and a Tutoring Center. She is a doctor and also has a Master’s Degree in Curriculum and Instruction. About 10 years ago, Dr. Jacobs sold her businesses and changed her focus to public speaking.</p>
+        <p>In Toastmasters, Dr. Jacobs earned her DTM and is currently the District 96 Humorous Speech Champion. For two seasons, she was as a Speaker Coach for TEDxStanleyPark, one of the largest TEDx events in the world. She is also Speaker Coach for Get Inspired Talks – Vancouver. Today,     in addition to private coaching, she leads workshops about Speaking to Activate and Leadership.</p>
+        <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+			</div>
+      <!-- Bio -->	
+			<div class="col-sm-12">
+			<h2 class="blue-bg"><span class="anchor" id="sheilac"></span>
+          <span class="date">Sunday, March 31, 2019 | Session 3 | Ballroom 2</span>
+        Communication Track</h2>
+			</div>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#sheilac" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="Sheila Cameron DTM" class="img-responsive" height="200" src="images/sheilac.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+            Sheila Cameron DTM<br>
+            <span class="name">Morningstars Toastmasters,<br /> Coastmasters Toastmasters</span>
+          </h4>
+        </div>
+			</div>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>Why Don’t You?</h2>
+
+        <ul>
+          <li>Understand the ways in which fear holds you back.</li>
+          <li>Learn how to dissect fear in order to bust through it.</li>
+          <li>Notice and appreciate how far you’ve come already.</li>
+        </ul>
+
+        <p>Are you satisfied with your lot in life, or are you living below the level of your own desires? </p>
+
+        <p>In this motivational session, we’ll explore the ways in which fear may be holding you back. Learn how to dissect your fear and bust through it. By the end of this session, you’ll be ready to live beyond your imagination in small ways and in bigger, bolder ways, too</p>
+        
+        <blockquote> 
+          <b>Come on. Why don’t you?</b>
+        </blockquote>
+
+        <p>Sheila Cameron, DTM, has a no-regrets policy and the courage and curiosity to try things outside of the norm. She respects a healthy  level of fear and kicks the rest to the curb. Sheila is the author of Shine Bright: Live A Supernova Life, published in 2017. </p>
+        <p>Many of her life experiences are highlighted in her book: a week-long hike on a highway with two toddlers; having a diaper-free baby; spending my retirement savings before retirement; engaging with homeless people; or sharing uncomfortable truths.</p>
+        <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
+			</div>
+      <!-- Bio -->	
+			<div class="col-sm-12">
+			<h2 class="blue-bg"><span class="anchor" id="davidf"></span>
+        <span class="date">Sunday, March 31, 2019 | Session 3 | Ballroom 3</span>
+        Leadership Track</h2>
+			</div>
+			<div class="col-md-3 col-md-push-9">
+				<div class="committee leader ed-speakers">
+          <a href="educations.php#davidf" class="page-scroll">
+              <div class="img-circle center-block">
+                <span class="field-content">             
+                  <img alt="David Fischer" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
+                </span>
+              </div>
+          </a>
+          <h4 class="text-center"> 
+            David Fischer<br>
+            <span class="name">Vancouver Entrepreneurs Toastmasters,<br /> Advanced Aurators Toastmasters</span>
+          </h4>
+        </div>
+			</div>
+			 <div class="col-md-9 col-md-pull-3">
+				<h2>Create World Changing Connections through Vulnerability, Storytelling, and Influence</h2>
+        <p>Learn how to...</p>
+        <ul>
+          <li>Practically and wisely become more vulnerable to a few.</li>
+          <li>Engage others with compelling stories.</li>
+          <li>What we do every day has global reach and how to change the world.</li>
+        </ul>
+
+        <p>As an actor and award-winning speaker, David Fisher has spoken at TEDx, has coached other speakers for events such as Get Inspired, TEDx Stanley Park, and Tony Robbins Power of Success.</p>
+
+        <p>Through his company DavidFish.ca he has inspired thousands of others to create a life of connection through storytelling, vulnerability, and influence.</p>
+        
+        <blockquote> 
+        In an increasingly isolated and noisy world, 
+        <b>it is vitally important that we learn to
+        connect on a real level with each other. </b>
+        It is the thing that has kept us alive 
+        as a species. 
+        </blockquote>
+        <p>
+        <a href="#top" class="page-scroll  btn btn-primary">Back to top</a>
         </p>
-
-				<h3>About Sharookh </h3>
-        <p>Sharookh Daroowala, LL.B., DTM, is an internationally known speaking coach and motivational humorist. His clients include everyone from nervous beginners to world class presenters, celebrities, TEDx Talks speakers, entrepreneurs, professionals and students. In the 80-year history of Toastmasters International in BC, nobody has won more District contests in more categories than Sharookh (International Speech x 2, Speech Evaluation and Table Topics). In 2014, Sharookh was a Top 9 Finalist at the World Championship of Public Speaking. For his mentorship of members, nurturing of new clubs, and dedication to educating and training others, in 2015/16, District 96 honoured Sharookh as Toastmaster of the Year.</p>	
-        <p>Visit <a href="http://speakingmasteryforprofessionals.com/" target=_blank">his website</a> to learn more about Sharookh.</p>	
-			</div>
-			<!-- END -->
-      <!-- Bio start -->
-      <div class="col-sm-12">
-			<h2 class="blue-bg"><span class="anchor" id="terih"></span>How to Achieve More of What You Want in Life<br />
-				<span>Teri Holland</span></h2>
-			</div>
-			<div class="col-sm-3 col-xs-6">
-				<p><img src="images/terih.jpg" class="img-responsive img-thumbnail"></p>
-			</div>
-			<div class="col-sm-9">
-				<p class="lead">Learn powerful techniques in goal achievement, the reason why most goals fail, how to overcome obstacles and how to focus your mind to get the outcomes you want.</p>
-        <p>Participants will be able to recognize why they haven’t achieved goals in the past, and why they did achieve others. They will be able to identify what is holding them back from achieving what they want, and have tools in place to create powerful goals in the future. Participants will be given access to a Goal Achievement Blueprint and visualization audio recording.</p>
-
-				<h3>About Teri</h3>
-        <p>With a profound ability to bring out the best in people, Teri Holland is a staunch believer in the inexhaustible inner potential of human beings. She is an exciting, dynamic, transformational seminar leader, and an expert in the field of Neuro Linguistic Programming (NLP). As a successful High Performance Coach and NLP Trainer, Teri is the founder of The Empowered Life Academy, has a #1 self-help podcast (The Empowered Life) on iTunes, and is currently co-writing her first book, FEARLESS Speaking. </p>	
-        <p>Visit <a href="http://www.teriholland.ca" target=_blan>her website</a> to learn more about Teri.</p>	
+   
 			</div>
 			<!-- END -->
 		</div>
