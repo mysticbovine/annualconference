@@ -78,3 +78,5 @@ ExpiresDefault "access plus 7 days"
 
   # END Adaptive-Images -------------------------------------------------------------------------------
 </IfModule>
+
+Redirect 301 /edsession.php http://annualconference.d96toastmasters.ca/educations.php
