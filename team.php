@@ -185,7 +185,7 @@
               <span class="field-content"><img alt="Jaime Rose" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JaimeRose.jpg?itok=hHtgikav" typeof="Image" width="200"></span>
             </div><span class="field-content"></span>
             <h4><span class="field-content">Jaime Rose<br>
-            Facilities Chair</span></h4><span class="field-content"><a href="mailto:Jaime.rose.111@hotmail.com">Jaime.rose.111@hotmail.com</a><br></span>
+            Facilities Chair</span></h4><span class="field-content"><a href="mailto:jairose@bestbuycanada.ca">jairose@bestbuycanada.ca</a><br></span>
           </div><span class="field-content"></span>
         </div>
         <div class="views-field views-field-nothing">
@@ -318,17 +318,6 @@
             </div><span class="field-content"></span>
             <h4><span class="field-content">Carole Murphy<br>
             Conference Chief Judge</span></h4><span class="field-content"><a href="mailto:mjcarol@telus.net">mjcarol@telus.net</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Denise Wozniak" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DeniseWozniak.jpg?itok=Ght-p-Aw" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Denise Wozniak<br>
-            Conference Videographer and Photographer</span></h4><span class="field-content"><a href="mailto:deniseswozniak@gmail.com">deniseswozniak@gmail.com</a><br></span>
           </div><span class="field-content"></span>
         </div>
         <div class="views-field views-field-nothing hidden">
