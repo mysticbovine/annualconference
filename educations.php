@@ -387,21 +387,22 @@ and I explain in a manner they can understand.</b>
 				<h2>Why Don’t You?</h2>
 
         <ul>
-          <li>Understand the ways in which fear holds you back.</li>
-          <li>Learn how to dissect fear in order to bust through it.</li>
-          <li>Notice and appreciate how far you’ve come already.</li>
+          <li>Identify an unachieved goal and its associated fear</li>
+          <li>Understand your fear through simple analysis</li>
+          <li>Learn seven tips for busting through fear</li>
+          <li>Establish one practical next step toward your goal </li>
         </ul>
+        
+        <p>Are you satisfied with your lot in life, or are you living below the level of your own desires?</p>
 
-        <p>Are you satisfied with your lot in life, or are you living below the level of your own desires? </p>
-
-        <p>In this motivational session, we’ll explore the ways in which fear may be holding you back. Learn how to dissect your fear and bust through it. By the end of this session, you’ll be ready to live beyond your imagination in small ways and in bigger, bolder ways, too</p>
+        <p>In this motivational session, we’ll explore the ways in which fear may be holding you back. Learn how to dissect your fear and bust through it. By the end of this session, you’ll be ready to live beyond your imagination in small ways and in bigger, bolder ways, too.</p>
         
         <blockquote> 
           <b>Come on. Why don’t you?</b>
         </blockquote>
 
-        <p>Sheila Cameron, DTM, has a no-regrets policy and the courage and curiosity to try things outside of the norm. She respects a healthy  level of fear and kicks the rest to the curb. Sheila is the author of Shine Bright: Live A Supernova Life, published in 2017. </p>
-        <p>Many of her life experiences are highlighted in her book: a week-long hike on a highway with two toddlers; having a diaper-free baby; spending my retirement savings before retirement; engaging with homeless people; or sharing uncomfortable truths.</p>
+        <p>Sheila Cameron, DTM, has a no-regrets policy and the curiosity and courage to try things outside of the norm. She respects a healthy level of fear and kicks the rest to the curb. Sheila is the author of <em>Shine Bright: Live A Supernova Life</em>, published in 2017.</p>
+        <p>Sheila's life experiences include: backpacking the globe; advanced scuba diving; raising a baby without diapers; taking a week-long hike on a highway with two toddlers; unschooling her children; spending her retirement savings before retirement;  and sharing uncomfortable truths through writing memoir. She is passionate about raising our collective human consciousness.</p>
         <p><a href="#top" class="page-scroll btn btn-primary">Back to top</a> </p>
 			</div>
       <!-- Bio -->	
