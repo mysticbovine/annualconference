@@ -155,7 +155,7 @@
           </a>
           <h4> 
             How to Effectively Apply Toastmasters Skills in Your Workplace<br>
-            <span class="name">Gerard Pietrykiewicz DTM</span>
+            <span class="name">Gerard Pietrykiewicz ACS ALB</span>
           </h4>
         </div>
         <div class="committee leader ">

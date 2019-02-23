@@ -65,7 +65,7 @@
     <tr>
       <td>Session 1</td>
       <td><b>Tracey Purvis</b></td>
-      <td><b>Gerard Pietrykiewicz DTM</b></td>
+      <td><b>Gerard Pietrykiewicz ACS ALB</b></td>
       <td><b>Neila Scott DTM</b></td>
     <tr>
       <td></td>
@@ -159,7 +159,7 @@
               </div>
           </a>
           <h4 class="text-center"> 
-           Gerard Pietrykiewicz DTM
+           Gerard Pietrykiewicz ACS ALB
 
 <br>
             <span class="name">Golden Speakers Toastmasters</span>
