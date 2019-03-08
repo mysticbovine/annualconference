@@ -213,7 +213,7 @@
         </tbody>
         <thead>
           <tr>
-            <th width="100px"><br />Afteroon</th>
+            <th width="100px"><br />Afternoon</th>
             <th></th>
           </tr>
         </thead>
