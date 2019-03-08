@@ -94,7 +94,7 @@
          
             <h3 class="text-center">Opening Keynote<h3>
             <h2 class="text-center">Steve Curtis</h2>
-            <h3 class="text-center">"Living Beyond Imagination!"</h3>
+            <h3 class="text-center">"A New Hope"</h3>
             <p class="lead">Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future.</p>
 
             <p class="lead">Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it. </p>
@@ -227,13 +227,13 @@
           <a href="educations.php#davidf" class="page-scroll">
               <div class="img-circle center-block">
                 <span class="field-content">             
-                  <img alt="David Fischer" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
+                  <img alt="David Fisher" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
                 </span>
               </div>
           </a>
           <h4> 
-            Create World Changing Connections through Vulnerability, Storytelling, and Influence<br>
-            <span class="name">David Fischer</span>
+            Use Storytelling and Vulnerability to Influence and Change the World<br>
+            <span class="name">David Fisher</span>
           </h4>
         </div>
 

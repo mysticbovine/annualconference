@@ -49,7 +49,7 @@
 		</div>
     <div class="row">
       <div class="col-sm-12">
-        <h2 class="keynote-bio"><span class="anchor" id="steve"></span>Opening Keynote: Living Beyond Imagination!</h2>
+        <h2 class="keynote-bio"><span class="anchor" id="steve"></span>Opening Keynote: A New Hope</h2>
       </div>
 			<div class="col-md-3">
 				<p class="text-center"><img src="images/stevek.jpg" class="img-responsive img-circle"></p>
@@ -57,6 +57,16 @@
 			<div class="col-md-9">
 				
 				<h3>Steve Curtis</h3>
+        
+        <p>Steve Curtis shares his vision from a challenging childhood, to becoming a self-made millionaire by 22, only to be diagnosed with terminal cancer shortly after. </p>
+
+        <p>He takes you on the journey of how this curse, became the greatest gift of his life and he shares stories of his challenges, wild successes, excruciating failures and this vision of the positive global change they inspired. </p>
+
+        <p>Steve confronts the uncertainty of the future of humanity and shares his personal vision of possibilities, challenging us all to take action to create a new future for humanity. </p>
+
+        <p>It will be fast paced, raw, action inspiring and will most certainly challenge the beliefs you hold about yourself and the world.</p>
+
+        
 				<p>Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future. </p>
 
         <p>Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it. </p>

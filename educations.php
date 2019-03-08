@@ -91,14 +91,14 @@
         <tr>
       <td>Session 3</td>
       <td><b>Sheila Cameron DTM</b></td>
-      <td><b>David Fischer</b></td>
+      <td><b>David Fisher CC</b></td>
       <td></td>    
     </tr>
     <tr>
       <td></td>
       <td>Why Don’t You?
 <br /><a href="#sheilac" class="page-scroll btn btn-primary">Read More</a></td>
-      <td>Create World Changing Connections through Vulnerability, Storytelling, and Influence
+      <td>Use Storytelling and Vulnerability to Influence and Change the World
 <br /><a href="#davidf" class="page-scroll btn btn-primary">Read More</a></td>
       </td>
        <td></td>
@@ -416,18 +416,18 @@ and I explain in a manner they can understand.</b>
           <a href="educations.php#davidf" class="page-scroll">
               <div class="img-circle center-block">
                 <span class="field-content">             
-                  <img alt="David Fischer" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
+                  <img alt="David Fisher" class="img-responsive" height="200" src="images/davidf.jpg" typeof="Image" width="200">
                 </span>
               </div>
           </a>
           <h4 class="text-center"> 
-            David Fischer<br>
+            David Fisher CC<br>
             <span class="name">Vancouver Entrepreneurs Toastmasters,<br /> Advanced Aurators Toastmasters</span>
           </h4>
         </div>
 			</div>
 			 <div class="col-md-9 col-md-pull-3">
-				<h2>Create World Changing Connections through Vulnerability, Storytelling, and Influence</h2>
+				<h2>Use Storytelling and Vulnerability to Influence and Change the World</h2>
         <p>Learn how to...</p>
         <ul>
           <li>Practically and wisely become more vulnerable to a few.</li>
