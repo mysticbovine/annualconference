@@ -66,7 +66,7 @@
 
         <p>It will be fast paced, raw, action inspiring and will most certainly challenge the beliefs you hold about yourself and the world.</p>
 
-        
+        <h3>About Steve</h3>
 				<p>Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future. </p>
 
         <p>Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it. </p>
@@ -87,6 +87,14 @@
 			<div class="col-md-9">
 				
 				<h3>Karen McGregor</h3>
+        
+<p>Karen will share with the group how to add emotional intelligence, authenticity and courage into your message.</p>
+<ul>
+<li>Learn the foundation of a compelling and courageous message that your audience will lean into and act upon (whether in a boardroom, a living room or a formal stage).</li>
+<li>Discover how courage and vulnerability are the secret sauce that take your message from good to great.</li>
+<li>Understand the impact Your Courageous Message can have on others.</li>
+</ul>
+        <h3>About Karen</h3>
 				<p>Karen McGregor is a bestselling author, international speaker, coach, trainer and the founder/CEO of the Speaker Success Formula. </p>
 
         <p>As a speaker she has graced the stage with Deepak Chopra, Loral Langemeier, Brendon Burchard, Marci Schimoff and other world influencers.</p>

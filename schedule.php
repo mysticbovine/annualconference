@@ -136,11 +136,11 @@
             </tr>  
             <tr>
               <td><strong>8:00 pm-9:00 pm</strong></td>
-              <td> Opening Keynote <span class="hidden-xs hidden-sm hidden-md">: <br /><b>Steve Curtis "Living Beyond Imagination!"</b></span>
+              <td> Opening Keynote <span class="hidden-xs hidden-sm hidden-md">: <br /><b>Steve Curtis "A New Hope"</b></span>
               
                <div class="hidden-lg">
                 <!-- Visbile on small screens -->
-                <h3 class="text-center">Living Beyond Imagination!</h4>
+                <h3 class="text-center">A New Hope</h4>
                 <div class="views-field views-field-nothing">
                   <div class="committee leader displayorder- ">
                     <div class="img-circle center-block">
