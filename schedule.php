@@ -177,13 +177,13 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>7:30 am – 8:30 am</strong></td>
+            <td><strong>7:00 am – 8:00 am</strong></td>
             <td> Contestants and Judges Briefings</td>
           </tr>
 
 
           <tr>
-            <td><strong>8:00 am – 9:00 am</strong></td>
+            <td><strong>7:30 am – 9:00 am</strong></td>
             <td> District Executive Committee Meeting</td>
           </tr>
 
@@ -301,6 +301,10 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td><strong>7:30 am - 8:30 am</strong></td>
+            <td> Past District Directors and District Governors breakfast</td>
+          </tr>
           <tr>
             <td><strong>8:30 am - 9:00 am</strong></td>
             <td> Registration Open</td>
