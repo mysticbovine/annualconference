@@ -260,7 +260,7 @@ and I explain in a manner they can understand.</b>
         <ul>
           <li>Uncover your personal barriers which are stopping you from connecting deeply.</li>
           <li>Learn how to go beyond superficial conversation.</li>
-          <li>Discover the three simple principals that lead to deeper connections.</li>
+          <li>Discover the three simple principles that lead to deeper connections.</li>
         </ul>
 
         <p>Sam Middlewood is a research-storyteller who is fascinated by people & psychology; how we interact, the emotional challenges and existential crises we face, and the associated societal pressures can be the root cause of our biggest uncertainties and questions.
@@ -308,7 +308,7 @@ and I explain in a manner they can understand.</b>
           <li>Achieve your goals without stress!</li>
         </ul>
 
-        <p>Aina Aliieva is an international speaker, coach, author, blogger and founder of Bee Agile Consulting. She has a background in Electrical Engineering and holds an MBA program from SFU. Aina has worked as a Project Manager and Scrum Master for the past 5 years, and has her PMP (Professional Project Manager) designation.</p>
+        <p>Aina Aliieva is an international speaker, coach, author, blogger and founder of Bee Agile Consulting. She has a background in Electrical Engineering and holds an MBA from SFU. Aina has worked as a Project Manager and Scrum Master for the past 5 years, and has her PMP (Professional Project Manager) designation.</p>
 
         <p>Recently, she started Hundred Dares; this project is about people who dared to change their lives and followed their dreams. She has interviewed Hollywood designer Shelly Komarov, legendary poker player Evgen Kachalov, and the youngest executive in the aerospace industry - Katerina Lengold.</p>
     
