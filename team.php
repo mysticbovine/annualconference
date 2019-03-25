@@ -51,321 +51,182 @@
     <div class="col-sm-12 path-leaders">
       
     <div class="view-content">
-      <h3>Conference Co-Chairs</h3>
-      <div class="division">
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Mark Zuberbuhler" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/MarkZuberbuhler.jpg?itok=-egd1oFB" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Mark Zuberbuhler<br>
-            Conference Chair</span></h4><span class="field-content"><a href="mailto:mark.zuberbuhler@gmail.com">mark.zuberbuhler@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Deborah LePatourel" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DeborahLePatourel.jpg?itok=6eb20jss" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Deborah LePatourel<br>
-            Conference Chair</span></h4><span class="field-content"><a href="mailto:deborahrlep@gmail.com">deborahrlep@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-      </div>
-      <h3>Conference Team</h3>
-      <div class="division">
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Devon Downie DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DevonDownie.jpg?itok=qWGtpvOM" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Devon Downie<br>
-            Featured Host</span></h4><span class="field-content"><a href="mailto:dtmdevon@gmail.com">dtmdevon@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Stefano Cossalter DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/StefanoCossalter.jpg?itok=WN0z-5TB" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Stefano Cossalter, DTM<br>
-            Featured Host</span></h4><span class="field-content"><a href="mailto:stefanocossalter@gmail.com">stefanocossalter@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Dean Shev" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Dean%20Shev.jpg?itok=5H-Lrx7o" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Dean Shev<br>
-            Conference Treasurer</span></h4><span class="field-content"><a href="mailto:finance@d96toastmasters.ca">finance@d96toastmasters.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Audrey Yan" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/AudreyYan.jpg?itok=-ez71KEa" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Audrey Yan, DTM<br>
-            Banner Parade Manager</span></h4><span class="field-content"><a href="mailto:AudreyLoYan@gmail.com">AudreyLoYan@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Rob Evans, DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/RobEvans.jpg?itok=PfEi2Mui" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Rob Evans, DTM<br>
-            Conference Web Manager</span></h4><span class="field-content"><a href="mailto:webmaster@district96.ca">webmaster@district96.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Doug Anderson" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DougAnderson.jpg?itok=6jyVbPDM" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Doug Anderson, DTM<br>
-            First-Timers Reception Chair</span></h4><span class="field-content"><a href="mailto:ppdp@direct.ca">ppdp@direct.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Joanne Morrison, DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JoanneMorrison.jpg?itok=mxOICodK" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Joanne Morrison, DTM<br>
-            Protocol Chair</span></h4><span class="field-content"><a href="mailto:cpjoanne@shaw.ca">cpjoanne@shaw.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/KarenVanDelft.jpg?itok=4eTFVH8R" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Karen Van Delft<br>
-            Decorations Chair</span></h4><span class="field-content"><a href="mailto:Karen.Vandelft@gmail.com">Karen.Vandelft@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Jessica Bannister" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JessicaBannister.jpg?itok=3kbssjA5" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Jessica Bannister<br>
-            Volunteers Coordinator</span></h4><span class="field-content"><a href="mailto:Jessica@camcool.ca">Jessica@camcool.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Jaime Rose" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JaimeRose.jpg?itok=hHtgikav" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Jaime Rose<br>
-            Facilities Chair</span></h4><span class="field-content"><a href="mailto:jairose@bestbuycanada.ca">jairose@bestbuycanada.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Brenda Benham" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/BrendaBenham.jpg?itok=Bd2s723f" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Brenda Benham<br>
-            Registration Chair</span></h4><span class="field-content"><a href="mailto:brendabenham4@gmail.com">brendabenham4@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/GonulGuvenc.jpg?itok=WsvsPfgH" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Gonul Guvenc<br>
-            Registration Chair</span></h4><span class="field-content"><a href="mailto:gonulguvenc@gmail.com">gonulguvenc@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Christina Horvath" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/ChristinaHorvath.jpg?itok=8Smv4C_7" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Christina Horvath<br>
-            Sponsorship Chair</span></h4><span class="field-content"><a href="mailto:christina@mformortgage.ca">christina@mformortgage.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/PercyBillimoria.jpg?itok=ESBM9p2c" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Percy Billimoria<br>
-            Education Sessions Chair</span></h4><span class="field-content"><a href="mailto:percy.x.billimoria@hsbc.ca">percy.x.billimoria@hsbc.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing hidden">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Conference Secretary</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing hidden">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Silent Auction Chair</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing hidden">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Communication and Leadership Award Specialist</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Sharook Daroowala DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/SharookDaroowala.jpg?itok=VL41Ta3T" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Sharook Daroowala DTM<br>
-            Conference Speaker Mentor</span></h4><span class="field-content"><a href="mailto:Daroowala@shaw.ca">Daroowala@shaw.ca</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Jamak Golshami" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JamakGolshami.jpg?itok=4-PM0ncI" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Jamak Golshami<br>
-            Digital Marketing Chair</span></h4><span class="field-content"><a href="mailto:JAMAK@golshani.org">JAMAK@golshani.org</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Edward Yuen" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/EdwardYuen.jpg?itok=LDilrAFo" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Edward Yuen<br>
-            Digital Marketing Chair</span></h4><span class="field-content"><a href="mailto:edward.yuen88@gmail.com">edward.yuen88@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Sakshi Bharwani" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/SakshiBharwani.jpg?itok=pa2XiuPN" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Sakshi Bharwani<br>
-            Conference Marketing</span></h4><span class="field-content"><a href="mailto:sakshibharwani@gmail.com">sakshibharwani@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Carole Murphy" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Carole%20Murphy.jpeg?itok=RiePtta_" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Carole Murphy<br>
-            Conference Chief Judge</span></h4><span class="field-content"><a href="mailto:mjcarol@telus.net">mjcarol@telus.net</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing hidden">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Audio Visual Manager</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Reg Boaler, DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/RegBoaler.jpg?itok=DZShGAgz" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Reg Boaler, DTM<br>
-            Conference Contest Chair</span></h4><span class="field-content"><a href="mailto:boaler_inc@hotmail.com">boaler_inc@hotmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing hidden">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Vacant.jpg?itok=8L7hkOw-" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Open<br>
-            Program Coordinator - Design &amp; Printing</span></h4><span class="field-content"><br></span>
-          </div><span class="field-content"></span>
-        </div>
-        <div class="views-field views-field-nothing">
-          <span class="field-content"></span>
-          <div class="committee leader displayorder-">
-            <span class="field-content"></span>
-            <div class="img-circle center-block">
-              <span class="field-content"><img alt="Open" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Allyza.jpg" typeof="Image" width="200"></span>
-            </div><span class="field-content"></span>
-            <h4><span class="field-content">Allyza Gutlay<br>Stage Manager</span></h4><span class="field-content"><a href="mailto:allyza.gutlay@gmail.com">allyza.gutlay@gmail.com</a><br></span>
-          </div><span class="field-content"></span>
-        </div>
-      </div>
-    </div>
+<h3>Reports to Program Quality Director</h3>
+<div class="division">
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/MarkZuberbuhler.jpg?itok=-egd1oFB" alt="Mark Zuberbuhler" width="200" height="200" /></div>
+<h4>Mark Zuberbuhler<br />Conference Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DeborahLePatourel.jpg?itok=6eb20jss" alt="Deborah LePatourel" width="200" height="200" /></div>
+<h4>Deborah LePatourel<br />Conference Chair</h4>
+</div>
+</div>
+</div>
+<h3>Reports to Conference Chair</h3>
+<div class="division">
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/StefanoCossalter.jpg?itok=WN0z-5TB" alt="Stefano Cossalter DTM" width="200" height="200" /></div>
+<h4>Stefano Cossalter, DTM<br />Featured Host</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DevonDownie.jpg?itok=qWGtpvOM" alt="Devon Downie DTM" width="200" height="200" /></div>
+<h4>Devon Downie, DTM<br />Featured Host</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Dean%20Shev.jpg?itok=5H-Lrx7o" alt="Dean Shev" width="200" height="200" /></div>
+<h4>Dean Shev<br />Conference Treasurer</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/AudreyYan.jpg?itok=-ez71KEa" alt="Audrey Yan" width="200" height="200" /></div>
+<h4>Audrey Yan, DTM<br />Banner Parade Manager</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/RobEvans.jpg?itok=PfEi2Mui" alt="Rob Evans, DTM" width="200" height="200" /></div>
+<h4>Rob Evans, DTM<br />Conference Web Manager</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JoanneMorrison.jpg?itok=mxOICodK" alt="Joanne Morrison, DTM" width="200" height="200" /></div>
+<h4>Joanne Morrison, DTM<br />Protocol Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/KarenVanDelft.jpg?itok=4eTFVH8R" alt="" width="200" height="200" /></div>
+<h4>Karen Van Delft<br />Decorations Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JessicaBannister.jpg?itok=3kbssjA5" alt="Jessica Bannister" width="200" height="200" /></div>
+<h4>Jessica Bannister<br />Volunteers Coordinator</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JaimeRose.jpg?itok=hHtgikav" alt="Jaime Rose" width="200" height="200" /></div>
+<h4>Jaime Rose<br />Facilities Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/BrendaBenham.jpg?itok=Bd2s723f" alt="Brenda Benham" width="200" height="200" /></div>
+<h4>Brenda Benham<br />Registration Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/GonulGuvenc.jpg?itok=WsvsPfgH" alt="" width="200" height="200" /></div>
+<h4>Gonul Guvenc<br />Registration Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/ChristinaHorvath.jpg?itok=8Smv4C_7" alt="Christina Horvath" width="200" height="200" /></div>
+<h4>Christina Horvath<br />Sponsorship Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Konstantin.jpg?itok=TbGRyGt5" alt="" width="200" height="200" /></div>
+<h4>Konstantin Melkov<br />Sponsorship Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Tina%20Wong.jpg?itok=mETZJO9t" alt="" width="200" height="200" /></div>
+<h4>Tina Wong<br />Sponsorship Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/PercyBillimoria.jpg?itok=ESBM9p2c" alt="" width="200" height="200" /></div>
+<h4>Percy Billimoria<br />Education Sessions Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Ingrid%20Broussillon2.jpg?itok=-UKcIFbf" alt="" width="200" height="200" /></div>
+<h4>Ingrid Broussillon<br />Silent Auction Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/SharookDaroowala.jpg?itok=VL41Ta3T" alt="Sharookh Daroowala DTM" width="200" height="200" /></div>
+<h4>Sharookh Daroowala DTM<br />Conference Speaker Mentor</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/JamakGolshami.jpg?itok=4-PM0ncI" alt="Jamak Golshami" width="200" height="200" /></div>
+<h4>Jamak Golshami<br />Digital Marketing Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/EdwardYuen.jpg?itok=LDilrAFo" alt="Edward Yuen" width="200" height="200" /></div>
+<h4>Edward Yuen<br />Digital Marketing Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/SandiSong.jpg?itok=phXoiOnu" alt="Sandy Song" width="200" height="200" /></div>
+<h4>Sandy Song<br />Club Announcement Coordinator</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Linda-Lee.jpg?itok=nigHS0xq" alt="Linda Lee, Division L Director" width="200" height="200" /></div>
+<h4>Linda Lee<br />Conference Chief Judge</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Chris-Davy.jpg?itok=WC_ksPnJ" alt="Chris Davy, Area 84 Director" width="200" height="200" /></div>
+<h4>Chris Davy<br />Conference Contest Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Gillian%20Roberts.jpg?itok=N2iyU-B8" alt="Gillian Roberts" width="200" height="200" /></div>
+<h4>Gillian Roberts<br />Conference Contest Chair</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Allyza.jpg?itok=rrddVgQS" alt="" width="200" height="200" /></div>
+<h4>Allyza Gutlay<br />Stage Manager</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DougAnderson.jpg?itok=6jyVbPDM" alt="Doug Anderson" width="200" height="200" /></div>
+<h4>Doug Anderson, DTM<br />Credentials Chair &amp; First Timers Host</h4>
+</div>
+</div>
+<div class="views-field views-field-nothing">
+<div class="committee leader displayorder-">
+<div class="img-circle center-block"><img class="img-responsive" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Carole%20Murphy.jpeg?itok=RiePtta_" alt="Carole Murphy" width="200" height="200" /></div>
+<h4>Carole Murphy, DTM<br />District Chief Judge</h4>
+</div>
+</div>
+</div>
+</div>
+
     <div class="view-header">
       <div class="division view view-quartet-leaders view-id-quartet_leaders view-display-id-block_1 js-view-dom-id-d6a5e67a5dd9607f946cf71d3664486bacadb510c863803178e87cd0dfed7519">
       
@@ -383,9 +244,9 @@
               Program Quality Director</h4><a href="mailto:louisamba@hotmail.com">louisamba@hotmail.com</a><br>
             </div>
             <div class="committee leader displayorder-">
-              <div class="img-circle center-block"><img alt="Camilo Reyes, Division S Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Camilo-Reyes.jpg?itok=9x0UkhC4" typeof="Image" width="200"></div>
-              <h4>Camilo Reyes, DTM<br>
-              Club Growth Director</h4><a href="mailto:clubgrowth@d96toastmasters.ca">clubgrowth@d96toastmasters.ca</a><br>
+              <div class="img-circle center-block"><img alt="Camilo Reyes, Division S Director" class="img-responsive" height="200" src="https://d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Mimi%20V%202.jpg?itok=AQGK4YSJ" typeof="Image" width="200"></div>
+              <h4>Mimi Vanderheide, DTM<br>
+              Club Growth Director</h4> <a href="mailto:mimi.vanderheide@outlook.com" target="_blank">mimi.vanderheide@outlook.com</a><br>
             </div>
             <div class="committee leader displayorder-">
               <div class="img-circle center-block"><img alt="Neil Booth, Division H Director" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/Neil-Booth.jpg?itok=fRcwHxIN" typeof="Image" width="200"></div>
