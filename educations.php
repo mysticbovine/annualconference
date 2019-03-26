@@ -52,9 +52,9 @@
   <thead>
     <tr>
       <th width="150px">Session</th>
-      <th>Personal Development<br />Ballroom 1</th>
-      <th>Leadership Development<br />Ballroom 2</th>
-      <th>Communications Development<br />Ballroom 3</th>
+      <th>Personal Development<br />Pinnacel 1 and 2</th>
+      <th>Leadership Development<br />Pinnacel 3</th>
+      <th>Communications Development<br />Pier Salon</th>
     </tr>
   </thead>
 
@@ -109,7 +109,7 @@
 			<!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="traceyp"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 1</span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Pinnacel 1 and 2</span>
         Personal Development Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -146,7 +146,7 @@
 			<!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="gerardp"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 2</span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Pinnacel 3</span>
         Leadership Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -191,7 +191,7 @@
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="neilas"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 1 | Ballroom 3</span>
+          <span class="date">Saturday, March 30, 2019 | Session 1 | Pier Salon</span>
         Communication Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -236,7 +236,7 @@ and I explain in a manner they can understand.</b>
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="samm"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 1</span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Pinnacel 1 and 2</span>
         Personal Development Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -281,7 +281,7 @@ and I explain in a manner they can understand.</b>
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="ainaa"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 2</span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Pinnacel 3</span>
         Leadership Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -322,7 +322,7 @@ and I explain in a manner they can understand.</b>
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="reneej"></span>
-          <span class="date">Saturday, March 30, 2019 | Session 2 | Ballroom 3</span>
+          <span class="date">Saturday, March 30, 2019 | Session 2 | Pier Salon</span>
         Communication Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -365,7 +365,7 @@ and I explain in a manner they can understand.</b>
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="sheilac"></span>
-          <span class="date">Sunday, March 31, 2019 | Session 3 | Ballroom 2</span>
+          <span class="date">Sunday, March 31, 2019 | Session 3 | Pinnacel 3</span>
         Communication Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">
@@ -408,7 +408,7 @@ and I explain in a manner they can understand.</b>
       <!-- Bio -->	
 			<div class="col-sm-12">
 			<h2 class="blue-bg"><span class="anchor" id="davidf"></span>
-        <span class="date">Sunday, March 31, 2019 | Session 3 | Ballroom 3</span>
+        <span class="date">Sunday, March 31, 2019 | Session 3 | Pier Salon</span>
         Leadership Track</h2>
 			</div>
 			<div class="col-md-3 col-md-push-9">

@@ -52,7 +52,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <p class="lead"><strong>Note: Schedule is subject to change. Please check this page or <a href="https://www.facebook.com/groups/District96/" target=_blank>BC Toastmasters Facebook Page</a> for updates</strong></p>
-        <p> <a href="/document/D96ConferenceSchedule.pdf" class="btn-lg btn-register">Download the schedule</a></p>
+        
         <p> Page last updated: <span id="updated"></span></p>
       </div>
      
