@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Annual Conference 2019 | District 96 Toastmasters</title>
+    <title>Annual Conference 2020 | District 96 Toastmasters</title>
 
 	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">					
     <link href="css/d96conference.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="css/style.css">
 	<!-- Custom Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
 	<script src="https://use.fontawesome.com/27d80a9134.js"></script>
@@ -43,16 +43,53 @@
 
 	<!-- Carousel Start -->
 	<div class="banner vh_height100 homepage"> 
-    <div class="conference-logo">
-     <img src="images/lg-tm.png" class="center-block" style="z-index:10">
-        <div class="col-sm-10 col-sm-offset-1">
-           
-          <img src="images/d96conference2019logo.png" class="img-responsive center-block">
-         
+    <ul id="scene">
+      <li class="layer" data-depth="0.0"></li>
+      <li class="layer" data-depth="0.10">
+        <div class="background"></div>
+      </li>
+      <li class="layer" data-depth="0.10">
+        <div id="particules">
+          <div class="full-height" id="star-first"></div>
         </div>
+      </li>
+      <li class="layer" data-depth="0.10">
+        
+          <div class="retrostars"></div>
+        
+      </li>
+      <li class="layer" data-depth="0.15">
+        <div id="particules">
+          <div class="full-height" id="star-second"></div>
+        </div>
+      </li>
+      <li class="layer" data-depth="0">
+        <div class="logo"><img src="images/logo.png" alt="logo"/></div>
+      </li>
+      
+      <li class="layer" data-depth="0.10">
+        <div class="moon"><img src="images/moon.png" alt="logo"/></div>
+      </li>  
+      <li class="layer" data-depth="0.15">
+        <div class="rocket"><img src="images/rocket.png" alt="logo"/></div>
+      </li>
+      <li class="layer" data-depth="0.30">
+        <div class="text">
+          <p class="sub-title">Early Bird Rates available!</p>
+        </div>
+      </li>
 
-    </div>
-    <p class="birds"><img src="images/birds.png" alt="person being carried throught the air by strings attached to serveral birds."></p>
+      <li class="layer" data-depth="0.42">
+        <div id="particules">
+          <div class="full-height" id="star-third"></div>
+        </div>
+      </li>
+      <li class="layer" data-depth="0.60">
+        <div id="particules">
+          <div class="full-height" id="star-fourth"></div>
+        </div>
+      </li>
+    </ul>
     <p class="jump"><a class="page-scroll" href="#main-content">Jump to content</a></p>
 	</div>
 	<!-- Body Start -->

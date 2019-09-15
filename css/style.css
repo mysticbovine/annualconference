@@ -1,0 +1,250 @@
+/**
+*	BASE
+**/
+
+/**
+* GENERAL
+**/
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  line-height: 1.4em;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.copyright {
+  opacity: 0.5;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  z-index: 9999;
+  font-size: 0.7em;
+  font-family: "Nunito", sans-serif;
+  color: #FFFFFF;
+}
+.copyright a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+}
+.copyright a:hover {
+  color: #ff5000;
+}
+
+/**
+*	PARTICLES
+**/
+#particules {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+#particules #star-second {
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
+}
+#particules #star-third {
+  -webkit-filter: blur(6px);
+          filter: blur(6px);
+}
+#particules #star-fourth {
+  -webkit-filter: blur(12px);
+          filter: blur(12px);
+}
+#particules .full-height {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+#particules .full-height canvas {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/**
+*	SCENE
+**/
+#scene, .layer {
+  display: block;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+#scene {
+  -webkit-transform: translate3d(0px, 0px, 0px);
+          transform: translate3d(0px, 0px, 0px);
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  position: relative;
+  overflow: hidden;
+}
+#scene li.layer div {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+#scene li.layer .background {
+  background: url(/images/background.jpg) no-repeat 50% 25%;
+  position: absolute;
+  background-size: cover;
+  width: 110%;
+  bottom: -20px;
+  left: -5%;
+  top: -5%;
+}
+#scene li.layer .retrostars {
+  opacity: .65;
+  background: url(/images/stars.png) no-repeat 50% 25%;
+  position: absolute;
+  background-size: cover;
+  width: 110%;
+  bottom: -20px;
+  left: -5%;
+  top: -5%;
+}
+#scene li.layer .logo {
+  max-width: 700px;
+  margin: 150px auto;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  -webkit-animation: fadeInLogo 2s cubic-bezier(0.8, -0.49, 0.36, 1);
+          animation: fadeInLogo 2s cubic-bezier(0.8, -0.49, 0.36, 1);
+}
+#scene li.layer .logo img {
+  display: block;
+  width: 100%;
+}
+#scene li.layer .moon {
+  position: absolute;
+  background-size: cover;
+  right: -2%;
+  top: -2%;
+}
+#scene li.layer .rocket {
+  position: absolute;
+  background-size: cover;
+  width: 100%;
+  bottom: 0;
+  left: 2%;
+}
+@media only screen and (max-width: 768px) {
+  #scene li.layer .logo {
+    max-width: 400px;
+  }
+}
+#scene li.layer .text {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 75px auto 0px auto;
+  max-width: 90%;
+  height: 100%;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+#scene li.layer .text h1 {
+  opacity: 0;
+  font-size: 7vh;
+  text-transform: uppercase;
+  padding: 0;
+  margin-bottom: 115px;
+  font-family: "Nunito", sans-serif;
+  -webkit-animation: fadeInTitle 1.5s cubic-bezier(0.8, -0.49, 0.36, 1) 1.25s forwards;
+          animation: fadeInTitle 1.5s cubic-bezier(0.8, -0.49, 0.36, 1) 1.25s forwards;
+}
+#scene li.layer .text p {
+  opacity: 0;
+  font-size: 3.5vh;
+  margin-top: 115px;
+  font-family: "Josefin Slab", cursive;
+  font-weight: bold;
+  -webkit-animation: fadeInSubTitle 1s cubic-bezier(0.8, -0.49, 0.36, 1) 1.75s forwards;
+          animation: fadeInSubTitle 1s cubic-bezier(0.8, -0.49, 0.36, 1) 1.75s forwards;
+}
+@media only screen and (max-width: 768px) {
+  #scene li.layer .text h1 {
+    font-size: 10vw;
+    margin-bottom: 15vw;
+  }
+  #scene li.layer .text p {
+    font-size: 5vw;
+    margin-top: 15vw;
+  }
+}
+
+/**
+*	ANIMATIONS
+**/
+@-webkit-keyframes fadeInLogo {
+  from {
+    opacity: 0;
+    margin: 100px auto 200px auto;
+    -webkit-filter: blur(2px);
+            filter: blur(2px);
+  }
+}
+@keyframes fadeInLogo {
+  from {
+    opacity: 0;
+    margin: 100px auto 200px auto;
+    -webkit-filter: blur(2px);
+            filter: blur(2px);
+  }
+}
+@-webkit-keyframes fadeInTitle {
+  from {
+    opacity: 0;
+    margin: -100px auto -200px auto;
+    -webkit-filter: blur(6px);
+            filter: blur(6px);
+  }
+  to {
+    opacity: 0.85;
+  }
+}
+@keyframes fadeInTitle {
+  from {
+    opacity: 0;
+    margin: -100px auto -200px auto;
+    -webkit-filter: blur(6px);
+            filter: blur(6px);
+  }
+  to {
+    opacity: 0.85;
+  }
+}
+@-webkit-keyframes fadeInSubTitle {
+  from {
+    opacity: 0;
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+  }
+  to {
+    opacity: 0.85;
+  }
+}
+@keyframes fadeInSubTitle {
+  from {
+    opacity: 0;
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+  }
+  to {
+    opacity: 0.85;
+  }
+}
