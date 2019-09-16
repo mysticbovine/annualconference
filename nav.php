@@ -66,7 +66,7 @@
 			<li class="hidden"><a href="table-booking.php" class="">Table Booking</a></li>
 
 			<li><a href="#contact" class="page-scroll" >Contact</a></li>
-			<li><a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-2020-conference-tickets-65612253015?aff=erelexpmlt" target=_blank class="register">Register</a></li>
+			<li><a href="https://d96annualconference2020.eventbrite.ca" target=_blank class="register">Register</a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->

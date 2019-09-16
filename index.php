@@ -106,7 +106,7 @@
           <p class="lead">Stay tuned for more information as the conference team plans out this fun, inspiring Toastmasters Conference.</p>
           
           <p class="">
-            <a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-2020-conference-tickets-65612253015?aff=erelexpmlt" target=_blank class="btn btn-lg btn-register">
+            <a href="https://d96annualconference2020.eventbrite.ca" target=_blank class="btn btn-lg btn-register">
               Join us today!
             </a>
           </p> 
@@ -137,7 +137,7 @@
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District business meeting and elections</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Dancing, risk-taking, and more!</p>
-          <p class=""><a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-2020-conference-tickets-65612253015?aff=erelexpmlt" target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p>
+          <p class=""><a href="https://d96annualconference2020.eventbrite.ca" target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p>
         </div>
       </div>
     </div>
