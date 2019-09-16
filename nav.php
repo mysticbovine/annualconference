@@ -25,7 +25,7 @@
 		  <ul class="nav navbar-nav navbar-right">
 			 
 			<li class="dropdown">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
+			  <a href="#" class="dropdown-toggle hidden" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
 			  <ul class="dropdown-menu">
         <li class=""><a href="team.php">Conference Team</a></li>	 
         <li class=""><a href="hotel.php">Hotel Information</a></li>
@@ -39,7 +39,7 @@
 				<li class="hidden"><a href="live_auction.php">Live Auction</a></li>
 			  </ul>
 			</li>
-      <li class="dropdown">
+      <li class="dropdown hidden">
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li class=""><a href="keynotes.php">Keynotes</a></li>	
@@ -66,7 +66,7 @@
 			<li class="hidden"><a href="table-booking.php" class="">Table Booking</a></li>
 
 			<li><a href="#contact" class="page-scroll" >Contact</a></li>
-			<li><a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-conference-2019-tickets-52593726251" target=_blank class="register">Register</a></li>
+			<li><a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-2020-conference-tickets-65612253015?aff=erelexpmlt" target=_blank class="register">Register</a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
