@@ -291,7 +291,7 @@
 
 /*
  * INITIALISE TYPED
- */
+
 	$('li.layer .text .sub-title').typed({
 		strings: [
 			"Register now! ^1500 ",
@@ -300,4 +300,4 @@
 		loop: true,
 		contentType: 'html',
 		showCursor: false
-	});
+	}); */

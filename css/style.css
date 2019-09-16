@@ -5,32 +5,7 @@
 /**
 * GENERAL
 **/
-body {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  line-height: 1.4em;
-  background-color: black;
-  color: white;
-  overflow: hidden;
-}
 
-.copyright {
-  opacity: 0.5;
-  position: fixed;
-  bottom: 5px;
-  right: 5px;
-  z-index: 9999;
-  font-size: 0.7em;
-  font-family: "Nunito", sans-serif;
-  color: #FFFFFF;
-}
-.copyright a {
-  text-decoration: none;
-  color: rgba(255, 255, 255, 0.5);
-}
-.copyright a:hover {
-  color: #ff5000;
-}
 
 /**
 *	PARTICLES
@@ -171,8 +146,8 @@ body {
   opacity: 0;
   font-size: 3.5vh;
   margin-top: 115px;
-  font-family: "Josefin Slab", cursive;
-  font-weight: bold;
+  color: #fff;
+  font-family: "LubalinGraphBold",serif;
   -webkit-animation: fadeInSubTitle 1s cubic-bezier(0.8, -0.49, 0.36, 1) 1.75s forwards;
           animation: fadeInSubTitle 1s cubic-bezier(0.8, -0.49, 0.36, 1) 1.75s forwards;
 }

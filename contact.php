@@ -36,7 +36,7 @@
                                 <button type="submit" class="btn btn-xl">Send Message</button>
                             </div>
                         </div>
-						<input type="hidden" id="subject" name="subject" value="Fall <?php echo date('Y');?> Conference Contact form"> 
+						<input type="hidden" id="subject" name="subject" value="2020 Annual Conference Contact form"> 
                     </form>
                 </div>
             </div>
