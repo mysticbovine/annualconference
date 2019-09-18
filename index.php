@@ -61,9 +61,7 @@
           <div class="full-height" id="star-second"></div>
         </div>
       </li>
-      <li class="layer" data-depth="0">
-        <div class="logo"><img src="images/logo.png" alt="D96 2020 Annual Conferenece: Shoot For the Moon"/></div>
-      </li>
+      
       
       <li class="layer" data-depth="0.10">
         <div class="moon"><img src="images/moon.png" alt="moon"/></div>
@@ -76,7 +74,9 @@
           <p class="sub-title">Early Bird Rates available!</p>
         </div>
       </li>
-
+      <li class="layer" data-depth="0">
+        <div class="logo"><img src="images/logo.png" alt="D96 2020 Annual Conferenece: Shoot For the Moon"/></div>
+      </li>
       <li class="layer" data-depth="0.42">
         <div id="particules">
           <div class="full-height" id="star-third"></div>
@@ -88,6 +88,9 @@
         </div>
       </li>
     </ul>
+    <p class="reg"> <a href="https://d96annualconference2020.eventbrite.ca" target=_blank class="btn btn-lg btn-register">
+              Join us today!
+            </a></p>
     <p class="jump"><a class="page-scroll" href="#main-content">Jump to content</a></p>
 	</div>
 	<!-- Body Start -->
@@ -153,15 +156,15 @@
   <div id="helping" class="bg-blue faded container-full padding100 text-white includes-bg">	
     <div class="">
       <div class="row">
-        <div class="col-md-2 astro">  
+        <div class="col-sm-2 astro">  
           <div class="astro1"><img src="images/astronaught1.png"  class="img-responsive center-block"/></div>
         </div>
-        <div class="col-md-4 col-sm-6 col-sm-offset-2 callout-black">
+        <div class="col-md-4 col-sm-8 col-md-offset-2 callout-black">
           <h2 class="text-center">Interested in Helping?</h2>
           <p class="lead"> Shoot for the Moon and take your moment to shine at the District 96 2020 Annual Cnference from April 17-19, 2020 in Richmond.</p>
           <p class="lead text-center"><a href="https://d96toastmasters.ca/blog/district/district-96-wants-you-become-conference-volunteer" target=_blank" class="btn btn-lg btn-primary">Find out more!</a> </p>
         </div>
-        <div class="col-md-2 astro  col-sm-offset-2">  
+        <div class="col-sm-2 astro  col-md-offset-2">  
           <div class="astro2"><img src="images/astronaught2.png"  class="img-responsive center-block"/></div>
         </div>
       </div>
