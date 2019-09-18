@@ -126,6 +126,7 @@ h1, h2, h3 {
   padding: 25px;
   background-color: fade(#000, 65);
   border: 1px solid black;
+  z-index:100;
 }
   .hanging-indent {
     padding-left: 32px;
@@ -404,6 +405,10 @@ h1, h2, h3 {
 	position: absolute;
   bottom: 20px;
   width: 100%;
+}
+.reg {
+  position: absolute;
+  bottom: 100px;
 }
 .jump {
 	position: absolute;
@@ -1145,18 +1150,19 @@ section#contact, .form {
 // 2020 styles //
 .astro{
   position: relative;
-  height: 300px;
+
   display: block;
 }
 .astro1{
   position: absolute;
-  bottom: 0;
   left: 0;
+  z-index: 0;
 }
 .astro2{
   position: absolute;
-  top: -100px;
+  top: -200px;
   right: 0;
+  z-index: 0;
 }
 
 @media (max-width: 767px) {
@@ -1202,20 +1208,12 @@ section#contact, .form {
 				position: absolute;
 			}
 		}
-		/*.ed-speakers.row {
-			.bio {
-				height: auto;
-				font-size: 14px;
-				span {
-					font-size: 12px;
-				}
-			}
-		}*/
+
 
     }
 
     /* Small Devices, Tablets */
-    @media only screen and (min-width : 768px) {
+  @media only screen and (min-width : 768px) {
 		/*html {
 			border: 2px solid green;
 		}*/
@@ -1243,8 +1241,28 @@ section#contact, .form {
 				}
 			}
 		}
-		
+    .astro{
+        position: relative;
+        height: 300px;
+        display: block;
+      }
+    .astro1{
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      z-index: 0;
     }
+    .astro2{
+      position: absolute;
+      top: -100px;
+      right: 0;
+      z-index: 0;
+    }
+    #scene li.layer .logo {
+      max-width: 700px;
+    }
+		
+  }
 
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
