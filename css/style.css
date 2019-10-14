@@ -91,7 +91,8 @@
 }
 #scene li.layer .logo {
   max-width: 400px;
-  margin: 300px auto;
+  /* margin: 300px auto; */
+  margin: 180px auto;
   display: flex;
   align-content: center;
   align-items: center;
@@ -113,6 +114,7 @@
   max-width: 200px;
 }
 #scene li.layer .rocket {
+  display: none;
   position: absolute;
   background-size: cover;
   width: 100%;
@@ -121,6 +123,16 @@
 }
 #scene li.layer .rocket img {
   max-width: 340px;
+}
+@media only screen and (min-width : 411px) {
+  #scene li.layer .logo {
+    margin: 200px auto;
+  }
+}
+@media only screen and (width : 1024px) and (height: 768px){
+  body #scene li.layer .text{
+    display: none;
+  }
 }
 @media only screen and (min-width : 768px) {
   #scene li.layer .logo {
@@ -135,9 +147,11 @@
     top: 5%;
   }
   #scene li.layer .moon img {
-    max-width: 300px;
+    /* max-width: 300px; */
+    max-width: 1500px;
   }
   #scene li.layer .rocket {
+  display: block;
   bottom: 0;
   left: 2%;
 }
@@ -146,7 +160,17 @@
   }
 }
 @media only screen and (min-width: 992px) {
-
+  #scene li.layer .logo {
+    margin: 200px auto;
+  }
+  body #scene li.layer .text {
+    margin: 100px auto 0px auto;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  body #scene li.layer .text {
+    margin: 140px auto 0px auto;
+  }
 }
 #scene li.layer .text {
   display: flex;
