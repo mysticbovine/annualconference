@@ -1,12 +1,14 @@
 <?php
   // Data //
   $general = array (
-    'conference'=>"District 96 Spring 2018 Conference",
-    'year'=>"2018",
-    'friday'=>"May 11",
-    'saturday'=>"May 12",
-    'sunday'=>"May 13",
-    'location'=>"Delta Grand (Marriott) Burnaby Conference Centre",
+    'conference'=>"District 96 2020 Annual Conference",
+    'year'=>"2020", 
+    'friday'=>"April 17",
+    'saturday'=>"April 18",
+    'sunday'=>"April 19",
+    'location'=>"Executive Hotel Vancouver Airport",
+    'address'=>"7311 Westminster Hwy, Richmond, BC V6X 1A3",
+    
   );
   
   // Webmaster //
@@ -17,19 +19,21 @@
   
   // Conference chair //
   $chair = array (
-    'name' => "Sheila Cameron",
-    'email' => "itrusttheuniverse@gmail.com",
+    'name' => "Janice Parkinson",
+    'email' => "jprknsn@gmail.com",
+    'name11' => "Kevin Pendergraft",
+    'email1' => "kpend@me.com",
   );
   
   // CL award //
   $CLaward = array (
     'title' => "Communication and Leadership Award Chair",
-    'chair' => "Dorothea Hendriks",
-    'conference' => "District 96 Spring 2018 Conference",
-    'year' => "2018",
-    'email' => "dorothea@dorotheahendriks.com",
-    'email_mask' => "dorothea_*_dorotheahendriks.com",
-    'deadline' => "Saturday, April 14, 2018",
+    'chair' => "Neila Scott",
+    'conference' => "District 96 2020 Annual Conference",
+    'year' => "2020",
+    'email' => "findingup@gmail.com",
+    'email_mask' => "findingup*_dgmail.com",
+    'deadline' => "Friday, December 1, 2019",
   );
   
   // Business Meeting //
