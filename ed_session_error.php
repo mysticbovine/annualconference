@@ -44,22 +44,23 @@
       require_once("data/data.php");
     ?>
 	<!-- Body Start -->
-	<div class="container body">
-		<div class="col-sm-12">
-			<h1 class="page-header text-center">Call for Education Session Presenters: Error</h1>
-		
-			<p class="lead warning text-center">There has been an error is your submission.</p>
-						
-			<p>Please check to see if your attachments were too large:</p>
-				<ul>
-					<li>Try reducing the size of your image to a maximum of 300KB (usually 800px wide by 910px high). </li>
-					<li>If you added photos to your proposal please remove them from the proposal and send them to the <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['title']; ?></a> referencing your speech title.</li>
-				</ul>
+  <div id="main-content" class="bg-yellow faded container-full padding50">
+    <div class="container body ">
+      <div class="col-sm-12">
+        <h1 class="page-header text-center">Call for Education Session Presenters: Error</h1>
+      
+        <p class="lead warning text-center">There has been an error is your submission.</p>
+              
+        <p>Please check to see if your attachments were too large:</p>
+          <ul>
+            <li>Try reducing the size of your image to a maximum of 300KB (usually 800px wide by 910px high). </li>
+            <li>If you added photos to your proposal please remove them from the proposal and send them to the <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['title']; ?></a> referencing your speech title.</li>
+          </ul>
 
-			<p>Please go back and try again. If the error still presists please email the <a href="mailto:<?php echo $webmaster['email']; ?> "><?php echo $general['conference'] ." webmaster, ". $webmaster['name']; ?></a>.</p>
+        <p>Please go back and try again. If the error still presists please email the <a href="mailto:<?php echo $webmaster['email']; ?> "><?php echo $general['conference'] ." webmaster, ". $webmaster['name']; ?></a>.</p>
 
-		</div>
-		
+      </div>		
+    </div>
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->

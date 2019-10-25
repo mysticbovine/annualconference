@@ -43,20 +43,20 @@
       include("banner-internal.php");
       require_once("data/data.php");
     ?>
-	<!-- Body Start -->
-	<div class="container body">
-		<div class="col-sm-12">
-			<h1 class="page-header text-center">Call for Education Session Presenters</h1>
+	<!-- Body Start -->  
+  <div id="main-content" class="bg-yellow faded container-full padding50">
+    <div class="container body">
+      <div class="col-sm-12">
+        <h1 class="page-header text-center">Call for Education Session Presenters</h1>
+      
+        <p class="lead text-center">Thank you! Your submission has been sent.</p>
+        
+        <p class="">If no acknowledgement is received within 5 days of your transmission, contact the <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['email']; ?></a>.</p>
 
-		
-			<p class="lead text-center">Thank you! Your submission has been sent.</p>
-			
-			<p class="">If no acknowledgement is received within 5 days of your transmission, contact the <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['email']; ?></a>.</p>
+        <p class="">The final selection of Education Session Presenters will be made by the Education Session Selection Committee composed of the D96 Trio, Conference Co-Chairs, and the Education Chair. All applicants will be notified of the results.</p>
 
-			<p class="">The final selection of Education Session Presenters will be made by the Education Session Selection Committee composed of the D96 Trio, Conference Co-Chairs, and the Education Chair. All applicants will be notified of the results.</p>
-
-		</div>
-		
+      </div>     
+    </div>
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->
