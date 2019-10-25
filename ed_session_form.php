@@ -37,14 +37,15 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class="bg-yellow faded container-full padding50">
+  <body>
     <?php 
       include("nav.php");
       include("banner-internal.php");
       require_once("data/data.php");
     ?>
 	<!-- Body Start -->
-	<div class="container body">
+  <div id="main-content" class="bg-yellow faded container-full padding50">
+	<div class="container body >
 		<div class="col-sm-12">
 			<h1 class="page-header text-center">Education Session Proposal Submissions</h1>
 
@@ -173,7 +174,7 @@
 		
  
 		</div>
-		
+	</div>
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->
