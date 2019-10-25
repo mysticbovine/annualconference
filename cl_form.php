@@ -117,14 +117,14 @@
 					merit the District 96 Communication & Leadership Award.</p>
 					<p class="help-block text-info">Please do not exceed one page for this explanation.</p>
 					<p class="help-block text-info">Please upload one of the following file formats: doc, .pdf, .rtf, .docx, .txt</p>
-					<input type="file" class="form-control" name="proposal" id="proposal" accept=".doc, .pdf, .rtf, .docx, .txt" required data-validation-required-message="Please upload your propsal.">
+					<input type="file" class="form-control" name="proposal" id="proposal" accept=".doc, .pdf, .rtf, .docx, .txt" required data-validation-required-message="Please upload your nomination reason.">
 					<p class="help-block text-danger"></p>
 				</div>
 				
 				<div class="clearfix"></div>
 				<div class="text-center">
 					<div id="success"></div>
-					<button type="submit" class="btn btn-xl">Send your Proposal</button>
+					<button type="submit" class="btn btn-xl">Submit your Nomination</button>
 				</div>
 				
 				<input type="hidden" id="recipients" name="recipients" value="mysticbovine_*_gmail.com, <?php echo $CLaward['email_mask']; ?>">

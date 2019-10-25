@@ -32,7 +32,18 @@
     'conference' => "District 96 2020 Annual Conference",
     'year' => "2020",
     'email' => "findingup@gmail.com",
-    'email_mask' => "findingup*_dgmail.com",
+    'email_mask' => "findingup_*_dgmail.com",
+    'deadline' => "Friday, December 1, 2019",
+  );  
+  
+  // Ed Session //
+  $EDsession = array (
+    'title' => "Education Chair",
+    'chair' => "Neila Scott",
+    'conference' => "District 96 2020 Annual Conference",
+    'year' => "2020",
+    'email' => "findingup@gmail.com",
+    'email_mask' => "findingup_*_dgmail.com",
     'deadline' => "Friday, December 1, 2019",
   );
   
