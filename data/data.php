@@ -32,7 +32,7 @@
     'conference' => "District 96 2020 Annual Conference",
     'year' => "2020",
     'email' => "findingup@gmail.com",
-    'email_mask' => "findingup_*_dgmail.com",
+    'email_mask' => "findingup_*_gmail.com",
     'deadline' => "Friday, December 1, 2019",
   );  
   
@@ -43,7 +43,7 @@
     'conference' => "District 96 2020 Annual Conference",
     'year' => "2020",
     'email' => "findingup@gmail.com",
-    'email_mask' => "findingup_*_dgmail.com",
+    'email_mask' => "findingup_*_gmail.com",
     'deadline' => "Friday, December 1, 2019",
   );
   
