@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Annual Conference 2019 | Hotel Information | District 96 Toastmasters</title>
+    <title>Annual Conference 2020 | Hotel Information | District 96 Toastmasters</title>
 
 	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
@@ -37,34 +37,74 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class="bg-blue faded">
-    <?php include("nav.php");?>
-	<?php include("banner-internal.php");?>
+  <body class="bg-yellow faded">
+    <?php 
+      include("nav.php");
+      include("banner-internal.php");
+      require_once("data/data.php");
+    ?>
 	<!-- Body Start -->
+  <div id="main-content" class="container-full padding50">
 	<div class="container body ">
 		<div class="col-sm-12 text-center">
-			<h1 class="page-header">Hotel Information</h1>
-			
-		
+			<h1 class="page-header text-center">Hotel Information</h1>
+	 <p class="lead">Shoot for the Moon from your hotel base camp with a Special Toastmasters Rate for guest rooms during the 2020 Annual Conference!</p>
+      
 		</div>
 		
     <div class="col-sm-8">
-      <p class="lead">With an unparalleled view of North Vancouver’s waterfront, it’s hard not to be awestruck by the sheer beauty of the Pinnacle Hotel at the Pier location.</p>
-      
+     
  
 
-  <h2>Special Toastmasters Rate for Guest Room Reservations:</h2>
 
-  <p class="well">$179 conference guest room rate<br />
-Guest room charges are subject to 2% municipal hotel room tax, 5% GST and 8% PST.</p>
+<p>We are pleased to confirm the following room very special reduced rates for this Conference:</p>
+<div class="well">
+<table class="table table-bordered" style="width: 100%;">
+<thead class="thead-dark">
+  <tr>
+    <th scope="col">Room Type</th>
+    <th scope="col">Single/Double Rate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">Plaza/Courtyard Room</th>
+		<td>$159</td>
+  </tr>
+  <tr>
+    <th scope="row">One Bedroom Condo Suite</th>
+    <td>$189</td>
+  </tr>
+  <tr>
+    <th scope="row">Two Bedroom Condo Suite</th>
+    <td>$219</td>
+  </tr>
+</tbody>
+</table>
+</div>
+  
 
-  <p><b>Group ID code:</b> <em>220905</em> – delegates must quote group code when making room reservations.</p>
-  <p>
-    <b>Hotel Reservation Phone:</b> <a href="tel:16049867437">604 986 7437</a><br />
-    <b>Toll Free Reservation:</b> <a href="tel:18779867437">1 877 986 7437</a><br />
-    <b>Reservation email:</b> <a href="mailto:info@pinnacleatthepier.com">info@pinnacleatthepier.com</a>
-  </p>
-     <iframe class="img-rounded img-thumbnail" style="height: 400px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2601.196145618438!2d-123.08126948419745!3d49.31056897671514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486704ce02dcc25%3A0xd2f53c69cbb220ac!2sPinnacle+Hotel+at+the+Pier!5e0!3m2!1sen!2sca!4v1549431554411" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe> 
+
+<p>Special rate includes:  </p>
+
+<ul>
+	<li>Overnight Parking (Value $16.75/night)  </li>
+	<li>High-speed Internet /WIFI in the guestroom (Value $9.95/day).  </li>
+	<li>Free Local Calls  </li>
+	<li>Free Airport Transfer during 5am – 11.pm (Value $40 both way)</li>
+	<li>Rates quoted are for Single or DBL Occupancy (maximum 2 Adult +2 Child under 15), additional charges of $20 PP may apply</li>
+</ul>
+
+<p>Also please note these rates are based on the type of rooms available and quoted on a daily basis, in Canadian funds,  and  are  currently  subject  to 11%  Provincial  Room  Tax,  5%  Federal  Goods  &amp;  Services  Taxes  plus  1.16%  Destination Marketing Fee. The special guestroom rates are inclusive of 10% commission for Helms Briscoe and available three days before and three days after the event date.</p>
+
+<h3>Reservations:</h3>
+
+<p>Guests will be responsible for calling the hotel and making their reservations.<strong> Guests may call locally at 604-278-5555 or Toll-free at 1-800-663-2878. Please quote "Toastmasters" and guarantee their reservation</strong> with a valid credit card, as well as payment of room &amp; tax and their incidental Charges.  Unless otherwise specified in writing by the Organizer, all guests will be responsible for own room, tax and incidental charges. <strong>ASK FOR IN-HOUSE RESERVATIONS.</strong></p>
+
+<p>All reservations will be guaranteed for late arrival to The Individual guests with own method of Payment” for the first night’s room &amp; tax</p>
+
+
+     <iframe class="img-rounded img-thumbnail" style="height: 400px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10434.295512068764!2d-123.145162!3d49.170696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x94153e1e8b71cb3!2sExecutive%20Hotel%20Vancouver%20Airport!5e0!3m2!1sen!2sca!4v1573100583527!5m2!1sen!2sca" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe> 
 <h3>Reserve your room for the conference now!</h3>
     </div>
 <div class="col-sm-4">
@@ -78,6 +118,7 @@ Guest room charges are subject to 2% municipal hotel room tax, 5% GST and 8% PST
 
 
 		</div>
+	</div>
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Education Session Proposal Submissions | Annual Conference | District 96 Toastmasters</title>
+    <title>Call for Friday Fun Night Speakers Form | Annual Conference | District 96 Toastmasters</title>
 
 	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
@@ -47,7 +47,7 @@
   <div id="main-content" class="bg-yellow faded container-full padding50">
 	<div class="container body >
 		<div class="col-sm-12">
-			<h1 class="page-header text-center">Call for Education Sessions Proposals</h1>
+			<h1 class="page-header text-center">Call for Friday Funn Speakers</h1>
 
 		
 			<p class="lead text-center">Please fill out the form below to submit your proposal.</p>
