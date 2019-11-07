@@ -3,6 +3,7 @@ ai-cache/*
 less/*
 notneeded/*
 error-log
+mail/error_log
 
 # Packages #
 ############
