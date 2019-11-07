@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Communication & Leadership Award | Annual Conference | District 96 Toastmasters</title>
+    <title>Call for Friday Fun Night Speakers Error | Annual Conference | District 96 Toastmasters</title>
 
-	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca"
+	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/d96conference.css" rel="stylesheet">
@@ -37,47 +37,30 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body>
+  <body class="bg-yellow faded container-full padding50">
     <?php 
-    include("nav.php");
-    include("banner-internal.php");
-     require_once("data/data.php");
+      include("nav.php");
+      include("banner-internal.php");
+      require_once("data/data.php");
     ?>
 	<!-- Body Start -->
   <div id="main-content" class="bg-yellow faded container-full padding50">
-	<div class="container body ">
-		<div class="col-sm-12">
-			<h1 class="page-header text-center">Communication & Leadership Award Nominations</h1>
-		</div>
-		<div class="col-sm-8 col-sm-offset-2">
-		
-			<p class="lead text-center">The purpose of the Communication and Leadership award is to honour a non-Toastmaster who has made substantial contributions in the areas of communication and leadership.</p>
+    <div class="container body ">
+      <div class="col-sm-12">
+        <h1 class="page-header text-center">Call for Education Session Presenters: Error</h1>
       
-      <p>The criteria used to select the recipient for this award includes the following:</p>
-      <ul>
-        <li>Must be a resident of the geographical area covered by District 96.</li>
+        <p class="lead warning text-center">There has been an error is your submission.</p>
+              
+        <p>Please check to see if your attachments were too large:</p>
+          <ul>
+            <li>Try reducing the size of your image to a maximum of 300KB (usually 800px wide by 910px high). </li>
+            <li>If you added photos to your proposal please remove them from the proposal and send them to the <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['title']; ?></a> referencing your speech title.</li>
+          </ul>
 
-        <li>Must be a non-Toastmaster or a former Toastmaster.</li>
+        <p>Please go back and try again. If the error still presists please email the <a href="mailto:<?php echo $webmaster['email']; ?> "><?php echo $general['conference'] ." webmaster, ". $webmaster['name']; ?></a>.</p>
 
-        <li>Should have distinguished himself/herself as a leader or spokesperson for a worthy cause or purpose, especially as it exemplified their communication and leadership skills.</li>
-
-        <li>Should have made a significant contribution to the communities within the District. The impact of this contribution must not be limited to one organization, but must be community/district wide.</li>
-
-        <li>Should support the Toastmasters organization.</li>
-
-        <li>Must not be presented to a recipient a second time.</li>
-
-        <li>Must be able to personally accept the award and give an acceptance address at the District 96 Spring 2020 Conference</li>
-      </ul>
-      <h3 class="text-center">How do you nominate someone for the 
-      Communication & Leadership Award?<br /></h3>
-      <p class="text-center lead">Simple!  Fill out the <br />
-      <a class="btn btn-lg btn-register" href="cl_form.php">Nomination form</a>
-      </p>
-      
-		</div>
-	</div>
-	</div>
+      </div>		
+    </div>
 	</div>
 	<!-- Body End -->
 	<!-- Footer Start -->
@@ -86,5 +69,6 @@
 	<!-- Footer End -->
 
     <?php include("scripts.php");?>
+	 <script src="js/educationsession.js"></script>
   </body>
 </html>

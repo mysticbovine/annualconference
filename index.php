@@ -105,7 +105,7 @@
           </div>
           <h2>April 17 to 19, 2020</h2>         
           
-          <p class="lead">Shoot for the moon at the District 96 Annual 2020 Conference at the Richmond Executive Hotel Vancouver Airport (7311 Westminster Highway).</p>
+          <p class="lead">Shoot for the moon at the District 96 Annual 2020 Conference at the <a href="hotel.php">Richmond Executive Hotel Vancouver Airport (7311 Westminster Highway)</a>.</p>
           <p class="lead">Stay tuned for more information as the conference team plans out this fun, inspiring Toastmasters Conference.</p>
           
           <p class="">
@@ -146,8 +146,8 @@
     </div>
   </div>
   <div id="location" class="bg-blue faded container-full">
-    <div class="videoWrapper">
-      <iframe src="https://snazzymaps.com/embed/184955" width="100%" height="300px" style="border:none;"></iframe>
+    <div class="">
+      <iframe class="img-rounded img-thumbnail" style="height: 600px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10434.295512068764!2d-123.145162!3d49.170696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x94153e1e8b71cb3!2sExecutive%20Hotel%20Vancouver%20Airport!5e0!3m2!1sen!2sca!4v1573100583527!5m2!1sen!2sca" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
   </div>
   
