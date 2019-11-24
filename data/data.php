@@ -66,11 +66,17 @@
   // Sponsor //
   $sponsors = array (
     'title' => "Sponsorship Co-Chairs",
-    'name1' => "Neil Booth",
-    'email1' => "nbooth@dccnet.com",
-    'name2' => "Kyriaki Papadopoulou",
-    'email2' => "kyriaki.papadopoulou86@gmail.com",
+    'name1' => "Johanna Rzepa",
+    'email1' => "sponsorships@d96toastmasters.ca",
+    'name2' => "William Baker",
+    'email2' => "",
   );
+  $advertising = array (
+    'program-chair' => "Rob Evans",
+    'program-chair-email' => "webmaster@d96toastmasters.ca",
+
+    
+  )
 
   
 ?>

@@ -167,7 +167,7 @@
 					<button type="submit" class="btn btn-xl">Send your Proposal</button>
 				</div>
 				
-				<input type="hidden" id="recipients" name="recipients" value="mysticbovine_@_gmail.com,<?php echo $EDsession['email_mask']; ?>">
+				<input type="hidden" id="recipients" name="recipients" value="mysticbovine_*_gmail.com,<?php echo $EDsession['email_mask']; ?>">
 				<input type="hidden" name="good_url" value="../ed_session_submitted.php" />
 				<input type="hidden" name="bad_url" value="../ed_session_error.php" />
 			</form>
