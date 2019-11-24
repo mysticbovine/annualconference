@@ -122,13 +122,12 @@
         502-306 Sixth St.<br />
         New Westminster, BC
       </p>
+      <p>Payment can also be e-transferred to District 96: sponsorships@d96toastmasters.ca </p>
 
       
 			<h3>Any questions?</h3>  
-			<p>Please contact the <?php echo $sponsors['title']; ?> directly:<br />
-				<b><?php echo $sponsors['name1']; ?></b> or <b><?php echo $sponsors['name2']; ?></b> at <a href="mailto:<?php echo $sponsors['email1']; ?>"><?php echo $sponsors['email1']; ?></a>
+			<p>Please contact the <b>Sponsorship Team</b> directly at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>
 			</p>
-      <p>For <b>advertisment submissions questions</b> please contact <?php echo $advertising['program-chair']; ?> at <a href="mailto:<?php echo $advertising['program-chair-email']; ?>"><?php echo $advertising['program-chair-email']; ?></a></p>
 		</div>
 	</div>
 	</div>
