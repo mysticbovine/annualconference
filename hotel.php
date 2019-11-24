@@ -58,7 +58,7 @@
 
 
 <p>We are pleased to confirm the following room very special reduced rates for this Conference:</p>
-<div class="well">
+
 <table class="table table-bordered" style="width: 100%;">
 <thead class="thead-dark">
   <tr>
@@ -81,7 +81,7 @@
   </tr>
 </tbody>
 </table>
-</div>
+
   
 
 

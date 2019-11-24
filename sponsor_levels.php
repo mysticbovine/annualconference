@@ -46,36 +46,184 @@
         <?php echo $CLaward['']; ?> 
         <?php echo $general['']; ?> */
     ?>
-	<!-- Body Start -->
+	<!-- Body Start -->  
+  
   <div id="main-content" class="bg-yellow faded container-full padding50">
 	<div class="container body">
 		<div class="col-sm-12">
-			<h1 class="page-header">Sponsorship</h1> 
-			<p class="lead">Do you want to raise the profile of your organization? </p>
-			<p>We offer a unique and effective way to do so, in conjunction with the <?php echo $general['conference']; ?>.  This three-day event will take place from Friday, <?php echo $general['friday']; ?> to Sunday, <?php echo $general['sunday']; ?>, <?php echo $general['year']; ?> at the <?php echo $general['location']; ?>.  We anticipate 200 attendees from throughout British Columbia.</p>
-			<p>Toastmasters International is a 92-year old educational organization, dedicated to helping its members become capable, confident leaders and speakers.
-			<p>There are several different ways for you to raise the profile of your business or community group…</p>
+			<h1 class="page-header text-center">Sponsorship</h1> 
+			<p class="lead">District 96 of Toastmasters International invites your organization to sponsor our annual conference to be held April 17-19, 2020 at the Executive Hotel Vancouver Airport in Richmond, BC.</p>
+			<p>Sponsoring our conference gives you an opportunity to increase visibility of your <b>brand, products and services</b>. It also shows your commitment to communication and leadership development and your support for our non-profit organization.</p>
+      <p>The proceeds help provide 3,000+ members in local Toastmasters clubs in British Columbia & the Yukon with opportunities to develop valuable skills, including:</p>
+      
+      <ul>
+        <li>Public Speaking, Communication, and Leadership </li>
+        <li>Organization, Planning, and Implementation </li>
+        <li>Facilitation, Team Building, and Networking </li>
+      </ul>
 		
-			
-				<p><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Promote your business’ services and products through in-kind donations to our Silent Auction.<br />
-				<span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Advertise in our Conference Program.<br />
-				<span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Sponsor someone from your organization to attend the Conference.</p>
-	
-			
+      <h3>Conference Sponsorship Levels</h3>
+      <p>As a sponsor, your organization will receive recognition at our three-day conference before 200+ delegates that include mid- to senior-level executives from private and government enterprise and entrepreneurs from a broad range of industries, as well as an opportunity to be acknowledged on our conference website and in our conference program.</p>
+      <div class="row sponsor-levels">
+				<div class="col-sm-3">
+					<div class="level">					
+						<h2 class="platinum">Platinum Sponsor</h2>
+						<h3 class="platinum"><span class="uppercase">$10,000</span></h3>
 
-			<p>If you wish to make an in-kind donation, gift cards/certificates, specific items and creative gift baskets are all welcome.</p>  
-			<p>In return, your generous donation will be recognized via logo and acknowledgement in the Conference Program; logo and acknowledgement on the Conference website and in-Conference promotions; and both verbal and signage recognition at main meals.</p>
+						<ul>							
+							<li><b>Company Sign</b> in Main Ballroom</li>
+							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>4 tickets </b> to the Full Conference</li>
+							<li><b>Logo and Link</b> placement on our website</li>
+							<li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>		
+				</div>
 
+        <div class="col-sm-3">
+					<div class="level">					
+						<h2 class="gold">Gold Sponsor</h2>
+						<h3 class="gold"><span class="uppercase">$5,000</span></h3>
+
+						<ul>							
+							<li><b>Company Sign</b> in Main Ballroom</li>
+							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>2 tickets </b> to the Full Conference</li>
+							<li><b>Logo and Link</b> placement on our website</li>
+							<li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>		
+				</div>		
+						
+			
+				<div class="col-sm-3">
+					<div class="level">		
+						<h2 class="silver">Silver Sponsor</h2>
+						<h3 class="silver"><span class="uppercase">$2,500</span></h3>
+				
+            <ul>							
+              <li><b>Company Sign</b> in Main Ballroom</li>
+              <li><b>Half-Page Ad</b> in the Program</li>
+              <li><b>2 tickets </b> to the Full Conference</li>
+              <li><b>Logo and Link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+            </ul>		
+          </div>		
+        </div>
+				<div class="col-sm-3">
+					<div class="level">					
+						<h2 class="bronze">Bronze Sponsor</h2>
+						<h3 class="bronze"><span class="uppercase">$1,000</span></h3>
+					
+						<ul>							
+							<li><b>Company Sign</b> in Main Ballroom</li>
+							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>2 tickets </b> to the Saturday Keynote and Contest</li>
+							<li><b>Logo and Link</b> placement on our website</li>
+							<li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>		
+				</div>		
+			</div>
+						
+      <h3>Exclusive Sponsorship Opportunities</h3>
+      <p>We also invite you to sponsor individual conference sessions or individual attendee registrations. We have lots of opportunities!</p>
+      <div class="row sponsor-levels">
+				<div class="col-sm-6">
+					<div class="level">					
+						<h2 class="exclusive">Friday Fun Night Evening Reception</h2>
+						<h3 class="exclusive"><span class="uppercase">$500 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Signage</b> in the room during the event</li>
+              <li><b>2 Tickets</b> for the Friday Fun Night </li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>
+				</div>
+        <div class="col-sm-6">
+          <div class="level">					
+						<h2 class="exclusive">Breakfast Workshop Session (Saturday)</h2>
+						<h3 class="exclusive"><span class="uppercase">$250 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Signage</b> in the room during the event</li>
+              <li><b>2 Tickets</b>  for Breakfast Workshop Session</li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>
+        </div>
+      </div>
+      <div class="row sponsor-levels">
+        <div class="col-sm-6">          
+          <div class="level">					
+						<h2 class="exclusive">Communication and Leadership Award Lunch</h2>
+						<h3 class="exclusive"><span class="uppercase">$500 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Signage</b> in the room during the event</li>
+              <li><b>2 Tickets</b>  for the Communication and Leadership Award Lunch</li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>
+        </div>
+        <div class="col-sm-6">          
+          <div class="level">					
+						<h2 class="exclusive">Saturday Evening Reception</h2>
+						<h3 class="exclusive"><span class="uppercase">$500 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Signage</b> in the room during the event</li>
+              <li><b>2 Tickets</b>  for the Saturday Evening Dinner and Keynote</li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>          
+				</div>
+      </div>
+      <div class="row sponsor-levels">
+        <div class="col-sm-6">          
+          <div class="level">					
+						<h2 class="exclusive">International Speech Contest (Saturday)</h2>
+						<h3 class="exclusive"><span class="uppercase">$250 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Mention</b> on the contest program (“Speech contest sponsored by…”)</li>
+              <li><b>2 Tickets</b>  for the International speech contest</li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>          
+				</div>
+        <div class="col-sm-6">          
+          <div class="level">					
+						<h2 class="exclusive">Evaluation Contest (Sunday)</h2>
+						<h3 class="exclusive"><span class="uppercase">$250 donation</span></h3>
+
+						<ul>							
+              <li><b>Half-Page</b> ad</li>
+              <li><b>Mention</b> on the contest program (“Evaluation contest sponsored by…”)</li>
+              <li><b>2 Tickets</b>  for the Evaluation contest</li>
+              <li><b>Logo and link</b> placement on our website</li>
+              <li><b>Promotional or informational</b> item in swag bag</li>
+						</ul>
+					</div>          
+				</div>
+      </div>
+      
+      
 			<h3>Any questions?</h3>  
 			<p>Please contact the <?php echo $sponsors['title']; ?> directly:<br />
-				<b><?php echo $sponsors['name1']; ?></b>, <a href="mailto:<?php echo $sponsors['email1']; ?>"><?php echo $sponsors['email1']; ?></a><br />
-				<b><?php echo $sponsors['name2']; ?></b>, <a href="mailto:<?php echo $sponsors['email2']; ?>"><?php echo $sponsors['email2']; ?></a>
+				<b><?php echo $sponsors['name1']; ?></b> or <b><?php echo $sponsors['name2']; ?></b> at <a href="mailto:<?php echo $sponsors['email1']; ?>"><?php echo $sponsors['email1']; ?></a>
 			</p>
-			
-			<p class="hidden hidden-xs"><a href="advertising.php"class="btn btn-register btn-lg">Click here for advertising opportunities</a></p>
-			<p class="hidden visible-xs"><a href="advertising.php"class="btn btn-register btn-lg">Intersted in advertising?</a></p>
-
-			
 		</div>
 	</div>
 	</div>
