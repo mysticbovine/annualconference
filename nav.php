@@ -23,54 +23,45 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	   
 		  <ul class="nav navbar-nav navbar-right">
+      
+			<li class="dropdown">
+			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
+			  <ul class="dropdown-menu">
+        <li class=""><a href="hotel.php">Hotel Information</a></li>
+        <li class="disabled"><a href="schedule.php">Schedule (coming soon)</a></li>			
+        <li class="disabled"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
+				<li class="disabled"><a href="businessmeeting.php">Business Meeting (coming soon)</a></li>
+        
+        <li class="hidden"><a href="awards.php" class="hidden">Awards</a></li>
+				<li class="hidden"><a href="contests.php">Contests (coming soon)</a></li>
+				<li class="hidden"><a href="silent_auction.php">Silent Auction</a></li>
+				<li class="hidden"><a href="live_auction.php">Live Auction</a></li>
+			  </ul>
+			</li>
       <li class="dropdown">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Awards and Submissions <span class="caret"></span></a>
+         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li class="disabled"><a href="keynotes.php">Keynotes (coming soon)</a></li>	
+            <li class="disabled"><a href="educations.php">Education Sessions (coming soon)</a></li>	
+          </ul>
+      </li>
+      
+			<li class="dropdown">
+			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsors & Advertisers<span class="caret"></span></a>
+			  <ul class="dropdown-menu">
+				<li class="hidden"><a href="sponsors.php">Our Sponsors</a></li>
+				<li class=""><a href="sponsor_levels.php">Become a Sponsor</a></li>
+				<li class=""><a href="advertising.php">Advertise your business</a></li>
+			  </ul>
+			</li>
+			<li class="dropdown">
+			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Call for Submissions<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li class=""><a href="communication-leadership.php">C&L Award Nominations</a></li>
           <li class=""><a href="ed_session_form.php">Ed Session Proposals</a></li>
           <li class=""><a href="fridayfun.php">Friday Fun Night Speakers</a></li>
         </ul>
       </li>
-			<li class="dropdown">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
-			  <ul class="dropdown-menu">
-        <li class="hidden"><a href="team.php">Conference Team</a></li>	 
-        <li class=""><a href="hotel.php">Hotel Information</a></li>
-        <li class="hidden"><a href="schedule.php">Schedule</a></li>
-				<li class="hidden"><a href="communication-leadership.php">Communication & Leadership Award</a></li>
-        <li class="hidden"><a href="educations.php" class="">Education Sessions</a></li>
-				<li class="hidden"><a href="businessmeeting.php">Business Meeting</a></li>
-				<li class="hidden"><a href="awards.php" class="hidden">Awards</a></li>
-				<li class="hidden"><a href="contests.php">Contests</a></li>
-				<li class="hidden"><a href="silent_auction.php">Silent Auction</a></li>
-				<li class="hidden"><a href="live_auction.php">Live Auction</a></li>
-			  </ul>
-			</li>
-      <li class="dropdown hidden">
-         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li class=""><a href="keynotes.php">Keynotes</a></li>	
-            <li class=""><a href="educations.php">Education Sessions</a></li>	
-          </ul>
-      </li>
-      <li class="hidden"><a href="keynotes.php">Keynotes</a></li>
-      <li class="hidden"><a href="sponsors.php">Our Sponsors</a></li>
-			<li class="dropdown hidden">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsors <span class="caret"></span></a>
-			  <ul class="dropdown-menu">
-				<li class="hidden"><a href="sponsors.php">Our Sponsors</a></li>
-				<li class="hidden"><a href="sponsor_levels.php">Become a Sponsor</a></li>
-				<li class="hidden"><a href="advertising.php">Advertising Opportunities</a></li>
-			  </ul>
-			</li>
-						
-			<li class="dropdown hidden">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Education Sessions<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li class=""><a href="edsession.php">Call for Speakers</a></li>
-        </ul>
-      </li>
-			<li class="hidden"><a href="table-booking.php" class="">Table Booking</a></li>
 
 			<li><a href="#contact" class="page-scroll" >Contact</a></li>
 			<li><a href="https://d96annualconference2020.eventbrite.ca" target=_blank class="register">Register</a></li>

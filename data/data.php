@@ -33,7 +33,7 @@
     'year' => "2020",
     'email' => "findingup@gmail.com",
     'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Friday, December 1, 2019",
+    'deadline' => "Sunday, December 1, 2019",
   );  
   
   // Ed Session //
@@ -44,7 +44,7 @@
     'year' => "2020",
     'email' => "findingup@gmail.com",
     'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Friday, December 1, 2019",
+    'deadline' => "Sunday, December 1, 2019",
   );
   
   // Business Meeting //
@@ -65,7 +65,7 @@
   
   // Sponsor //
   $sponsors = array (
-    'title' => "Sponsorship Co-Chairs",
+    'title' => "Sponsorship Chair",
     'name1' => "Johanna Rzepa",
     'email1' => "sponsorships@d96toastmasters.ca",
     'name2' => "William Baker",
