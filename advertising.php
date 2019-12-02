@@ -51,8 +51,8 @@
   <div id="main-content" class="bg-yellow faded container-full padding50">
 	<div class="container body">
 		<div class="col-sm-12">
-			<h1 class="page-header text-center">Advertising Rates</h1> 
-			<p class="lead">Advertise your business or club in the <?php echo $general['conference']; ?> program and get  your name in front of 200+ delegates.</p>
+			<h1 class="page-header text-center">Advertising Opportunties</h1> 
+			<p class="lead">Advertise your business or club in the <?php echo $general['conference']; ?> program brochure and get  your name in front of 200+ delegates.</p>
 			<h3>Ad Sizes and Rates</h3>
       <table class="table table-bordered table-striped table-hover" style="width: 100%;">
         <thead class="thead-dark">
@@ -120,14 +120,16 @@
       <p><b>Toastmasters District 96</b><br />
         c/o Mary Dunn, Finance Manager<br />
         502-306 Sixth St.<br />
-        New Westminster, BC
+        New Westminster, BC<br />
+        V3L 0C9
       </p>
       <p>Payment can also be e-transferred to District 96: sponsorships@d96toastmasters.ca </p>
 
       
-			<h3>Any questions?</h3>  
-			<p>Please contact the <b>Sponsorship Team</b> directly at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>
+			<h3>Questions or Ad Submissions</h3>  
+			<p>To submit your ad or ask a question, please contact the <b>Sponsorship Team</b> at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>.
 			</p>
+       <p class="">For sponsorship opportunities please visit the <a href="sponsor_levels.php">Become a Spornsops page</a>.</p>
 		</div>
 	</div>
 	</div>

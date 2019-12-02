@@ -51,7 +51,7 @@
   <div id="main-content" class="bg-yellow faded container-full padding50">
 	<div class="container body">
 		<div class="col-sm-12">
-			<h1 class="page-header text-center">Sponsorship</h1> 
+			<h1 class="page-header text-center">Become a Sponsor</h1> 
 			<p class="lead">District 96 of Toastmasters International invites your organization to sponsor our annual conference to be held April 17-19, 2020 at the Executive Hotel Vancouver Airport in Richmond, BC.</p>
 			<p>Sponsoring our conference gives you an opportunity to increase visibility of your <b>brand, products and services</b>. It also shows your commitment to communication and leadership development and your support for our non-profit organization.</p>
       <p>The proceeds help provide 3,000+ members in local Toastmasters clubs in British Columbia & the Yukon with opportunities to develop valuable skills, including:</p>
@@ -63,7 +63,7 @@
       </ul>
 		
       <h3>Conference Sponsorship Levels</h3>
-      <p>As a sponsor, your organization will receive recognition at our three-day conference before 200+ delegates that include mid- to senior-level executives from private and government enterprise and entrepreneurs from a broad range of industries, as well as an opportunity to be acknowledged on our conference website and in our conference program.</p>
+      <p>As a sponsor, your organization will receive recognition at our three-day conference before 200+ delegates that include mid- to senior-level executives from private and government enterprise and entrepreneurs from a broad range of industries, as well as an opportunity to be acknowledged on our conference website and in our conference program brochure.</p>
       <div class="row sponsor-levels">
 				<div class="col-sm-3">
 					<div class="level">					
@@ -72,7 +72,7 @@
 
 						<ul>							
 							<li><b>Company Sign</b> in Main Ballroom</li>
-							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>Full-Page Ad</b> in the Program Brochure</li>
 							<li><b>4 tickets </b> to the Full Conference</li>
 							<li><b>Logo and Link</b> placement on our website</li>
 							<li><b>Promotional or informational</b> item in swag bag</li>
@@ -87,7 +87,7 @@
 
 						<ul>							
 							<li><b>Company Sign</b> in Main Ballroom</li>
-							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>Full-Page Ad</b> in the Program Brochure</li>
 							<li><b>2 tickets </b> to the Full Conference</li>
 							<li><b>Logo and Link</b> placement on our website</li>
 							<li><b>Promotional or informational</b> item in swag bag</li>
@@ -103,7 +103,7 @@
 				
             <ul>							
               <li><b>Company Sign</b> in Main Ballroom</li>
-              <li><b>Half-Page Ad</b> in the Program</li>
+              <li><b>Half-Page Ad</b> in the program brochure</li>
               <li><b>2 tickets </b> to the Full Conference</li>
               <li><b>Logo and Link</b> placement on our website</li>
               <li><b>Promotional or informational</b> item in swag bag</li>
@@ -117,7 +117,7 @@
 					
 						<ul>							
 							<li><b>Company Sign</b> in Main Ballroom</li>
-							<li><b>Full-Page Ad</b> in the Program</li>
+							<li><b>Full-Page Ad</b> in the program brochure </li>
 							<li><b>2 tickets </b> to the Saturday Keynote and Contest</li>
 							<li><b>Logo and Link</b> placement on our website</li>
 							<li><b>Promotional or informational</b> item in swag bag</li>
@@ -196,7 +196,7 @@
 
 						<ul>							
               <li><b>Half-Page</b> ad</li>
-              <li><b>Mention</b> on the contest program (“Speech contest sponsored by…”)</li>
+              <li><b>Mention</b> on the contest program brochure (“Speech contest sponsored by…”)</li>
               <li><b>2 Tickets</b>  for the International speech contest</li>
               <li><b>Logo and link</b> placement on our website</li>
               <li><b>Promotional or informational</b> item in swag bag</li>
@@ -210,7 +210,7 @@
 
 						<ul>							
               <li><b>Half-Page</b> ad</li>
-              <li><b>Mention</b> on the contest program (“Evaluation contest sponsored by…”)</li>
+              <li><b>Mention</b> on the contest program brochure (“Evaluation contest sponsored by…”)</li>
               <li><b>2 Tickets</b>  for the Evaluation contest</li>
               <li><b>Logo and link</b> placement on our website</li>
               <li><b>Promotional or informational</b> item in swag bag</li>
@@ -224,12 +224,15 @@
       <p><b>Toastmasters District 96</b><br />
         c/o Mary Dunn, Finance Manager<br />
         502-306 Sixth St.<br />
-        New Westminster, BC
+        New Westminster, BC<br />
+        V3L 0C9
+
       </p>
       <p>Payment can also be e-transferred to District 96: sponsorships@d96toastmasters.ca </p>
 
 			<h3>Any questions?</h3>  
 			<p>Please contact the <b>Sponsorship Team</b> directly at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>
+      <p class="">For advetising opportunities please visit the <a href="advertising.php">Advertising Opportunities page</a>.</p>
 			</p>
 		</div>
 	</div>
