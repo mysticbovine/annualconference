@@ -129,7 +129,7 @@
 			<h3>Questions or Ad Submissions</h3>  
 			<p>To submit your ad or ask a question, please contact the <b>Sponsorship Team</b> at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>.
 			</p>
-       <p class="">For sponsorship opportunities please visit the <a href="sponsor_levels.php">Become a Spornsops page</a>.</p>
+       <p class="">For sponsorship opportunities please visit the <a href="sponsor_levels.php">Become a Sponsor page</a>.</p>
 		</div>
 	</div>
 	</div>
