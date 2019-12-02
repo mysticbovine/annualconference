@@ -232,7 +232,7 @@
 
 			<h3>Any questions?</h3>  
 			<p>Please contact the <b>Sponsorship Team</b> directly at <a href="mailto:sponsorships@d96toastmasters.ca">sponsorships@d96toastmasters.ca</a>
-      <p class="">For advetising opportunities please visit the <a href="advertising.php">Advertising Opportunities page</a>.</p>
+      <p class="">For advertising opportunities please visit the <a href="advertising.php">Advertising Opportunities page</a>.</p>
 			</p>
 		</div>
 	</div>
