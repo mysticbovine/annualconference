@@ -65,7 +65,7 @@
     <li>Speech may be humourous, informational or any style that appeals to you and your message</li>
     <li>Take-away benefits for the audience</li>
   </ul>
-  <p>The deadline to apply is midnight <strong>December 1, 2019</strong>.</p>
+
   <p><strong>Please note:</strong></p>
   <ol>
     <li>You are responsible for any handouts. All audio/visual requirements must meet with what the conference is supplying. </li>
@@ -75,11 +75,13 @@
     <li>This speech qualifies for a Level 5 Pathways presentation, Prepare to Speak Professionally. You will be responsible for finding your own evaluator.</li>
   </ol>
  
+  
  
   <p class="text-center">To submit your proposal, download and fill out the form below and send it to the <?php echo $general['conference']; ?>  <?php echo $EDsession['title']; ?>  <?php echo $EDsession['chair']; ?> at <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['email']; ?></a>.</p>
   <p class="text-center">
     <a href="document/Friday_Fun_Proposal_form.pdf" target=_blank" class="btn btn-lg btn-register">Friday Fun Form</a>
-  </p>  
+  </p>
+ <p class="lead text-warning text-center">The deadline for proposals is <?php echo $EDsession['deadline']; ?>  at 11:59pm (PST).</p>  
 		</div>
 	</div>
 	</div>
