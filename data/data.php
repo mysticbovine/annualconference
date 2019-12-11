@@ -33,7 +33,7 @@
     'year' => "2020",
     'email' => "findingup@gmail.com",
     'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Sunday, December 1, 2019",
+    'deadline' => "Sunday, December 22, 2019",
   );  
   
   // Ed Session //
@@ -44,7 +44,7 @@
     'year' => "2020",
     'email' => "findingup@gmail.com",
     'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Sunday, December 1, 2019",
+    'deadline' => "Sunday, December 22, 2019",
   );
   
   // Business Meeting //
