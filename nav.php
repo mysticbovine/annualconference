@@ -13,7 +13,7 @@
 			<h2>
 				<a href="/" class="page-scroll">
 					<img alt="Toastmasters International logo" src="../../images/sm-tm.png" class="align-left hidden-xs">
-					<em>District 96<span> Annual Conference 2019</span></em>
+					<em>District 96<span> Annual Conference 2020</span></em>
 				</a>
 			</h2>
 		  </div>
