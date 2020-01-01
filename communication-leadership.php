@@ -50,7 +50,10 @@
 			<h1 class="page-header text-center">Communication & Leadership Award Nominations</h1>
 		</div>
 		<div class="col-sm-8 col-sm-offset-2">
-		
+      <div class="well">
+        <h3>Submissions are now closed.</h3>
+        <p>Please keep an eye on this space for furhter information.</p>
+      </div>
 			<p class="lead text-center">The purpose of the Communication and Leadership award is to honour a non-Toastmaster who has made substantial contributions in the areas of communication and leadership.</p>
       
       <p>The criteria used to select the recipient for this award includes the following:</p>
@@ -69,11 +72,8 @@
 
         <li>Must be able to personally accept the award and give an acceptance address at the District 96 Spring 2020 Conference</li>
       </ul>
-      <h3 class="text-center">How do you nominate someone for the 
-      Communication & Leadership Award?<br /></h3>
-      <p class="text-center lead">Simple!  Fill out the <br />
-      <a class="btn btn-lg btn-register" href="cl_form.php">Nomination form</a>
-      </p>
+      
+      
       
 		</div>
 	</div>
