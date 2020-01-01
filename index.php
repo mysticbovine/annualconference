@@ -69,11 +69,7 @@
       <li class="layer" data-depth="0.15">
         <div class="rocket"><img src="images/rocket.png" alt="rocket"/></div>
       </li>
-    <li class="layer" data-depth="0.30">
-        <div class="text">
-          <p class="sub-title">Early Bird Rates available!</p>
-        </div>
-      </li>
+ 
       <li class="layer" data-depth="0">
         <div class="logo"><img src="images/logo.png" alt="D96 2020 Annual Conferenece: Shoot For the Moon"/></div>
       </li>
