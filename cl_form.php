@@ -42,9 +42,6 @@
       include("nav.php");
       include("banner-internal.php");
       require_once("data/data.php"); 
-      /*
-        <?php echo $CLaward['']; ?> 
-        <?php echo $general['']; ?> */
     ?>
 	<!-- Body Start -->
   <div id="main-content" class="bg-yellow faded container-full padding50">
@@ -54,11 +51,8 @@
 
 			<p class="lead text-center">Please fill out the form below to submit your proposal.</p>
 
-			<p class="lead text-warning text-center">The deadline for proposals is <?php echo $CLaward['deadline']; ?>  at 11:59pm (PST).</p>
-
 			<p class="text-center">If you have any questions regarding your submission or the selection process, please contact the <?php echo $general['conference']; ?>  <?php echo $CLaward['title']; ?>  <?php echo $CLaward['chair']; ?> at <a href="mailto:<?php echo $CLaward['email']; ?> "><?php echo $CLaward['email']; ?> </a>.</p>
-		
-		
+			
 			<form method="post" action="mail/formmail.php" name="clForm" id="clForm" class="form" novalidate enctype="multipart/form-data">	
 			<!--<form name="ed_session_form" id="edSessionForm" class="from" enctype="multipart/form-data" nonvalidate>		-->
 				<input type="hidden" name="derive_fields" value="realname=name,subject = %' Communication & Leadership Award Nomination: '% + nominee-name" />
