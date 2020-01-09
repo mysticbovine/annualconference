@@ -42,9 +42,6 @@
       include("nav.php");
       include("banner-internal.php");
       require_once("data/data.php"); 
-      /*
-        <?php echo $CLaward['']; ?> 
-        <?php echo $general['']; ?> */
     ?>
 	<!-- Body Start -->
   <div id="main-content" class="bg-yellow faded container-full padding50">
