@@ -54,8 +54,7 @@
 
 			<p class="lead text-center">Please fill out the form below to submit your proposal.</p>
 
-			<p class="lead text-warning text-center">The deadline for proposals is <?php echo $CLaward['deadline']; ?>  at 11:59pm (PST).</p>
-
+			
 			<p class="text-center">If you have any questions regarding your submission or the selection process, please contact the <?php echo $general['conference']; ?>  <?php echo $CLaward['title']; ?>  <?php echo $CLaward['chair']; ?> at <a href="mailto:<?php echo $CLaward['email']; ?> "><?php echo $CLaward['email']; ?> </a>.</p>
 		
 		
