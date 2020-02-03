@@ -50,11 +50,8 @@
 			<h1 class="page-header text-center">Communication & Leadership Award Nomination</h1>
 
 			<p class="lead text-center">Please fill out the form below to submit your proposal.</p>
-
-			
 			<p class="text-center">If you have any questions regarding your submission or the selection process, please contact the <?php echo $general['conference']; ?>  <?php echo $CLaward['title']; ?>  <?php echo $CLaward['chair']; ?> at <a href="mailto:<?php echo $CLaward['email']; ?> "><?php echo $CLaward['email']; ?> </a>.</p>
-		
-		
+			
 			<form method="post" action="mail/formmail.php" name="clForm" id="clForm" class="form" novalidate enctype="multipart/form-data">	
 			<!--<form name="ed_session_form" id="edSessionForm" class="from" enctype="multipart/form-data" nonvalidate>		-->
 				<input type="hidden" name="derive_fields" value="realname=name,subject = %' Communication & Leadership Award Nomination: '% + nominee-name" />
