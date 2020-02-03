@@ -58,7 +58,6 @@
         <p><b>Michelle Tremblay</b> &ndash; MPower Your Inner Ninja</p>
       <h2 class="blue-bg">Friday Night Dancers</h2>
         <p><b>Mai Paredes</b> &ndash; Flamenco</p>
-        <p><b>James Dean Waryk</b> &ndash; Merengue</p>
         <p><b>Kyriaki Papadopoulou</b> &ndash; Belly Dancing</p>
 
       <h2 class="blue-bg">Saturday Education &ndash; Communication Track</h2>   
