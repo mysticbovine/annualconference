@@ -41,7 +41,7 @@
       <li class="dropdown">
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li class="hidden"><a>Keynotes (coming soon)</a></li>	
+            <li class=""><a href="keynotes.php">Keynotes</a></li>	
             <li class=""><a href="educations.php">Education Sessions and Keynotes</a></li>	
           </ul>
       </li>
