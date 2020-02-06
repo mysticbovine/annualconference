@@ -37,7 +37,7 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
 	<meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class=" bg-blue faded">
+  <body class=" bg-yellow faded">
     <?php include("nav.php");?>
 	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
@@ -47,60 +47,31 @@
         <h1 class="page-header">Keynote Presentations</h1>
       </div>
 		</div>
-    <div class="row">
-      <div class="col-sm-12">
-        <h2 class="keynote-bio"><span class="anchor" id="steve"></span>Opening Keynote: A New Hope</h2>
-      </div>
-			<div class="col-md-3">
-				<p class="text-center"><img src="images/stevek.jpg" class="img-responsive img-circle"></p>
-			</div>
-			<div class="col-md-9">
-				
-				<h3>Steve Curtis</h3>
-        
-        <p>Steve Curtis shares his vision from a challenging childhood, to becoming a self-made millionaire by 22, only to be diagnosed with terminal cancer shortly after. </p>
-
-        <p>He takes you on the journey of how this curse, became the greatest gift of his life and he shares stories of his challenges, wild successes, excruciating failures and this vision of the positive global change they inspired. </p>
-
-        <p>Steve confronts the uncertainty of the future of humanity and shares his personal vision of possibilities, challenging us all to take action to create a new future for humanity. </p>
-
-        <p>It will be fast paced, raw, action inspiring and will most certainly challenge the beliefs you hold about yourself and the world.</p>
-
-        <h3>About Steve</h3>
-				<p>Investor, entrepreneur, adventurer and revolutionary thought leader. Steve travels the world sharing the knowledge he has amassed overcoming adversity both personally and professionally, and his vision on how we can evolve to shape and create a better future. </p>
-
-        <p>Raised by a low-income single mother, Steve started his first business at 19 with a $500 credit card and grew it into a business with a half-billion dollar valuation before he sold it. </p>
-
-        <p>His career trajectory changed radically at age 24 when he was diagnosed with a terminal cancer for which there was no cure and only 2 years left to live. Steve hired an MD, built a research team and traveled the world to develop a cure. From researchers at global expert centers like Yale and Stanford to healers and shamans in far-off jungles, he sought to cure the incurable. Learning he couldn’t make a drug fast enough, he followed the trail of “spontaneous remission," setting the prognosis-defying goal of summiting Everest instead. Five years later, he had done both. Healing without the use of any modern medicine, he was left with unquestionable truth and a vision for changing medicine globally. </p>
-
-        <p>He has become an influential thought leader in international politics and has influenced the lives of millions of people through the products he has created. His venture capital business is advancing new perspectives in science, medicine and technology with investments in AI, quantified self, VR, AR, spiritual science, block-chain, and psychedelic medicine.  Steve regularly shares his story on global stages and he and his organizations have been covered in 100’s of publications including NYT, WSJ, CNN, MSNBC, CBC, CTV, TGM and Reuters International.</p>
-								
-			</div>
-		</div>
+    
 		<div class="row">
       <div class="col-sm-12">
-        <h2 class="keynote-bio"><span class="anchor" id="karen"></span>Saturday's Keynote: The Power of a Courageous Message</h2>
+        <h2 class="keynote-bio"><span class="anchor" id="LeahGoldstein"></span>Saturday's Keynote: NO LIMITS!</h2>
       </div>
 			<div class="col-md-3">
-				<p  class="text-center"><img src="images/karen.jpg" class="img-circle"></p>
+				<p  class="text-center"><img src="images/speakers/LeahGoldstein.jpg" class="img-circle"></p>
 			</div>
 			<div class="col-md-9">
 				
-				<h3>Karen McGregor</h3>
+				<h3>Leah Goldstein</h3>
         
-<p>Karen will share with the group how to add emotional intelligence, authenticity and courage into your message.</p>
-<ul>
-<li>Learn the foundation of a compelling and courageous message that your audience will lean into and act upon (whether in a boardroom, a living room or a formal stage).</li>
-<li>Discover how courage and vulnerability are the secret sauce that take your message from good to great.</li>
-<li>Understand the impact Your Courageous Message can have on others.</li>
-</ul>
-        <h3>About Karen</h3>
-				<p>Karen McGregor is a bestselling author, international speaker, coach, trainer and the founder/CEO of the Speaker Success Formula. </p>
+        <p class="lead">What happens when a girl doesn’t believe in limitations? What is possible when her dreams resonate at such a frequency that they 
+        force themselves into reality? Practically anything - as proven by Leah Goldstein’s stunning example of how to live an unbounded life. </p>
+        <p>Prepare to hear the story of how Leah overcame limits to become a champion – battling bullies, sexism, terrorism, and more. Leah will 
+        share intimate details of how she dealt with fear, loneliness, and anger by tapping into her strong work ethic and overwhelming drive 
+        to succeed. By age 17, Leah was the World Kickboxing Champion. Shortly thereafter, she enlisted in the Israeli Military and became one
+        of the few female instructors of the elite Commando division, specializing in Krav Maga. Leah then transitioned into a Special Forces 
+        unit, combating terrorism and violent crime. The extreme lifestyle of the secret police eventually took its toll, and she found her 
+        salvation on a bicycle. She convinced Israel to release her from duty, as she pursued a brilliant 10-year career as a professional 
+        cyclist in Europe and North America – and eventually to the longest single stage race in the world, Race Across America. From crashes 
+        to podiums and fear to triumph, Leah’s story gives us a glimpse of what’s truly possible in a life without limits.</p>
+        <p>Leah Goldstein is a renowned speaker, author, and co-owner of No Finish Line Living, a wellness company dedicated to inspiring and 
+        educating people on how to live their best life.</p>
 
-        <p>As a speaker she has graced the stage with Deepak Chopra, Loral Langemeier, Brendon Burchard, Marci Schimoff and other world influencers.</p>
-
-        <p>As a trainer, coach and lead facilitator of the Speaker Success Formula, Karen attracts a wide range of clients from Olympic athletes, health experts, elite artists, and musicians to coaches, financial advisors, real estate experts, bestselling and aspiring authors.</p>
-								
 			</div>
 		</div>
 			<!-- END -->
