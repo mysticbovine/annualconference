@@ -27,11 +27,11 @@
 			<li class="dropdown">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Conference <span class="caret"></span></a>
 			  <ul class="dropdown-menu">
-        <li class=""><a href="hotel.php">Hotel Information</a></li>
-        <li class="disabled"><a>Schedule (coming soon)</a></li>			
-        <li class="disabled"><a>Communication & Leadership Award</a></li>
-				<li class="disabled"><a>Business Meeting (coming soon)</a></li>
+        			<li class=""><a href="hotel.php">Hotel Information</a></li>
+        			<li><a href="schedule.php">Schedule</a></li>			
         
+					<li><a href="businessmeeting.php">Business Meeting</a></li>
+					<li class="hidden"><a>Communication & Leadership Award</a></li>
         <li class="hidden"><a href="awards.php" class="hidden">Awards</a></li>
 				<li class="hidden"><a href="contests.php">Contests (coming soon)</a></li>
 				<li class="hidden"><a href="silent_auction.php">Silent Auction</a></li>
@@ -42,7 +42,8 @@
          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Presentations <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li class=""><a href="keynotes.php">Keynotes</a></li>	
-            <li class=""><a href="educations.php">Education Sessions and Keynotes</a></li>	
+            <li class=""><a href="educations.php">Education Sessions</a></li>	
+            <li class=""><a href="fridayfun.php">Friday Fun Night</a></li>	
           </ul>
       </li>
       

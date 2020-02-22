@@ -71,6 +71,7 @@
         to podiums and fear to triumph, Leah’s story gives us a glimpse of what’s truly possible in a life without limits.</p>
         <p>Leah Goldstein is a renowned speaker, author, and co-owner of No Finish Line Living, a wellness company dedicated to inspiring and 
         educating people on how to live their best life.</p>
+        <p>To find out more about Leah, please visit her web page at <a href="https://leahgoldstein.com/" target=_blank>leahgoldstein.com</a>
 
 			</div>
 		</div>
