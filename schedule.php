@@ -37,7 +37,7 @@
     <link rel="manifest" href="/images/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body class=" bg-blue faded">
+  <body class=" bg-yellow faded">
     <?php include("nav.php");?>
 	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
@@ -53,273 +53,180 @@
       <div class="col-lg-12 text-center">
         <p class="lead"><strong>Note: Schedule is subject to change. Please check this page or <a href="https://www.facebook.com/groups/District96/" target=_blank>BC Toastmasters Facebook Page</a> for updates</strong></p>
         
-        <p> Page last updated: <span id="updated"></span></p>
+        <p> Page last updated: Feb 21, 2020</p>
       </div>
      
     </div>
-    
-    <h3>Friday, March 29</h3>
+
     <div class="row">
-      <div class="col-lg-5 col-lg-push-7">
-        <h4 class="text-center">Featured Hosts</h4>
-        <div class="division">
-          <div class="views-field views-field-nothing">
-            <span class="field-content"></span>
-            <div class="committee leadermain displayorder- ">
-              <span class="field-content"></span>
-              <div class="img-circle center-block">
-                <span class="field-content"><img alt="Devon Downie DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/DevonDownie.jpg?itok=qWGtpvOM" typeof="Image" width="200"></span>
-              </div><span class="field-content"></span>
-              <h4><span class="field-content">Devon Downie</span></h4>
-            </div>
-          </div>
-          <div class="views-field views-field-nothing">
-            <div class="committee leadermain displayorder-">
-              <span class="field-content"></span>
-              <div class="img-circle center-block">
-                <span class="field-content"><img alt="Stefano Cossalter DTM" class="img-responsive" height="200" src="https://www.d96toastmasters.ca/sites/default/files/styles/square_/public/leaderphotos/StefanoCossalter.jpg?itok=WN0z-5TB" typeof="Image" width="200"></span>
-              </div><span class="field-content"></span>
-              <h4><span class="field-content">Stefano Cossalter</span></h4>
-            </div>
-          </div>
-        </div>
-        <div class="hidden-md hidden-sm hidden-xs">
-          <!-- Visible on large screens -->
-          <h4 class="text-center"> Opening Keynote Presenter</h4>
-          <div class="views-field views-field-nothing">
-            <div class="committee leader displayorder- ">
-              <div class="img-circle center-block">
-                <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/stevek.jpg" typeof="Image" width="250"></span>
-              </div>
-              <h4><span class="field-content">Steve Curtis</span></h4>
-              <p>Investor, entrepreneur, adventurer and revolutionary thought leader</p>
-            </div>
-          </div>  
-        </div>  
-      </div>
-      <div class="col-lg-7 col-lg-pull-5">
+     
+      <div class="col-lg-12">
         <table class="table">
           <thead>
             <tr>
-              <th width="200px"><br />Evening</th>
-              <th></th>
+              <th colspan="2">April 17. Friday Evening</th>
+             
             </tr>
           </thead>
 
           <tbody>	
             <tr>
-              <td><strong> 4:00 pm-6:00 pm</strong></td>
+              <td width="100px"><strong> 4:00 pm</strong></td>
               <td> Registration Open</td>
               
             </tr>
             
             <tr>					
-              <td><strong>5:00 pm-6:00 pm</strong></td>
-              <td> 1st Timers’ Reception<br />Hosted by Doug Anderson DTM</td>
+              <td><strong>4:45 pm</strong></td>
+              <td> First Timers’ Reception<br /><small>Hosted by Doug Anderson DTM</small></td>
               
             </tr>
 
             <tr>
-              <td><strong>6:00 pm-7:00 pm</strong></td>
-              <td> Opening Session</td>
+              <td><strong>6:00 pm</strong></td>
+              <td> Opening Session with Club Banner Parade</td>
               
             </tr>
 
             <tr>
-              <td><strong>6:00 pm-6:15 pm</strong></td>
-              <td> Banner Parade</td>
-            </tr>
-
-            <tr>
-              <td><strong>7:00 pm-8:00 pm</strong></td>
-              <td> Conference Dinner</td>
-            </tr>  
-            <tr>
-              <td><strong>8:00 pm-9:00 pm</strong></td>
-              <td> Opening Keynote <span class="hidden-xs hidden-sm hidden-md">: <br /><b>Steve Curtis "A New Hope"</b></span>
-              
-               <div class="hidden-lg">
-                <!-- Visbile on small screens -->
-                <h3 class="text-center">A New Hope</h4>
-                <div class="views-field views-field-nothing">
-                  <div class="committee leader displayorder- ">
-                    <div class="img-circle center-block">
-                      <span class="field-content"><img alt="Steve Curtis" class="img-responsive" height="200" src="images/stevek.jpg" typeof="Image" width="250"></span>
-                    </div>
-                    <h4><span class="field-content">Steve Curtis</span></h4>
-                    <p>Investor, entrepreneur, adventurer and revolutionary thought leader</p>
-                  </div>
-                </div>  
-              </div>  
+              <td><strong>7:00 pm</strong></td>
+              <td> Friday Fun Night Dinner, Dance and Speeches<br />
+              <small>Visit the <a href="fridayfun.php">Friday Fun Night Presenter Page</a> for more information<br /></small>
+              <!-- <b>Winston Yeung</b> – <i>Why Are You Only Aiming for the Moon?</i><br />
+              <b>Mai Paredes</b> – <i>Flamenco <br />
+              <b>Tom Everitt</b> – <i>Around the World in 80 Anthems: A Story of Inspiration</i><br />
+              <b>Arthur Gee</b> – <i>With Mai and Kyriaki</i><br />
+              <b>Michelle Tremblay</b> – <i>MPower  Your Inner Ninja</i><br />
+              <b>Kyriaki Papadopoulou</b> – <i>Belly Dancing</i> -->
               </td>
-            </tr>
-            <tr>
-              <td><strong>7:00 pm-8:00 pm</strong></td>
-              <td> After Party at the <b>Tap and Barrel</b></td>
+            </tr>  
+           
+              <td><strong>10:00 pm</strong></td>
+              <td> 50/50 Draw and Silent Wine Auction</td>
             </tr>            
           </tbody>
         </table>
       </div>
     </div>
   <div class="row">
-    <div class="col-lg-5 col-lg-push-7">
-      
-       
-    </div>
-    <div class="col-lg-7 col-lg-pull-5">
-      <h3>Saturday, March 30th</h3>
-      <table class="table">
+    <div class="col-lg-12">
+   
+      <table class="table table-hover">
         <thead>
           <tr>
-            <th width="200px"><br />Morning</th>
-            <th></th>
+            <th colspan="2">March 30th. Saturday Morning</th>
+  
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><strong>7:00 am – 8:00 am</strong></td>
+            <td width="100px"><strong>7:00 am</strong></td>
             <td> Contestants and Judges Briefings</td>
           </tr>
 
 
           <tr>
-            <td><strong>7:30 am – 9:00 am</strong></td>
-            <td> District Executive Committee Meeting</td>
+            <td><strong>7:45 am</strong></td>
+            <td> Breakfast and Candidates Showcase</td>
           </tr>
 
 
           <tr>
-            <td><strong>8:00 am – 10:00 am</strong></td>
-            <td> Registration Open</td>
-          </tr>
-
-
-          <tr>
-            <td><strong>9:30 am – 10:15 am</strong></td>
-            <td> Opening & Candidate Showcase</td>
-          </tr>
-
-
-          <tr>
-            <td><strong>10:30 am – 11:15 am</strong></td>
-            <td> Education Session Breakout 1</td>
-          </tr>
-
-
-          <tr>
-            <td><strong>11:30 am – 12:15 pm</strong></td>
-            <td> Education Session Breakout 2</td>
+            <td><strong>9:30 am</strong></td>
+            <td> Saturday Morning 9 Education Sessions<br />
+                <small>Visit <a href="educations.php">Education Sessions</a> page for more information</a></small>
+            </td>
           </tr>
         </tbody>
         <thead>
           <tr>
-            <th width="100px"><br />Afternoon</th>
-            <th></th>
+            <th colspan="2">Afternoon</th>
+      
           </tr>
         </thead>
           <tr>
-            <td><strong>12:15 pm – 1:45 pm</strong></td>
+            <td><strong>12:30 pm </strong></td>
             <td> Communication & Leadership Award Lunch</td>
           </tr>
 
 
           <tr>
-            <td><strong>2:00 pm – 4:00 pm</strong></td>
-            <td> District Council Business Meeting</td>
+            <td><strong>2:00 pm</strong></td>
+            <td> District Council Business Meeting<br />
+            <small>Visit <a href="businessmeeting.php">Business Meeting Page</a> for more information</a></small>
+            </td>
           </tr>
          <tbody>
          </tbody>
 
-      </table>
-    </div>
-  </div>
-    <div class="row">
-      <div class="col-lg-7">
-        <table class="table">
+  
           <thead>
             <tr>
-              <th width="200px"><br />Evening</th>
-              <th></th>
+              <th colspan="2">Evening</th>
+            
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td><strong>4:30 pm – 6:30 pm</strong></td>
+              <td width="100px"><strong>4:30 pm</strong></td>
               <td> District 96 International Speech Contest</td>
             </tr>
             <tr>
-              <td><strong>6:30pm – 8:30pm</strong></td>
-              <td> Conference Dinner</td>
+              <td><strong>7:00 pm</strong></td>
+              <td> Conference Dinner and Keynote<br />
+                <small>Visit <a href="keynotes.php">Keynote Presenter</a> page for more information</small>
+              </td>
             </tr>
             <tr>
-              <td><strong>8:30 pm – 9:30 pm</strong></td>
-              <td>Keynote Presentation<span class="hidden-xs hidden-sm hidden-md">: <br /><b>Karen McGregor "The Power of a Courageous Message"</b></span>
-              <div class="hidden-lg">
-                  <!-- Show on Small Screen -->
-                  <h3 class="text-center">The Power of a Courageous Message</h3>
-                  <div class="views-field views-field-nothing">
-                    <div class="committee leader displayorder- ">
-                        <span class="field-content"></span>
-                        <div class="img-circle center-block">
-                          <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/karen.jpg" typeof="Image" width="250"></span>
-                        </div><span class="field-content"></span>
-                        <h4><span class="field-content">Karen McGregor</span></h4>
-                        <p>Bestselling author, international speaker & coach</p>
-                      </div>
-                  </div>  
-                </div>  
-              </td>
+              <td><strong>9:00 pm</strong></td>
+              <td> Silent and Live Auctions, 50/50 Draw</td>
+            </tr>
+            
             </tr>
           </tbody>
         </table>
-      </div>
-      <div class="col-lg-5">
-        <div class="hidden-md hidden-sm hidden-xs">
-          <h4 class="text-center">Saturday's Keynote Presenter</h4>
-          <div class="views-field views-field-nothing">
-            <span class="field-content"></span>
-            <div class="committee leader displayorder- ">
-              <span class="field-content"></span>
-              <div class="img-circle center-block">
-                <span class="field-content"><img alt="Karen McGregor" class="img-responsive" height="200" src="images/karen.jpg" typeof="Image" width="250"></span>
-              </div><span class="field-content"></span>
-              <h4><span class="field-content">Karen McGregor</span></h4>
-              <p>Bestselling author, international speaker & coach</p>
-            </div>
-          </div>       
-        </div>
-      </div>
-    </div>
  
-    <div class="col-lg-7">  
-      <h3>Sunday March 31</h3>
+     
+
+     
       <table class="table table-hover">
         <thead>
           <tr>
-            <th width="200px"><br />Morning</th>
-            <th></th>
+            <th colspan="2">March 31. Sunday Morning</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><strong>7:30 am - 8:30 am</strong></td>
-            <td> Past District Directors and District Governors breakfast</td>
+            <td width="100px"><strong>7:00 am</strong></td>
+            <td> Contestant and Official Briefings</td>
           </tr>
           <tr>
-            <td><strong>8:30 am - 9:00 am</strong></td>
-            <td> Registration Open</td>
+            <td><strong>8:00 am</strong></td>
+            <td> Breakfast</td>
           </tr>
           <tr>
-            <td><strong>9:00 am - 9:45 am</strong></td>
-            <td> Educational Session Breakout 3</td>
+            <td><strong>8:30 am</strong></td>
+            <td> Keynote Workshop</td>
           </tr>
           <tr>
-            <td><strong>9:45 am – 11:45 am</strong></td>
+            <td><strong>10:300 am</strong></td>
+            <td> Yoga Moment</td>
+          </tr>
+          <tr>
+            <td><strong>10:15 am</strong></td>
             <td> District 96 Evaluation Contest</td>
           </tr>
           <tr>
-            <td><strong>11:45am – 12:30pm</strong></td>
-            <td> Closing Ceremony</td>
+            <td><strong>11:30 am</strong></td>
+            <td> Live Mentor Auctions</td>
+          </tr>
+          <tr>
+            <td><strong>12:00 am</strong></td>
+            <td> Gavel Club Presentations</td>
+          </tr>
+          <tr>
+            <td><strong>12:15pm</strong></td>
+            <td> 50/505 Draw and Closing ceremonies</td>
           </tr>
         </tbody>
       </table>

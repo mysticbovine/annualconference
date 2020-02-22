@@ -51,8 +51,10 @@
 	<div class="container body">
 		<div class="col-sm-12">
 			<h1 class="page-header text-center">Business Meeting</h1>
+      <p class="well"><strong>Attention Club Executives:</strong> Make sure your vote counts! If you cannot attend the Business Meeting&nbsp;at the District 96 Annual 
+      Conference 2020 email your proxy’s to:&nbsp;<a href="mailto:ppdp@direct.ca" target="_blank">ppdp@direct.ca</a>.</p>
 
-			<p class="lead text-center">The District 96 Business Meeting will be held <?php echo $general['saturady'];?> , at the <?php echo $general['conference'];?>.</p>
+			<p class="lead text-center">The District 96 Business Meeting will be held <?php echo $general['saturday'];?> , at the <?php echo $general['conference'];?>.</p>
 			<p>Please make sure you attend the business meeting, especially if you are your club's president or vice president of educaion. 
 			If neither proxy holder (President or VP Education) can attend the <?php echo $general['conference'];?> business meeting, they can 
 			assign their proxy to either a specific member or ANY member of the club to be the proxy holder. In either case, the credentials 
@@ -60,7 +62,7 @@
 			to hold the proxy.</p>
 			<p>Visit <a href="http://www.district96.ca/resources/district/credentials" target=_blank>Credentials Information</a></p>
 			
-			<p>The District 96 Leadership <?php echo $business['tile'];?> (<?php echo $business['committee'];?>) have approved the nominations of the following candidates:</p>
+			<p>The District 96 Leadership <?php echo $business['title'];?> (<?php echo $business['committee'];?>) have approved the nominations of the following candidates:</p>
 
 			<h3>District 96 Leadership Nominations</h3>
 
@@ -75,16 +77,16 @@
 			<p class="hidden"><strong>Area Directors</strong> - <?php echo $business['prm'];?></p>
 			<p class="hidden"><strong>Other</strong> - <?php echo $business['prm'];?></p>
 
-			<p>The District 96 Business Meeting will be held Saturday <?php echo $general['saturday'];?>, <?php echo $general['year']; ?> at the District 96 Spring Conference. </p>
+			<p>The District 96 Business Meeting will be held Saturday <?php echo $general['saturday'];?>, <?php echo $general['year']; ?> at the District 96 Annual Conference. </p>
 
 			<p>The elections for District Director, Program Quality Director, Club Growth Director and all of the Division Directors will be elected during that meeting. </p>
-
+<div class="hidden">
 			<p>Nominations from eligible candidates will be accepted from the floor. If you or someone you are nominating is interested in the position, please fill out the forms posted on the District 96 website.</p>
 
 			<p>If you have any questions, please do not hesitate to contact <?php echo $business['name'];?> at <a href="mailto:<?php echo $business['email'];?>" target="_blank"><?php echo $business['email'];?></a>.</p>
 
-			<p>Lastly, the District would like to take a moment to sincerely thank <?php echo $business['name'];?> and all the members of the <?php echo $business['tile'];?> who volunteered many hours to put forward the Leadership Nomination Report to our membership. </p>
-
+			<p>Lastly, the District would like to take a moment to sincerely thank <?php echo $business['name'];?> and all the members of the <?php echo $business['title'];?> who volunteered many hours to put forward the Leadership Nomination Report to our membership. </p>
+</div>
 		</div>
 
 	</div>

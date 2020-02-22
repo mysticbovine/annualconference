@@ -60,7 +60,7 @@
     'divsion' => "TBA",
     'area' => "TBA",
     'other' => "TBA",
-    
+    'name' => "Gonul Guvenc"
   );
   
   // Sponsor //

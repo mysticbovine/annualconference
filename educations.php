@@ -52,14 +52,6 @@
     
 		<div class="row ed-session-bios">
 
-      <h2 class="blue-bg">Friday Fun Night Speakers</h2>
-        <p><b>Winston Yeung</b>  &ndash; Why Are You Only Aiming for the Moon?</p>
-        <p><b>Tom Everitt</b>  &ndash; Around the World in 80 Anthems: A Story of Inspiration</p>
-        <p><b>Michelle Tremblay</b> &ndash; MPower Your Inner Ninja</p>
-      <h2 class="blue-bg">Friday Night Dancers</h2>
-        <p><b>Mai Paredes</b> &ndash; Flamenco</p>
-        <p><b>Kyriaki Papadopoulou</b> &ndash; Belly Dancing</p>
-
       <h2 class="blue-bg">Saturday Education &ndash; Communication Track</h2>   
         <p><b>Moreno Perazollo</b> &ndash; How To Grow Your Online Visibility With Rapid Fire Videos</p>
         <p><b>Emi Garzitto</b> &ndash; How to Create a Resilient Dynamic Workplace Culture</p>

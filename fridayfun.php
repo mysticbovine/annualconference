@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Call for Friday Fun Speakers | Annual Conference | District 96 Toastmasters</title>
+    <title>Education Sessions | Annual Conference 2020 | District 96 Toastmasters</title>
 
-	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca"
+	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/d96conference.css" rel="stylesheet">
 
 	<!-- Custom Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
-
+  <script src="https://use.fontawesome.com/27d80a9134.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -35,57 +35,35 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="/images/favicons/manifest.json">
-    <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
   </head>
-  <body>
-    <?php 
-    include("nav.php");
-    include("banner-internal.php");
-     require_once("data/data.php");
-    ?>
+  <body class=" bg-yellow faded">
+    <?php include("nav.php");?>
+	<?php include("banner-internal.php");?>
 	<!-- Body Start -->
-  <div id="main-content" class="bg-yellow faded container-full padding50">
-    <div class="container body ">
-      <div class="col-sm-12">
-        <h1 class="page-header text-center">Call for Friday Fun Night Speakers</h1>
-
+	<div class="container body ed-session">
+		<div class="row">
+      <div class="col-sm-12 text-center">
+        <h1 class="page-header">Friday Fun Night</h1>
+        <p class="lead">Here is a list of the Friday Fun Events as of February 21, 2020. More details will be published here as the come available or are updated.</p>
       </div>
-      <div class="col-sm-8 col-sm-offset-2">
-        <div class="well">
-          <h3>Submissions are now closed.</h3>
-          <p>Please keep an eye on this space for furhter information.</p>
-        </div>
-        <p class="lead">Are you a dynamic presenter known to dazzle large audiences? Can you speak eloquently and expertly on a topic that is entertaining, informative and fun? Are you ready to shoot for the moon?</p>
+		</div>
+    <span class="anchor" id="top"></span>
+    
+		<div class="row ed-session-bios">
 
-        <p>District 96 Toastmasters is inviting qualified speakers to submit an application to present in the style of "TedX" at our upcoming Annual Conference. We are looking for four to six speakers who can present an 18-22 minute session on Friday evening, April 17, 2020 at the Executive Hotel Vancouver Airport in Richmond, BC. </p>
-        <p>Non-Toastmasters may also apply. Many speakers consider it an honour and a privilege to be invited to present at a Toastmasters Conference. After all, Toastmasters International is the world leader in Communication and Leadership development.</p>
+      <h2 class="blue-bg">Friday Fun Night Speakers</h2>
+        <p><b>Winston Yeung</b>  &ndash; Why Are You Only Aiming for the Moon?</p>
+        <p><b>Tom Everitt</b>  &ndash; Around the World in 80 Anthems: A Story of Inspiration</p>
+        <p><b>Michelle Tremblay</b> &ndash; MPower Your Inner Ninja</p>
+      <h2 class="blue-bg">Friday Night Dancers</h2>
+        <p><b>Mai Paredes</b> &ndash; Flamenco</p>
+        <p><b>Kyriaki Papadopoulou</b> &ndash; Belly Dancing</p>
+			</div>
+			<!-- END -->
+		</div>
+		</div>
 
-        <p>The Selection Committee will evaluate applications based on the following criteria:</p>
-        <ul>
-          <li>Applicant's qualifications and experience</li>
-          <li>Content: Completeness, clarity, and audience appeal</li>
-          <li>Level of audience engagement</li>
-          <li>Relevance to the Conference theme"<em>Shoot for the moon. It's your time to shine! "</em></li>
-          <li>Speech may be humourous, informational or any style that appeals to you and your message</li>
-          <li>Take-away benefits for the audience</li>
-        </ul>
-
-        <p><strong>Please note:</strong></p>
-        <ol>
-          <li>You are responsible for any handouts. All audio/visual requirements must meet with what the conference is supplying. </li>
-          <li>No hard selling, pitching or promoting yourself or your products or services is allowed during or after your presentation, and no financial compensation or reimbursement of any expenses will be given. Instead, we will post the profiles of or otherwise reference the selected presenters on our Conference website, District 96"s Facebook and other social media channels, at promotional events and in our printed Conference Program (received by 200+ Conference attendees). Presenters will also be featured in at least one email sent to our entire D96 membership (2,500+).</li>
-          <li>Presenters must purchase Friday night registration at a minimum (includes dinner). If the applicant wishes to attend portions of the conference other than Friday night, they are welcome to do so by purchasing the appropriate registration package.</li>
-          <li>Contestants at the District 96 Evaluation and International Speech contests that will take place at the Conference are ineligible to participate. Thus, you should not apply if you are planning to compete in either contest.</li>
-          <li>This speech qualifies for a Level 5 Pathways presentation, Prepare to Speak Professionally. You will be responsible for finding your own evaluator.</li>
-        </ol>
-       
-        
-       
-        <p class="text-center">To submit your proposal, download and fill out the form below and send it to the <?php echo $general['conference']; ?>  <?php echo $EDsession['title']; ?>  <?php echo $EDsession['chair']; ?> at <a href="mailto:<?php echo $EDsession['email']; ?> "><?php echo $EDsession['email']; ?></a>.</p>
- 
-      </div>
-    </div>
-  </div>
 	<!-- Body End -->
 	<!-- Footer Start -->
 	<!-- Contact Section -->
