@@ -114,7 +114,7 @@
       <table class="table table-hover">
         <thead>
           <tr>
-            <th colspan="2">March 30th. Saturday Morning</th>
+            <th colspan="2">April 18. Saturday Morning</th>
   
           </tr>
         </thead>
@@ -192,7 +192,7 @@
       <table class="table table-hover">
         <thead>
           <tr>
-            <th colspan="2">March 31. Sunday Morning</th>
+            <th colspan="2">April 19. Sunday Morning</th>
           </tr>
         </thead>
         <tbody>
