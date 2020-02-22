@@ -55,7 +55,7 @@
 				<li class=""><a href="advertising.php">Advertise your business</a></li>
 			  </ul>
 			</li>
-			<li class="dropdown">
+			<li class="dropdown hidden">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Call for Submissions<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li class=""><a href="communication-leadership.php">C&L Award Nominations</a></li>
