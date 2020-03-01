@@ -195,7 +195,7 @@
         </div>
       </div>
       
-      <h2 class="blue-bg">Sunday</h2>
+      <h2 class="blue-bg">Sunday Workshops</h2>
       <div class="ed-speakers">
         <div class="committee leader">
           <a data-toggle="modal" data-target="#kirsten">
@@ -249,6 +249,32 @@
           How To Grow Your Online Visibility With Rapid Fire Videos<br>
               <span class="name">Moreno Perazollo</span>
             </h3>
+            <p class="lead">You know how hard it is to be seen and heard online amidst all the confusion! </p>
+            <p>Moreno solves this. Using only a few manageable tools you already have, you will get clarity, peace of mind and marketing results.
+</p>
+<p>The Rapid-Fire modern marketing techniques you learn in this session can be applied to growing your toastmasters club, as any other business.</p>
+<p>In this session you will learn today’s secret to marketing success.
+You will learn how to apply the two universal sales laws:
+</p>
+<ol>
+<li>we do business with people we know, like and trust, </li>
+<li>differentiation.</li>
+</ol>
+<p>In this session you will learn:</p>
+<ul>
+<li>How to increase your on-line visibility, exposure and influence.</li>
+<li>How to build your credibility, trust, and amplify your brilliance.</li>
+<li>About the most consumed medium.</li>
+<li>About the most effective Internet technology to build your credibility.</li>
+<li>How to write a video script for impact.</li>
+<li>How to get comfortable on camera.</li>
+</ul>
+<p>Moreno gets his clients online attention and puts them in front of a live virtual audience, where they can interact live with their tribe, answering their questions in real-time.
+He helps distribute their digital marketing content across social media, so they and their business can be easily found where people they can help hang out.
+</p>
+<p>His Rapid-Fire methodology makes it effortless to apply effective online digital marketing, so you don’t feel frustrated, fearful and helpless.</p>
+<p>Moreno helps integrate digital marketing into your marketing mix, so you can concentrate on running your company or Toastmasters club.</p>
+<p>For more information on Moreno please visit <a href="http://www.VancouverMediaMarketing.com" target="_blank" rel="noopener noreferrer">VancouverMediaMarketing.com </a></p>
                <div class="videoWrapper">
                 <iframe width="420" height="315" src="https://www.youtube.com/embed/2MSm5RcUmag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
@@ -287,12 +313,7 @@
                 <li>Provide practical strategies, routines and conversations that will support resilience, 
                   independence and problem solving skills in the workplace.</li>
               </ul> 
-              <p>For the last 28 years, Dr. Garzitto has been a passionate advocate for helping communities 
-                learn the skills for getting along. Her consulting practice, Creative Edge, provides corporate 
-                and personal conflict coaching.  Her research and writing explores challenges and opportunities 
-                that conflict bring both personally and collectively. Dr. Garzitto is author of Your Beautiful 
-                Trauma, which explores the habits and skills that can help individuals adapt and thrive through 
-                personal crises.</p> 
+              <p>For the last 28 years, Dr. Garzitto has been a passionate advocate for helping communities learn the skills for getting along. Her consulting practice, Creative Edge, provides corporate and personal conflict coaching.  Her research and writing explores challenges and opportunities that conflict bring both personally and collectively. Dr. Garzitto is author of Your Beautiful Trauma, which explores the habits and skills that can help individuals adapt and thrive through personal crises. Website www.creativeedgeconsulting.com</p> 
               <p>For more information on Dr. Garzitto please visit <a href="https://www.creativeedgeconsulting.com/" target=_blank>creativeedgeconsulting.com</a></p> 
               <div class="videoWrapper">
                 <iframe width="420" height="315" src="https://www.youtube.com/embed/dWmYduGoOxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -318,7 +339,23 @@
             Leaders – Your Mind is a Gold Mine<br>
               <span class="name">Quinn Cashion</span>
             </h3>
-              <p class="lead text-center">Session information coming soon.</p> 
+              <p class="lead text-center">Everyone agrees that like minds think alike.  But how often do you actually encounter 
+                like minds?</p>
+              <p>Hello, I’m Quinn Cashion.  Everyone agrees that like minds think alike.  But how often do you actually encounter 
+                like minds? Not very often, right?  And the result?  Frustration, miscommunication, conflict and stress. At my Ed 
+                session at the District 96 Conference 2020, you will discover success principles that will improve your communication 
+                style, help you to connect easier with others, including difficult ones,and discover how to bring out the best in 
+                yourself and others. You will leave empowered to tap into your riches and become a better co-worker, leader and friend 
+                and you will see your mind is indeed a gold mine for effective communication.</p> 
+              <p>By the end of this workshop, you will learn:</p>
+              <ul>
+                <li>How your state of mind influences your communication style  </li>
+                <li>The key to bringing out the best in others. </li>
+                <li>How to communicate effectively in every situation</li>
+              </ul>
+              <p>Quinn Cashion, MEdL, RTC, is a mental health educator, author and parenting coach. With over 15 years experience in the 
+                human potential field, Quinn offers her clients the Principles of Success to tap into their natural resilience, increase 
+                wellness, deepen connections with others and reduce stress. </p>
 
           </div>
           <div class="modal-footer">
@@ -340,9 +377,30 @@
             R.I.S.E. And Shoot For the Moon: Four Pillars of Success<br>
             <span class="name">Anita Adams</span>
           </h3>
-          <p class="lead text-center">Session information coming soon.</p>
-             
-          </div>
+          <p class="lead text-center">This workshop is for those who want to take their success in business and in life to new heights.</p>
+          <p><b> Pillar One: Resilience</b><br />
+          The number one reason why people don’t succeed at achieving their goals is because they experience failure and/or rejection and give up. In this section we’ll explore how to deal with failure and rejection in a way that will help participants move forward. </p>
+          <p><b> Pillar Two: Imagination</b><br />
+          If you want to be successful, you must dare to dream big. Imagination is the starting point of success. Every goal starts off as something imagined and in order to achieve great success you must first imagine it. Here we’ll explore how to imagine success into reality 
+          </p>
+          <p><b> Pillar Three: Self-belief</b><br />
+          This is the most important pillar as without self belief no amount of imagining, resilience or endurance will get you to where you want to be. Here we’ll explore some techniques that will boost that self belief so you become unstoppable. 
+          </p>
+          <p><b> Pillar Four: Endurance</b><br />
+          A cousin of resilience, but endurance is more about being committed to the long run than bouncing back from setbacks. In this section we’ll explore ways to keep your mind and spirit well fuelled for going the distance.
+          </p>
+          <p>Learning Objectives:</p>
+          <ul>
+            <li>To learn the four essential pillars of success that will help participants reach new heights of success in business and in life.</li>
+            <li>To understand that rejection and failure are inevitable when pursuing big dreams and to identify ways to move past those set backs and stay on course</li>
+            <li>To learn how to turn your imagination into a powerful tool that will help you achieve your wildest dreams.</li>
+            <li>To learn a few simple techniques that will help strengthen your self belief and keep you focused on the long game. </li>
+          </ul>
+          <p>Anita Adams is the Founder and Executive Director of a National organization that has been promoting Canadian film and talent since 2003. To date, she has promoted over 700 feature films and countless talent and has partnered with some of the largest film institutions in Canada, including the National Film Board of Canada, Cineplex Entertainment, and the Directors Guild of Canada, to name a few. In 2013, Anita packed up her family and moved to the South of France for a year. Many questioned how she could build her Canadian film business from Europe, but Anita didn’t allow the limiting beliefs of others to prevent her from living the life she wanted. That year abroad turned out to be one that propelled her business in a way she never imagined and altered the trajectory of her life, which lead her to launch a second business a few years later. Now Anita is the owner and operator of two successful home-based / work from anywhere businesses and is currently planning another year abroad that will take her and her family to India this September.</p>
+          <p>Her experience in building two businesses while creating and living a life she loves, has taught her what it takes to be successful in both life and in business. It has also helped her develop the “Four Pillars of Success” which she’ll be presenting at the Shoot For the Moon Toastmasters conference in April.</p>
+          <p>In 2018, Anita was honoured with the Women in Film and Television Woman of the Year Award. </p>
+          <p>Connect with Anita on LinkedIn <a href="https://www.linkedin.com/in/anitaadamsyvr/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/anitaadamsyvr/</a></p>
+        </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
           </div>
@@ -362,8 +420,42 @@
             How are you Smart?<br>
             <span class="name">Mariah-Jane Thies</span>
           </h3>
-          <p class="lead text-center">Session information coming soon.</p>
+          <p class="lead text-center">Discover your Intelligence Profile as described by the theory of Multiple Intelligences</p>
+             <p>These intelligences are:</p>
              
+             <div class="row">               
+              <div class="row">
+                <div class="col-xs-1 col-sm-1 col-md-6 col-lg-6">
+                  <ul>             
+                    <li>Visual-Spatial	</li>	
+                    <li>Verbal-Linguistic</li>	
+                    <li>Mathematical-Logical		</li>	
+                    <li>Rhythmical-Musical	</li>	
+                  </ul>
+                </div>
+                <div class="col-xs-1 col-sm-1 col-md-6 col-lg-6">
+                  <ul>              
+                    <li>Interpersonal</li>
+                    <li>Intrapersonal</li>
+                    <li>Bodily-Kinesthetic</li>
+                    <li>Naturalist</li>
+                  </ul>
+                </div>
+              </div>
+             </div>
+             <p>Learn how to:</p>
+              <ul>
+                <li>Understand yourself by acknowledgement of your highest and lowest score in the Multiple Intelligences Self Assessment taken during the workshop</li>
+                <li>Understand how your unique intelligence profile affects all areas of your life, from communicating to learning</li>
+                <li>Develop strategies and skills to use your Intelligence Profile to best advantage as a leader of others with different profiles</li>
+                <li>Learn to identify and adapt to people with different Intelligence Profiles while in a leadership role</li>
+                <li>Develop tools to prepare a powerful and effective speech and evaluation that reaches people of all intelligence profiles</li>
+              </ul>
+              <p>Mariah-Jane Thies has spent her life as a performer and teacher in both music and dance, going on to become an entrepreneur running her own studio for 10 years. She is certified as a ballet teacher (Royal Academy of Dance)  a modern teacher,  and a licensed Brain Gym and Reflex Integration consultant.</p>            
+              <p>Mariah-Jane is a presenter and speaker at numerous conferences worldwide from New York to China and Australia.</p>
+              <p>She is a finalist of the Woman of Worth (WOW) “Success, Soul and Spirit” award 2018 and a contributor to the best selling book, “The Power of Collaboration”.</p>
+              <p>She joined Toastmasters in 2018 and in her first year represented her club both as a speaker and evaluator at the area International Speech Competition and is now part of the executive committee for her club. Mariah-Jane is an avid reader and committed to her personal growth.</p>
+              <p>To find out more about Mariah-Jane please visit her website <a href="http://www.radiantdancer.com/" target=_blank>radiantdancer.com</a>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -384,7 +476,25 @@
             Blind spots - Shooting for the moon and actually getting there<br>
             <span class="name">Douglas McKegney</span>
           </h3>
-          <p class="lead text-center">Session information coming soon.</p> 
+          <p class="lead text-center">You’re shooting for the moon but, somehow, you’re not getting off the ground.</p> 
+          <p>In this workshop you will discover where you are still tied to the ground by problems hidden in your blind spots and learn to cut yourself loose.</p>
+          <p>24 years of advising senior executives, business owners and young entrepreneurs have taught me one critically important thing: it’s the issues you can’t see that keep you tied to the ground. Here are two examples from my work:</p>
+          <p><b>The aspiring entrepreneur</b>, struggling to build a team, who didn’t realize he was micromanaging everyone in sight instead of delegating. Once he found the source of his need to control everything he was able to learn to delegate and became very good at that. </p>
+          <p><b>The big-company-executive-turned-entrepreneur</b> who didn’t realize she was treating her failing business as a collection of technical problems to be solved instead of an opportunity to be explored and tested. Seeing the business with new eyes, she turned it around and set herself free.</p>
+          <p>Before working with me these individuals planned carefully, executed rigorously … and things went downhill. This happened because of problems it never occurred to them they might have, the ones hidden in their blind spots. My job was to help them shine a light into these blind spots and go to work on the problems hidden there. </p>
+          <p>So, what are you shooting for? And where are you tied to the ground?</p>
+          <p>In this workshop you will:</p>
+          <ul>
+          <li>Select an area of your life where you struggle to produce the results you want. For example, consider your progress at Toastmasters: are you stuck somewhere along the way? Or a challenge you face at work or at home
+</li>
+<li>Identify the exact place you get stuck, where you are tied to the ground. This is where you likely have a blind spot.</li>
+<li>Learn the process for locating and solving the problem hidden in your blind spot. </li>
+
+          </ul>
+          <p>A workbook will be provided to guide you, in the workshop and in following through as you implement what you learned.</p>
+          <p>Doug McKegney is a business advisor and thinking partner specializing in the implementation of business strategy and the development of collaborative leadership. He has created a suite of programs derived from this work that help people get out of their own way and produce the results they need.</p>
+          <p>Connect with Doug McKegney on LinkedIn: <a href="https://www.linkedin.com/in/dougmckegney/?originalSubdomain=ca" target="_blank" rel="noopener noreferrer">Doug McKegney
+</a></p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -405,6 +515,16 @@
           Secrets to Remembering Names and Faces (and Speeches too!)<br>
               <span class="name">Stefano Cossalter</span>
             </h3>
+            <p class="lead">Learn rich mnemonic systems that will help you to remember names and faces.</p>
+            <p>You will learn 2 easy techniques that you will be able to apply right away.  You will be amazed that you can accomplish things you have never been able to do before.</p>
+            <p>Learn ways to:</p>
+            <ul>
+              <li>remember anyone's name and face </li>
+              <li>improve your memory</li>
+              <li>increase your observation, concentration, and listening skills</li>
+            </ul>
+            <p>Stefano Cossalter is an entrepreneur and public speaker.  He has been in Toastmasters since 2011.  Since then, he has become a three-time District Speech Champion and has received two Distinguished Toastmaster awards. Stefano is a public speaking coach, a Master Neuro-linguistic programming (NLP) Practitioner, and a Master Hypnotherapist. In his free time, Stefano enjoys playing soccer,  mastering memory, practicing mentalism magic, and eating steak.</p>
+            <p>For more information on Stefano please visit <a href="http://www.stefanocossalter.com" target="_blank" rel="noopener noreferrer">www.stefanocossalter.com</a></p>
                <div class="videoWrapper">
                 <iframe width="420" height="315" src="https://www.youtube.com/embed/LjEmRqe0LQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
@@ -450,6 +570,31 @@
             Create Opportunities within Challenges in 3 Easy Steps<br>
             <span class="name">Adrian Starks</span>
           </h3>
+
+          <p class="lead">Channel a combination of Challenges, Habits, and Attitude.</p> 
+              <p>In this session, you will understand how to use the CHA Method (channeling a 
+                combination of Challenges, Habits, and Attitude) to create opportunities from 
+                difficult situations in your business or personal life. You will discover how 
+                to use these opportunities to create the life you truly deserve. </p> 
+              <p>Learn how to:</p>
+              <ul>
+                <li>Find solutions to problems by approaching them differently</li>
+                <li>Understand the 3 P’s of Preparation, Perseverance, and Patience</li>
+                <li>Use the 3 P’s to resolve your problems</li>
+              </ul> 
+              <p>Adrian Starks is a keynote speaker, personal development coach and best-selling 
+                author. Along with a Bachelor of Sciences in Exercise Physiology and 16 years in 
+                the human development and achievement field, he shares the teachings of his movement, 
+                Champion Up®. Adrian has discovered that to live the most fulfilling life, he had 
+                to make changes and create a system to help condition habits and behaviours for lasting change. </p> 
+              <p>Adrian’s mission is to help those feeling stuck, scared, lost, or unfulfilled to 
+                create a life of meaning. He offers solutions to courageously change and up-level 
+                creativity to make the largest impact in one’s world.</p>
+              <p>Adrian is a powerful storyteller and facilitator that has spoken to various audiences about 
+                how to learn and act upon this revolutionary system designed for winning. This allows anyone 
+                to believe that they can become a champion, overcome any challenge, and win for good.</p>
+              <p>Get Inspired Talks: Embrace Change by Growing Forward: <a href="https://youtu.be/3skWjLlcMLI" target=_blank>youtu.be/3skWjLlcMLI</a></p> 
+
                <div class="videoWrapper">
                 <iframe width="420" height="315" src="https://www.youtube.com/embed/71x5P1VXBRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
@@ -474,8 +619,23 @@
             Building Bridges of Success: A LEGO® Serious Play® Experience<br>
             <span class="name">Kirsten Anderson</span>
           </h3>
-          <p class="lead text-center">Session information coming soon.</p> 
-             
+          <p class="lead text-center">What does success look like for you?</p> 
+          <p>What is your “superpower”? That strength that you can use to create a bridge from where you are now to where you want to go?
+          Literally Connect ideas, and with your fellow Toastmasters, as you are led through a series of LEGO® builds in small groups to harness your innate creativity.</p> 
+          <p>In this session like no other you will explore the surprising power of play to:   </p>
+          <ul>
+            <li>Identify obstacles - What’s working, what’s not to move you towards your goals?</li>
+            <li>How might you prioritize key opportunities for growth and change?</li>
+            <li>What might an action plan look like to smash obstacles and bridge to your goal?</li>
+          </ul>
+          
+          <p>After 25 years as an entrepreneur in the toy industry, and a decade as the play expert on Global TV, Kirsten sold her toy store (voted best toy store in Canada 2015]!) to bridge her expertise in business leadership with the bottom-line benefits of playfulness at work.</p>
+ 
+          <p>Founder of Integrate Play Solutions, a boutique training organization, Kirsten speaks around the world, working with business leaders and organizational teams to help solve their messiest challenges with playful methods such as LEGO Serious Play.</p>
+ 
+          <p>Kirsten has been a member of the (always fun) Rocky Point Toastmasters since 2015.</p>
+          <p>For more information on Kirsten visit <a href="http://www.integrateplay.com/" target="_blank" rel="noopener noreferrer">www.integrateplay.com</a>
+
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -483,7 +643,7 @@
         </div>
       </div>
     </div>
-    <!-- kirsten -->
+    <!-- mahan -->
     <div class="modal fade" id="mahan" tabindex="-1" role="dialog" aria-labelledby="mahanLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -496,8 +656,25 @@
             A Yoga Moment<br>
             <span class="name">Mahan Khalsa</span>
           </h3>
-          <p class="lead text-center">Session information coming soon.</p> 
-             
+          <p class="lead text-center">Mahan Khalsa is a woman lit up with passionate purpose.</p> 
+         <p> She’s a down to earth, reach-for-the-skies, wildly spirited woman. For 2 decades, she’s devoted her life to learning and growing into her happiest, healthiest, and most radiant self. </p>
+         <p>As a committed yogini, dynamic healer and lifestyle entrepreneur, Mahan is committed to sharing ancient practices and practical tools to inspire and support others along their transformational path to holistic health and well-being. </p>
+ 
+         <p>Mahan passionately shares the practice of yoga to guide and assist others in living life with vitality, creativity, and a connection to their higher self.  </p>
+
+         <p>Her passion for yoga and optimal well-being is spreading like wildfire in Vancouver, as she and her committed team of yoga instructors bring yoga to homes, offices and special events around the city.  </p>
+
+         <p>This 15 min “Yoga Moment” session is great for all levels, and will give you an opportunity to stand up, shake it up, and stretch… leaving you feeling more energy and mental clarity for the day ahead. </p>
+          <p>To learn more, visit:</p>
+<ul>
+<li>Facebook: MahanDharma</li>
+<li>Instagram: @mahandharmaqueen</li>
+<li><a href="http://myinnergyyoga.com/?name=MahanKhalsa" target="_blank" rel="noopener noreferrer">myinnergyyoga.com/?name=MahanKhalsa</a></li>
+<li><a href="https://mahankhalsa.org" target="_blank" rel="noopener noreferrer">mahankhalsa.org</a></li>
+</ul>
+
+
+       
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
