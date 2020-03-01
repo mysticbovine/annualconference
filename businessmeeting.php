@@ -61,7 +61,7 @@
 			chair needs to receive permission from the proxy holder(s) in order to allow another member (specified or otherwise) from the club 
 			to hold the proxy.</p>
 			<p>Visit <a href="http://www.district96.ca/resources/district/credentials" target=_blank>Credentials Information</a></p>
-			
+			<div class="hidden">
 			<p>The District 96 Leadership <?php echo $business['title'];?> (<?php echo $business['committee'];?>) have approved the nominations of the following candidates:</p>
 
 			<h3>District 96 Leadership Nominations</h3>
@@ -80,7 +80,7 @@
 			<p>The District 96 Business Meeting will be held Saturday <?php echo $general['saturday'];?>, <?php echo $general['year']; ?> at the District 96 Annual Conference. </p>
 
 			<p>The elections for District Director, Program Quality Director, Club Growth Director and all of the Division Directors will be elected during that meeting. </p>
-<div class="hidden">
+
 			<p>Nominations from eligible candidates will be accepted from the floor. If you or someone you are nominating is interested in the position, please fill out the forms posted on the District 96 website.</p>
 
 			<p>If you have any questions, please do not hesitate to contact <?php echo $business['name'];?> at <a href="mailto:<?php echo $business['email'];?>" target="_blank"><?php echo $business['email'];?></a>.</p>
