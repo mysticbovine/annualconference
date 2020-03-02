@@ -163,7 +163,7 @@
                             <td><strong>11:30 am</strong></td>
                             <td> Saturday Morning Education Sessions<br />
                                 <small><br />
-                                    <b>Personal Development Track:</b> Productivity- The Happy Secret to A Better Life Or The Happiness Advantage by Devon Downie<br />
+                                    <b>Personal Development Track:</b> The Happiness Advantage by Devon Downie<br />
                                     <b>Leadership Track:</b> R.I.S.E. And Shoot For the Moon: Four Pillars of Success by Anita Adams<br />
                                     <b>Communication Track:</b> How to Create a Resilient Dynamic Workplace Culture by Emi Garzitto<br /><br />
                                     Visit <a href="educations.php">Education Sessions</a> page for more
@@ -202,7 +202,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td width="100px"><strong>4:30 pm</strong></td>
+                            <td width="100px"><strong>4:15 pm</strong></td>
                             <td> District 96 International Speech Contest</td>
                         </tr>
                         <tr>
@@ -214,7 +214,7 @@
                         </tr>
                         <tr>
                             <td><strong>9:00 pm</strong></td>
-                            <td> Silent and Live Auctions, 50/50 Draw</td>
+                            <td> Mentor, Silent and Live Auctions, 50/50 Draw</td>
                         </tr>
 
                         </tr>
@@ -250,10 +250,6 @@
                         <tr>
                             <td><strong>10:15 am</strong></td>
                             <td> District 96 Evaluation Contest</td>
-                        </tr>
-                        <tr>
-                            <td><strong>11:30 am</strong></td>
-                            <td> Live Mentor Auctions</td>
                         </tr>
                         <tr>
                             <td><strong>12:00 am</strong></td>
