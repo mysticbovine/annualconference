@@ -204,7 +204,7 @@
                             </div>
 
                             <h4>
-                                Productivity- The Happy Secret to A Better Life Or The Happiness Advantage<br>
+                                The Happiness Advantage<br>
                                 <span class="name">Devon Downie</span>
                             </h4>
                         </a>
@@ -678,7 +678,7 @@
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
-                            The Happy Secret to a Better Life (or The Happiness Advantage)<br>
+                            The Happiness Advantage<br>
                             <span class="name">Devon Downie</span>
                         </h3>
                         <p class="lead text-center">Learn about mirror neurons and how to use them to communicate
