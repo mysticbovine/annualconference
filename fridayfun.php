@@ -146,7 +146,7 @@
                                 <div class="img-circle center-block grow">
                                     <span class="field-content">
                                         <img alt="Kyriaki Papadopoulou" class="img-responsive" height="200"
-                                            src="images/speakers/kyriaki.jpg" typeof="Image" width="200">
+                                            src="images/speakers/Kyriaki.jpg" typeof="Image" width="200">
                                     </span>
                                 </div>
 
