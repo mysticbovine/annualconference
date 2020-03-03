@@ -121,7 +121,7 @@
                                 </div>
 
                                 <h4>
-                                    Flamenco (with Arthur Gee)<br>
+                                    Mai Flamenco<br>
                                     <span class="name">Mai Paredes</span>
                                 </h4>
                             </a>
@@ -136,7 +136,7 @@
                                 </div>
 
                                 <h4>
-                                    Flamenco (with Mai Paredes)<br>
+                                Arthur with Mai & Kyriaki<br>
                                     <span class="name">Arthur Gee</span>
                                 </h4>
                             </a>
@@ -145,13 +145,13 @@
                             <a data-toggle="modal" data-target="#kyriaki">
                                 <div class="img-circle center-block grow">
                                     <span class="field-content">
-                                        <img alt="Arthur Gee" class="img-responsive" height="200"
-                                            src="images/speakers/kyriaki.jpg" typeof="Image" width="200">
+                                        <img alt="Kyriaki Papadopoulou" class="img-responsive" height="200"
+                                            src="images/speakers/Kyriaki.jpg" typeof="Image" width="200">
                                     </span>
                                 </div>
 
                                 <h4>
-                                    Belly Dancing<br>
+                                Kyriaki Belly Dancing<br>
                                     <span class="name">Kyriaki Papadopoulou</span>
                                 </h4>
                             </a>
@@ -297,7 +297,7 @@
                 </div>
                 <div class="modal-body bg-yellow faded bio">
                     <h3 class="text-center">
-                        Flamenco <br>
+                        Mai Flamenco <br>
                         <span class="name">Mai Paredes</span>
                     </h3>
                     <p class="lead">Like a true flamenco gypsy, Mai has lived in different places to pursue
@@ -314,7 +314,7 @@
                         the other hand, is her platform for honing her writing, public speaking, and
                         leadership skills. Life is short, so she intentionally lives it with PURPOSE and
                         SIGNIFICANCE.</p>
-                    <p>For more information about Mia's Toastmasters club visit <a
+                    <p>For more information about Mai's Toastmasters club visit <a
                             href="http://vancouvertoastmasters.com/" target="_blank"
                             rel="noopener noreferrer">vancouvertoastmasters.com</a></p>
                 </div>
@@ -335,7 +335,7 @@
                 </div>
                 <div class="modal-body bg-yellow faded bio">
                     <h3 class="text-center">
-                        Flamenco <br>
+                    Arthur with Mai & Kyriaki<br>
                         <span class="name">Arthur Gee</span>
                     </h3>
                     <p class="lead">Arthur has always loved to dance.</p>
@@ -378,7 +378,7 @@
                 </div>
                 <div class="modal-body bg-yellow faded bio">
                     <h3 class="text-center">
-                        Belly Dancing <br>
+                    Kyriaki Belly Dancing <br>
                         <span class="name">Kyriaki Papadopoulou</span>
                     </h3>
                     <p class="lead">Belly dancing is part of Kyriaki's Mediterranean heritage. </p>
