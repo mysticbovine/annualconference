@@ -408,6 +408,12 @@
                             human potential field, Quinn offers her clients the Principles of Success to tap into their
                             natural resilience, increase
                             wellness, deepen connections with others and reduce stress. </p>
+                            <div class="videoWrapper">
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/iYTIrqwIPlA"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                        </div>
 
                     </div>
                     <div class="modal-footer">
