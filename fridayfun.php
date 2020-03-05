@@ -121,7 +121,7 @@
                                 </div>
 
                                 <h4>
-                                    Mai Flamenco<br>
+                                    Flamenco<br>
                                     <span class="name">Mai Paredes</span>
                                 </h4>
                             </a>
@@ -151,7 +151,7 @@
                                 </div>
 
                                 <h4>
-                                Kyriaki Belly Dancing<br>
+                                Belly Dancing<br>
                                     <span class="name">Kyriaki Papadopoulou</span>
                                 </h4>
                             </a>
@@ -297,7 +297,7 @@
                 </div>
                 <div class="modal-body bg-yellow faded bio">
                     <h3 class="text-center">
-                        Mai Flamenco <br>
+                        Flamenco <br>
                         <span class="name">Mai Paredes</span>
                     </h3>
                     <p class="lead">Like a true flamenco gypsy, Mai has lived in different places to pursue
@@ -378,7 +378,7 @@
                 </div>
                 <div class="modal-body bg-yellow faded bio">
                     <h3 class="text-center">
-                    Kyriaki Belly Dancing <br>
+                    Belly Dancing <br>
                         <span class="name">Kyriaki Papadopoulou</span>
                     </h3>
                     <p class="lead">Belly dancing is part of Kyriaki's Mediterranean heritage. </p>
