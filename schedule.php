@@ -247,7 +247,7 @@
                         <tr>
                             <td><strong>10:15 am</strong></td>
                             <td> District 96 Evaluation Contest</td>
-                        </tr>
+                        </tr> 
                         <tr>
                             <td><strong>10:30 am</strong></td>
                             <td> Yoga Moment</td>
