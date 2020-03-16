@@ -47,19 +47,10 @@
     <!-- Carousel Start -->
     <div class="banner vh_height100 homepage">
         <ul id="scene">
+        
             <li class="layer" data-depth="0.0"></li>
             <li class="layer" data-depth="0.10">
                 <div class="background"></div>
-            </li>
-            <li class="layer" data-depth="0.10">
-                <div id="particules">
-                    <div class="full-height" id="star-first"></div>
-                </div>
-            </li>
-                <li class="layer" data-depth="0.15">
-                <div id="particules">
-                    <div class="full-height" id="star-second"></div>
-                </div>
             </li>
             <li class="layer" data-depth="0" id="logo">
             <div class="container padding-100 message">
@@ -77,6 +68,17 @@
             </div>
         </div>
             </li>
+            <li class="layer" data-depth="0.10">
+                <div id="particules">
+                    <div class="full-height" id="star-first"></div>
+                </div>
+            </li>
+                <li class="layer" data-depth="0.15">
+                <div id="particules">
+                    <div class="full-height" id="star-second"></div>
+                </div>
+            </li>
+            
 
             
             <li class="layer" data-depth="0.42">
