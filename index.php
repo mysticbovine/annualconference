@@ -47,9 +47,13 @@
     <!-- Carousel Start -->
     <div class="banner vh_height100 homepage">
         <ul id="scene">
+        
             <li class="layer" data-depth="0.0"></li>
             <li class="layer" data-depth="0.10">
                 <div class="background"></div>
+            </li>
+            <li class="layer" data-depth="0" id="logo">
+            
             </li>
             <li class="layer" data-depth="0.10">
                 <div id="particules">
@@ -61,22 +65,7 @@
                     <div class="full-height" id="star-second"></div>
                 </div>
             </li>
-            <li class="layer" data-depth="0" id="logo">
-            <div class="container padding-100 message">
-            <div class="row">
-                <div class="col-sm-10 col-sm-offset-1">
-                    <div class="well">
-                      <h1>District 96 Conference Cancelled<h1>
-
-                      <h3 class="strong">Based on the directive from Toastmasters International and after much difficult discussions the Trio, District 
-                          Executive Council, Conference Co-Chairs and District Contest Judge have agreed to cancel the District 96 Conference.</h3>
-
-                      <h3>For more information please read the <a href="https://d96toastmasters.ca/blog/general/toastmasters-coronavirus-update" target=_blank>District Director's message on d96toastmasters.ca</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-            </li>
+            
 
             
             <li class="layer" data-depth="0.42">
@@ -90,7 +79,20 @@
                 </div>
             </li>
         </ul>
-        
+        <div class="container padding-100 reg">
+            <div class="row">
+                <div class="col-sm-10 col-sm-offset-1">
+                    <div class="well">
+                      <h1>District 96 Conference Cancelled<h1>
+
+                      <h3 class="strong">Based on the directive from Toastmasters International and after much difficult discussions the Trio, District 
+                          Executive Council, Conference Co-Chairs and District Contest Judge have agreed to cancel the District 96 Conference.</h3>
+
+                      <h3>For more information please read the <a href="https://d96toastmasters.ca/blog/general/toastmasters-coronavirus-update" target=_blank>District Director's message on d96toastmasters.ca</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- Body Start -->
     
