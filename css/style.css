@@ -89,6 +89,15 @@
   left: -5%;
   top: -5%;
 }
+#scene li.layer .message {
+  margin: 180px auto;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  -webkit-animation: fadeInLogo 2s cubic-bezier(0.8, -0.49, 0.36, 1);
+          animation: fadeInLogo 2s cubic-bezier(0.8, -0.49, 0.36, 1);
+}
 #scene li.layer .logo {
   max-width: 400px;
   /* margin: 300px auto; */
@@ -165,6 +174,9 @@
   }
   body #scene li.layer .text {
     margin: 100px auto 0px auto;
+  }
+  #scene li.layer .message {
+    margin: 200px auto;
   }
 }
 @media only screen and (min-width: 1024px) {
