@@ -47,33 +47,34 @@
     <div class="container body ed-session">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h1 class="page-header">Education Sessions</h1>
-                <p class="lead">Here is a list of the Educations as of January 31, 2020. More details will be published
-                    here as the come available or are updated.</p>
+                <h1 class="page-header">Online Workshops Sessions</h1>
+                <p class="lead">Now that Toastmasters International has announced that we cannot host any District events, the District 96 Annual Conference has been cancelled.</p>
+                <p class="lead">PLAN B - Host a few workshops online instead!</p>
             </div>
         </div>
         <span class="anchor" id="top"></span>
 
         <div class="row ed-session-bios">
 
-            <h2 class="blue-bg">Saturday Education &ndash; Communication Track</h2>
+            <h2 class="blue-bg">April Workshops</h2>
+
             <div class="row">
                 <div class="ed-speakers">
-                    <div class="committee leader ">
-                        <a data-toggle="modal" data-target="#moreno">
+                    <div class="committee leader">
+                        <a data-toggle="modal" data-target="#anita">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
-                                    <img alt="Moreno Perazollo" class="img-responsive" height="200"
-                                        src="images/speakers/moreno.jpg" typeof="Image" width="200">
+                                    <img alt="Anita Adams" class="img-responsive" height="200"
+                                        src="images/speakers/anita.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
 
-                            <h4>
-                                How To Grow Your Online Visibility With Rapid Fire Videos<br>
-                                <span class="name">Moreno Perazollo</span>
+                            <h3>April 5</h3>
+                             <h4>   R.I.S.E. And Shoot For the Moon: Four Pillars of Success
+                             <span class="name">Anita Adams</span>
                             </h4>
-                        </a>
                     </div>
+               
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#quinn">
                             <div class="img-circle center-block grow">
@@ -82,48 +83,62 @@
                                         src="images/speakers/quinn.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
+                            <h3>April 12</h3>
                             <h4>
                                 Leaders &ndash; Your Mind is a Gold Mine<br>
                                 <span class="name">Quinn Cashion</span>
                             </h4>
                         </a>
                     </div>
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#emi">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Emi Garzitto" class="img-responsive" height="200"
-                                        src="images/speakers/emi.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
-
-                            <h4>
-                                How to Create a Resilient Dynamic Workplace Culture<br>
-                                <span class="name">Emi Garzitto</span>
-                            </h4>
-                        </a>
-                    </div>
-
-
+            
+                <div class="committee leader">
+                    <a data-toggle="modal" data-target="#mariah-jane">
+                        <div class="img-circle center-block grow">
+                            <span class="field-content">
+                                <img alt="Mariah-Jane Thies" class="img-responsive" height="200"
+                                    src="images/speakers/mariah-jane.jpg" typeof="Image" width="200">
+                            </span>
+                        </div>
+                        <h3>April 19</h3>
+                        <h4>
+                            How are you Smart?<br>
+                            <span class="name">Mariah-Jane Thies</span>
+                        </h4>
+                    </a>
                 </div>
+                <div class="committee leader">
+                    <a data-toggle="modal" data-target="#michelle">
+                        <div class="img-circle center-block grow">
+                            <span class="field-content">
+                                <img alt="Michelle Tremblay" class="img-responsive" height="200"
+                                    src="images/speakers/michelle.jpg" typeof="Image" width="200">
+                            </span>
+                        </div>
+                        <h3>April 26</h3>
+                        <h4>
+                            MPower Your Inner Ninja<br>
+                            <span class="name">Michelle Tremblay</span>
+                        </h4>
+                    </a>
+                </div>
+            </div>
 
+            <h2 class="blue-bg">May Workshops</h2>
 
-
-                <h2 class="blue-bg">Saturday Education &ndash; Leadership Track</h2>
+            <div class="row">
                 <div class="ed-speakers">
                     <div class="committee leader">
-                        <a data-toggle="modal" data-target="#mariah-jane">
+                        <a data-toggle="modal" data-target="#stefano">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
-                                    <img alt="Mariah-Jane Thies" class="img-responsive" height="200"
-                                        src="images/speakers/mariah-jane.jpg" typeof="Image" width="200">
+                                    <img alt="Stefano Cossalter" class="img-responsive" height="200"
+                                        src="images/speakers/stefano.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
+                            <h3>May 3</h3>
                             <h4>
-                                How are you Smart?<br>
-                                <span class="name">Mariah-Jane Thies</span>
+                                Secrets to Remembering Names and Faces (and Speeches too!)<br>
+                                <span class="name">Stefano Cossalter</span>
                             </h4>
                         </a>
                     </div>
@@ -135,7 +150,7 @@
                                         src="images/speakers/douglas.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
+                            <h3>May 10</h3>
                             <h4>
                                 Blind spots - Shooting for the moon and actually getting there<br>
                                 <span class="name">Douglas McKegney</span>
@@ -143,108 +158,91 @@
                         </a>
                     </div>
                     <div class="committee leader">
-                        <a data-toggle="modal" data-target="#anita">
+                        <a data-toggle="modal" data-target="#tom">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
-                                    <img alt="Anita Adams" class="img-responsive" height="200"
-                                        src="images/speakers/anita.jpg" typeof="Image" width="200">
+                                    <img alt="Tom Everitt" class="img-responsive" height="200"
+                                        src="images/speakers/tom.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
-                            <h4>
-                                R.I.S.E. And Shoot For the Moon: Four Pillars of Success<br>
-                                <span class="name">Anita Adams</span>
+                            <h3>May 17</h3>
+                            <h4> Around the World in 80 Anthems: A Story of Inspiration
+                                <br>
+                                <span class="name">Tom Everitt</span>
                             </h4>
                         </a>
                     </div>
-
-
+                    <div class="committee leader">
+                        <a data-toggle="modal" data-target="#emi">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Emi Garzitto" class="img-responsive" height="200"
+                                        src="images/speakers/emi.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>May 24</h3>
+                            <h4>
+                                How to Create a Resilient Dynamic Workplace Culture<br>
+                                <span class="name">Emi Garzitto</span>
+                            </h4>
+                        </a>
+                    </div>
                 </div>
+            </div>
 
+            <h2 class="blue-bg">June Workshops</h2>
 
-                <h2 class="blue-bg">Saturday Education &ndash; Personal Development Track</h2>
+            <div class="row">
                 <div class="ed-speakers">
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#adrian">
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#winston">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
-                                    <img alt="Adrian Starks" class="img-responsive" height="200"
-                                        src="images/speakers/adrian.jpg" typeof="Image" width="200">
+                                    <img alt="Winston Yeung" class="img-responsive" height="200"
+                                        src="images/speakers/winston.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
+                            <h3>June 7</h3>
                             <h4>
-                                Create Opportunities within Challenges in 3 Easy Steps<br>
-                                <span class="name">Adrian Starks</span>
+                                Why Are You Only Aiming for the Moon?<br>
+                                <span class="name">Winston Yeung</span>
                             </h4>
                         </a>
                     </div>
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#stefano">
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#moreno">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
-                                    <img alt="Stefano Cossalter" class="img-responsive" height="200"
-                                        src="images/speakers/stefano.jpg" typeof="Image" width="200">
+                                    <img alt="Moreno Perazollo" class="img-responsive" height="200"
+                                        src="images/speakers/moreno.jpg" typeof="Image" width="200">
                                 </span>
                             </div>
-
+                            <h3>June 14</h3>
                             <h4>
-                                Secrets to Remembering Names and Faces (and Speeches too!)<br>
-                                <span class="name">Stefano Cossalter</span>
+                                How To Grow Your Online Visibility With Rapid Fire Videos<br>
+                                <span class="name">Moreno Perazollo</span>
                             </h4>
                         </a>
                     </div>
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#devon">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Devon Downie" class="img-responsive" height="200"
-                                        src="images/speakers/devon.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
+                    
+                   
 
-                            <h4>
-                                The Happiness Advantage<br>
-                                <span class="name">Devon Downie</span>
-                            </h4>
-                        </a>
-                    </div>
 
                 </div>
 
-                <h2 class="blue-bg">Sunday Workshops</h2>
-                <div class="ed-speakers">
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#kirsten">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Kirsten Anderson" class="img-responsive" height="200"
-                                        src="images/speakers/kirsten.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
 
-                            <h4>
-                                Building Bridges of Success: A LEGO&reg; Serious Play&reg; Experience<br>
-                                <span class="name">Kirsten Anderson</span>
-                            </h4>
-                        </a>
-                    </div>
-                    <div class="committee leader">
-                        <a data-toggle="modal" data-target="#mahan">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Mahan Khalsa" class="img-responsive" height="200"
-                                        src="images/speakers/mahan.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
 
-                            <h4>
-                                A Yoga Moment<br>
-                                <span class="name">Mahan Khalsa</span>
-                            </h4>
-                        </a>
-                    </div>
+                
+                    
+                   
+
+
                 </div>
+
+
+                
+
+                
 
                 <p>
                     <a href="#top" class="page-scroll  btn btn-primary hidden">Back to top</a>
@@ -255,6 +253,43 @@
         </div>
         <!-- END -->
         <!-- Speaker info modals -->
+        <!-- Yeung -->
+    <div class="modal fade" id="winston" tabindex="-1" role="dialog" aria-labelledby="winstonLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="winstonLabel">June 7</h4>
+                </div>
+                <div class="modal-body bg-yellow faded bio">
+                    <h3 class="text-center">
+                        Why are you only reaching for the moon?<br>
+                        <span class="name">Winston Yeung</span>
+                    </h3>
+                    <p class="lead">Winston invites you to come and hear why he feels you are limiting yourself by only
+                        shooting for the moon.</p>
+                    <p>Winston Yeung is the founder and host of VoiceStory Live, a live monthly storytelling event in
+                        Vancouver that is entering its third year in 2020. He has helped over 100 speakers (including
+                        many Toastmasters) develop, reflow, and present their stories.</p>
+                    <p>While working with speakers in developing their stories, Winston has noticed a pattern that we,
+                        at times, focus too hard on what we want our lives to be like, based on our perceptions,
+                        beliefs, and conditioning.</p>
+                    <p>During those times, all other possibilities cease to exist as we become blind to them. If we can
+                        become aware of this, let go of the control of “what we want...” what stories could possibly
+                        begin to unfold?</p>
+                    <p>What could your life be like?</p>
+                    <p>Winston invites you to come and hear why he feels you are limiting yourself by only shooting for
+                        the moon.</p>
+                    <p>Mr. Yeung is an inventor, a mentor, a story architect, a transformational coach, and a community
+                        builder.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- moreno -->
         <div class="modal fade" id="moreno" tabindex="-1" role="dialog" aria-labelledby="morenoLabel">
             <div class="modal-dialog" role="document">
@@ -324,7 +359,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="emiLabel">Communication Track</h4>
+                        <h4 class="modal-title" id="emiLabel">May 24</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -376,7 +411,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="quinnLabel">Communication Track</h4>
+                        <h4 class="modal-title" id="quinnLabel">April 12</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -429,7 +464,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="anitaLabel">Leadership Track</h4>
+                        <h4 class="modal-title" id="anitaLabel">April 5</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -502,7 +537,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="mariahLabel">Leadership Track</h4>
+                        <h4 class="modal-title" id="mariahLabel">April 19</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -574,7 +609,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="douglasLabel">Leadership Track</h4>
+                        <h4 class="modal-title" id="douglasLabel">May 10</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -635,7 +670,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="stefanoLabel">Personal Development Track</h4>
+                        <h4 class="modal-title" id="stefanoLabel">May 3</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -771,6 +806,56 @@
                 </div>
             </div>
         </div>
+        <!-- michelle -->
+    <div class="modal fade" id="michelle" tabindex="-1" role="dialog" aria-labelledby="michelleLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="michelleLabel">April 26</h4>
+                </div>
+                <div class="modal-body bg-yellow faded bio">
+                    <h3 class="text-center">
+                        MPower Your Inner Ninja <br>
+                        <span class="name">Michelle Tremblay</span>
+                    </h3>
+                    <p class="lead">Michelle believes each one of us is a 'Hero' to our own life's journey.</p>
+                    <p>Join Michelle Tremblay, aka the Ninja Queen, a 2nd degree black belt with 18 years of karate
+                        training. She is a serious butt kickin' motivatin' champion who wants to inspire you, grab your
+                        heart and fill you with power, love and the potential of who you can become!</p>
+                    <p>She believes each one of us is a 'Hero' to our own life's journey. With challenges, setbacks, and
+                        struggles we can overcome or not. There is a call inside us to get unstuck? Live our dreams?
+                        Overcome pain? Fears? Loss? Sorrow?</p>
+                    <p>Michelle accepted the call to transform through her martial arts with one of her greatest
+                        teachers. Come listen to a fun, interactive, and inspiring speech that will help you use
+                        courage, determination and love to discover your own "Hero's Journey." Come find the strength of
+                        your own "Inner Ninja"!</p>
+                    <p>Michelle Tremblay is founder of MPower Lives Company, located in the Tri-Cities area in
+                        Vancouver’s Lower Mainland. She has worked with over 15,000 participants nationwide and is
+                        highly recognized as a powerful speaker, great motivator, and compassionate leader. Her focus is
+                        on mpowering change in the workplace, schools, and community through mental and physical health
+                        and wellness strategies, mindfulness, and social and emotional learning.</p>
+
+                    <p>Michelle believes that each individual can feel valued, confident, and responsible through the
+                        proper tools, support, and workplace conditions. Her corporate work has led her to give talks to
+                        clients such as Work Safe BC, Van-City Credit Unions, Fraser Valley Child Development Centres,
+                        Chartered Professional in Human Resource (CPHR) , School Districts, and various nonprofit
+                        agencies.</p>
+                    <p>For more information about Michelle please visit <a href="http://www.mpowerlives.com"
+                            target="_blank" rel="noopener noreferrer">www.mpowerlives.com</a></p>
+                    <div class="videoWrapper">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/moY4nv0G5hw" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- kirsten -->
         <div class="modal fade" id="kirsten" tabindex="-1" role="dialog" aria-labelledby="kirstenLabel">
             <div class="modal-dialog" role="document">
@@ -816,6 +901,40 @@
                 </div>
             </div>
         </div>
+        <!-- tom -->
+    <div class="modal fade" id="tom" tabindex="-1" role="dialog" aria-labelledby="tomLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="tomLabel">May 17</h4>
+                </div>
+                <div class="modal-body bg-yellow faded bio">
+                    <h3 class="text-center">
+                        Around the World in 80 Anthems: A Story of Inspiration<br>
+                        <span class="name">Tom Everitt </span>
+                    </h3>
+                    <p class="lead">A small idea can become a life-changing event for you.</p>
+                    <p>A small idea can become a life-changing event for you. It can also change the lives of tens of
+                        thousands of people when you believe in yourself and your story. During our one-year, 80-country
+                        journey, I gave presentations in over 60 countries and was interviewed by over 100 TV stations
+                        (including CBC, CTV, NBC, and the BBC) and print newspapers. Our film, Around The World in 80
+                        Anthems, was narrated by Shark Tank's Emmy Award winner Daymond John. It won multiple awards at
+                        festivals around the world. We still hold the official Guinness World Record for my daughter
+                        singing 80 national anthems in 80 countries in their home languages.</p>
+                    <p>In 2002, Toastmasters changed my life. It turned me from an extremely nervous and visibly shaking
+                        speaker into a confident, humourous, passionate human being. Since then, I have led a very
+                        successful life as a realtor, home renovator, parent and traveller. These skills were put to the
+                        test during our one-year, 80-country trip around the world.</p>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- mahan -->
         <div class="modal fade" id="mahan" tabindex="-1" role="dialog" aria-labelledby="mahanLabel">
             <div class="modal-dialog" role="document">
