@@ -224,30 +224,12 @@
                             </h4>
                         </a>
                     </div>
-                    
-                   
-
-
                 </div>
-
-
-
-                
-                    
-                   
-
-
-                </div>
-
-
-                
-
-                
-
+            </div>
                 <p>
                     <a href="#top" class="page-scroll  btn btn-primary hidden">Back to top</a>
                 </p>
-
+ 
             </div>
 
         </div>
