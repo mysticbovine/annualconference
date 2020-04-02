@@ -89,6 +89,9 @@
                           Executive Council, Conference Co-Chairs and District Contest Judge have agreed to cancel the District 96 Conference.</h3>
 
                       <h3>For more information please read the <a href="https://d96toastmasters.ca/blog/general/toastmasters-coronavirus-update" target=_blank>District Director's message on d96toastmasters.ca</a></h3>
+                      
+                      
+                      <div class="text-center"><h3><a href="educations.php" class="btn btn-lg btn-register">Find out about PLAN B!</a><h3></div>
                     </div>
                 </div>
             </div>
