@@ -122,7 +122,7 @@
                     </a>
                 </div>
             </div>
-
+<div class="hidden">
             <h2 class="blue-bg">May Workshops</h2>
 
             <div class="row">
@@ -224,6 +224,7 @@
                             </h4>
                         </a>
                     </div>
+                </div>
                 </div>
             </div>
                 <p>
