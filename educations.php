@@ -50,6 +50,7 @@
                 <h1 class="page-header">Online Workshops Sessions</h1>
                 <p class="lead">Now that Toastmasters International has announced that we cannot host any District events, the District 96 Annual Conference has been cancelled.</p>
                 <p class="lead">PLAN B - Host a few workshops online instead!</p>
+                <p>You'll find the Eventbrite registrations for the workshops of your choice below. The zoom link will be in the registration confirmation email.</p>
             </div>
         </div>
         <span class="anchor" id="top"></span>
@@ -73,6 +74,8 @@
                              <h4>   R.I.S.E. And Shoot For the Moon: Four Pillars of Success
                              <span class="name">Anita Adams</span>
                             </h4>
+                        </a>
+                            <a href="https://www.eventbrite.ca/e/rise-and-shoot-for-the-moon-four-pillars-of-success-anita-adams-tickets-101692874124" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                
                     <div class="committee leader">
@@ -89,6 +92,7 @@
                                 <span class="name">Quinn Cashion</span>
                             </h4>
                         </a>
+                        <a href="https://www.eventbrite.ca/e/leaders-your-mind-is-a-gold-mine-quinn-cashion-tickets-101771214442" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
             
                 <div class="committee leader">
@@ -105,6 +109,7 @@
                             <span class="name">Mariah-Jane Thies</span>
                         </h4>
                     </a>
+                    <a href="https://www.eventbrite.ca/e/how-are-you-smart-mariah-jane-theis-tickets-101771756062" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                 </div>
                 <div class="committee leader">
                     <a data-toggle="modal" data-target="#michelle">
@@ -120,6 +125,7 @@
                             <span class="name">Michelle Tremblay</span>
                         </h4>
                     </a>
+                    <a href="https://www.eventbrite.ca/e/mpower-your-inner-ninja-michelle-tremblay-tickets-101772000794" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                 </div>
             </div>
 <div class="hidden">
@@ -141,6 +147,7 @@
                                 <span class="name">Stefano Cossalter</span>
                             </h4>
                         </a>
+                        <a href="" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#douglas">
