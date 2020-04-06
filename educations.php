@@ -75,7 +75,7 @@
                              <span class="name">Anita Adams</span>
                             </h4>
                         </a>
-                            <a href="https://www.eventbrite.ca/e/rise-and-shoot-for-the-moon-four-pillars-of-success-anita-adams-tickets-101692874124" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                            <a href="https://www.eventbrite.ca/e/rise-and-shoot-for-the-moon-four-pillars-of-success-anita-adams-tickets-101692874124" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
                     </div>
                
                     <div class="committee leader">
@@ -810,28 +810,14 @@
                         MPower Your Inner Ninja <br>
                         <span class="name">Michelle Tremblay</span>
                     </h3>
-                    <p class="lead">Michelle believes each one of us is a 'Hero' to our own life's journey.</p>
-                    <p>Join Michelle Tremblay, aka the Ninja Queen, a 2nd degree black belt with 18 years of karate
-                        training. She is a serious butt kickin' motivatin' champion who wants to inspire you, grab your
-                        heart and fill you with power, love and the potential of who you can become!</p>
-                    <p>She believes each one of us is a 'Hero' to our own life's journey. With challenges, setbacks, and
-                        struggles we can overcome or not. There is a call inside us to get unstuck? Live our dreams?
-                        Overcome pain? Fears? Loss? Sorrow?</p>
-                    <p>Michelle accepted the call to transform through her martial arts with one of her greatest
-                        teachers. Come listen to a fun, interactive, and inspiring speech that will help you use
-                        courage, determination and love to discover your own "Hero's Journey." Come find the strength of
-                        your own "Inner Ninja"!</p>
-                    <p>Michelle Tremblay is founder of MPower Lives Company, located in the Tri-Cities area in
-                        Vancouver’s Lower Mainland. She has worked with over 15,000 participants nationwide and is
-                        highly recognized as a powerful speaker, great motivator, and compassionate leader. Her focus is
-                        on mpowering change in the workplace, schools, and community through mental and physical health
-                        and wellness strategies, mindfulness, and social and emotional learning.</p>
+                    <p class="lead">In this session, you will:</p>
+                    <p>join second-degree black belt Michelle Tremblay in a fun, interactive, and inspiring workshop that 
+                        will help you use courage, determination and love to discover your own "Hero's Journey ". There will
+                         be practical physical tools and mindfulness techniques that will engage you as the audience to find 
+                         your peace, strength, and power within your own inner ninja</p>
 
-                    <p>Michelle believes that each individual can feel valued, confident, and responsible through the
-                        proper tools, support, and workplace conditions. Her corporate work has led her to give talks to
-                        clients such as Work Safe BC, Van-City Credit Unions, Fraser Valley Child Development Centres,
-                        Chartered Professional in Human Resource (CPHR) , School Districts, and various nonprofit
-                        agencies.</p>
+             
+
                     <p>For more information about Michelle please visit <a href="http://www.mpowerlives.com"
                             target="_blank" rel="noopener noreferrer">www.mpowerlives.com</a></p>
                     <div class="videoWrapper">
