@@ -92,7 +92,7 @@
                                 <span class="name">Quinn Cashion</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/leaders-your-mind-is-a-gold-mine-quinn-cashion-tickets-101771214442" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="https://www.eventbrite.ca/e/leaders-your-mind-is-a-gold-mine-quinn-cashion-tickets-101771214442" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
             
                 <div class="committee leader">
