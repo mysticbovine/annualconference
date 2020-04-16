@@ -75,7 +75,9 @@
                              <span class="name">Anita Adams</span>
                             </h4>
                         </a>
-                            <a href="https://www.eventbrite.ca/e/rise-and-shoot-for-the-moon-four-pillars-of-success-anita-adams-tickets-101692874124" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
+                            <a href="https://www.eventbrite.ca/e/rise-and-shoot-for-the-moon-four-pillars-of-success-anita-adams-tickets-101692874124" class="btn btn-register disabled" style="color:#ffffff" target=_blank>
+                                Registration closed
+                            </a>
                     </div>
                
                     <div class="committee leader">
@@ -92,7 +94,9 @@
                                 <span class="name">Quinn Cashion</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/leaders-your-mind-is-a-gold-mine-quinn-cashion-tickets-101771214442" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="https://www.eventbrite.ca/e/leaders-your-mind-is-a-gold-mine-quinn-cashion-tickets-101771214442" class="btn btn-register disabled" style="color:#ffffff" target=_blank>
+                            Registration closed
+                        </a>
                     </div>
             
                 <div class="committee leader">
@@ -128,7 +132,7 @@
                     <a href="https://www.eventbrite.ca/e/mpower-your-inner-ninja-michelle-tremblay-tickets-101772000794" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                 </div>
             </div>
-<div class="hidden">
+<div class="">
             <h2 class="blue-bg">May Workshops</h2>
 
             <div class="row">
@@ -147,7 +151,7 @@
                                 <span class="name">Stefano Cossalter</span>
                             </h4>
                         </a>
-                        <a href="" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="https://www.eventbrite.ca/e/secrets-to-remembering-names-and-faces-stefano-cossalter-tickets-102485364484" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#douglas">
@@ -163,6 +167,7 @@
                                 <span class="name">Douglas McKegney</span>
                             </h4>
                         </a>
+                        <a href="https://www.eventbrite.ca/e/blind-spots-shooting-for-the-moon-and-actually-getting-there-d-mckegney-tickets-102485719546?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#tom">
@@ -178,6 +183,7 @@
                                 <span class="name">Tom Everitt</span>
                             </h4>
                         </a>
+                        <a href="https://www.eventbrite.ca/e/around-the-world-in-80-anthems-tom-everitt-tickets-102485819846" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#emi">
@@ -193,13 +199,30 @@
                                 <span class="name">Emi Garzitto</span>
                             </h4>
                         </a>
+                        <a href="https://www.eventbrite.ca/e/how-to-create-a-resilient-dynamic-workplace-culture-emi-garzitto-tickets-102485904098?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                    </div>
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#moreno">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Moreno Perazollo" class="img-responsive" height="200"
+                                        src="images/speakers/moreno.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>May 31</h3>
+                            <h4>
+                                How To Grow Your Online Visibility With Rapid Fire Videos<br>
+                                <span class="name">Moreno Perazollo</span>
+                            </h4>
+                        </a>
+                        <a href="https://www.eventbrite.ca/e/how-to-grow-your-online-visibility-with-rapid-fire-videos-m-perazzolo-tickets-102812488922?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                 </div>
             </div>
 
-            <h2 class="blue-bg">June Workshops</h2>
+            <h2 class="blue-bg hidden">June Workshops</h2>
 
-            <div class="row">
+            <div class="row hidden">
                 <div class="ed-speakers">
                     <div class="committee leader ">
                         <a data-toggle="modal" data-target="#winston">
@@ -216,21 +239,7 @@
                             </h4>
                         </a>
                     </div>
-                    <div class="committee leader ">
-                        <a data-toggle="modal" data-target="#moreno">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Moreno Perazollo" class="img-responsive" height="200"
-                                        src="images/speakers/moreno.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
-                            <h3>June 14</h3>
-                            <h4>
-                                How To Grow Your Online Visibility With Rapid Fire Videos<br>
-                                <span class="name">Moreno Perazollo</span>
-                            </h4>
-                        </a>
-                    </div>
+                   
                 </div>
                 </div>
             </div>
