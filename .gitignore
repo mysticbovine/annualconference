@@ -44,3 +44,4 @@ Thumbs.db
 !core/**/*.gz
 
 .idea/
+mail/error_log
