@@ -113,7 +113,7 @@
                             <span class="name">Mariah-Jane Thies</span>
                         </h4>
                     </a>
-                    <a href="https://www.eventbrite.ca/e/how-are-you-smart-mariah-jane-theis-tickets-101771756062" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                    <a href="https://www.eventbrite.ca/e/how-are-you-smart-mariah-jane-theis-tickets-101771756062" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register closed</a>
                 </div>
                 <div class="committee leader">
                     <a data-toggle="modal" data-target="#michelle">
