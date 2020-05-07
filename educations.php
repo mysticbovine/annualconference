@@ -151,7 +151,7 @@
                                 <span class="name">Stefano Cossalter</span>
                             </h4>
                         </a>
-                        <a href="" class="btn btn-register" style="color:#ffffff" target=_blank>Registration closed</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
                     </div>
                     <div class="committee leader hidden">
                         <a data-toggle="modal" data-target="#douglas">
