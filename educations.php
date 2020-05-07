@@ -113,7 +113,7 @@
                             <span class="name">Mariah-Jane Thies</span>
                         </h4>
                     </a>
-                    <a href="https://www.eventbrite.ca/e/how-are-you-smart-mariah-jane-theis-tickets-101771756062" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register closed</a>
+                    <a href="https://www.eventbrite.ca/e/how-are-you-smart-mariah-jane-theis-tickets-101771756062" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
                 </div>
                 <div class="committee leader">
                     <a data-toggle="modal" data-target="#michelle">
@@ -129,7 +129,7 @@
                             <span class="name">Michelle Tremblay</span>
                         </h4>
                     </a>
-                    <a href="https://www.eventbrite.ca/e/mpower-your-inner-ninja-michelle-tremblay-tickets-101772000794" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                    <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
                 </div>
             </div>
 <div class="">
@@ -151,9 +151,9 @@
                                 <span class="name">Stefano Cossalter</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/secrets-to-remembering-names-and-faces-stefano-cossalter-tickets-102485364484" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="" class="btn btn-register" style="color:#ffffff" target=_blank>Registration closed</a>
                     </div>
-                    <div class="committee leader">
+                    <div class="committee leader hidden">
                         <a data-toggle="modal" data-target="#douglas">
                             <div class="img-circle center-block grow">
                                 <span class="field-content">
@@ -167,7 +167,23 @@
                                 <span class="name">Douglas McKegney</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/blind-spots-shooting-for-the-moon-and-actually-getting-there-d-mckegney-tickets-102485719546?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="blind-spots-shooting-for-the-moon-and-actually-getting-there-d-mckegney-tickets-102485719546?aff=erelpanelorg" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration Closed</a>
+                    </div>
+                    <div class="committee leader">
+                        <a data-toggle="modal" data-target="#sharook">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Sharook Daroowala" class="img-responsive" height="200"
+                                        src="images/speakers/SharookDaroowala.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>May 10</h3>
+                            <h4>
+                                Plan your Speech and Plan to Succeed<br>
+                                <span class="name">Sharookh Daroowala</span>
+                            </h4>
+                        </a>
+                        <a href="https://www.eventbrite.ca/e/plan-your-speech-and-plan-to-succeed-sharookh-daroowala-tickets-102485719546" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#tom">
@@ -602,7 +618,7 @@
             </div>
         </div>
         <!-- douglas -->
-        <div class="modal fade" id="douglas" tabindex="-1" role="dialog" aria-labelledby="douglasLabel">
+        <div class="modal fade" id="douglasOFF" tabindex="-1" role="dialog" aria-labelledby="douglasLabel">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -655,6 +671,30 @@
                                 href="https://www.linkedin.com/in/dougmckegney/?originalSubdomain=ca" target="_blank"
                                 rel="noopener noreferrer">Doug McKegney
                             </a></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- sharook -->
+        <div class="modal fade" id="sharook" tabindex="-1" role="dialog" aria-labelledby="sharooklabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="sharooklabel">May 10</h4>
+                    </div>
+                    <div class="modal-body bg-yellow faded bio">
+                        <h3 class="text-center">
+                        Plan your Speech and Plan to Succeed!<br>
+                            <span class="name">Sharookh Daroowala</span>
+                        </h3>
+                        <p class="lead text-center">Writing a speech without a plan is like building a house without a blueprint.</p>
+                        <p> Learn the importance and essentials of speech planning.</p>
+                        
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
