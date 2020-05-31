@@ -56,7 +56,83 @@
         <span class="anchor" id="top"></span>
 
         <div class="row ed-session-bios">
+        
+            <h2 class="blue-bg">June Workshops</h2>
 
+            <div class="row">
+                <div class="ed-speakers">
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#winston">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Winston Yeung" class="img-responsive" height="200"
+                                        src="images/speakers/winston.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>June 7</h3>
+                            <h4>
+                                Why Are You Only Aiming for the Moon?<br>
+                                <span class="name">Winston Yeung</span>
+                            </h4>
+                            <a href="https://www.eventbrite.ca/e/why-are-you-only-aiming-for-the-moon-winston-yeung-tickets-105719951220" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        </a>
+                    </div>
+                
+                
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#scotthayward">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Winston Yeung" class="img-responsive" height="200"
+                                        src="images/speakers/ScottHayward.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>June 14</h3>
+                            <h4>
+                            Come with a Topic, Leave with a Speech<br>
+                                <span class="name">Scott Hayward</span>
+                            </h4>
+                            <a href="https://www.eventbrite.ca/e/come-with-a-topic-leave-with-a-speech-scott-hayward-tickets-105720693440" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        </a>
+                    </div>
+                    
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#adrian">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Winston Yeung" class="img-responsive" height="200"
+                                        src="images/speakers/adrian.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>June 21</h3>
+                            <h4>
+                            Create Opportunities with Challenges 3 Steps<br>
+                                <span class="name">Adrian Stark</span>
+                            </h4>
+                            <a href="https://www.eventbrite.ca/e/create-opportunities-within-challenges-in-3-easy-steps-adrian-starks-tickets-105741924944" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        </a>
+                    </div>
+                    
+                    <div class="committee leader ">
+                        <a data-toggle="modal" data-target="#joanne">
+                            <div class="img-circle center-block grow">
+                                <span class="field-content">
+                                    <img alt="Winston Yeung" class="img-responsive" height="200"
+                                        src="images/speakers/joanne.jpg" typeof="Image" width="200">
+                                </span>
+                            </div>
+                            <h3>June 28</h3>
+                            <h4>
+                            Leading With Club Decisions, Building New Skills<br>
+                                <span class="name">Joanne Morrison </span>
+                            </h4>
+                            <a href="https://www.eventbrite.ca/e/leading-with-club-decisions-building-new-skills-joanne-morrison-tickets-105742093448?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        </a>
+                    </div>
+
+
+                </div>
+            </div>
             <h2 class="blue-bg">April Workshops</h2>
 
             <div class="row">
@@ -132,7 +208,7 @@
                     <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration closed</a>
                 </div>
             </div>
-<div class="">
+
             <h2 class="blue-bg">May Workshops</h2>
 
             <div class="row">
@@ -167,7 +243,7 @@
                                 <span class="name">Douglas McKegney</span>
                             </h4>
                         </a>
-                        <a href="blind-spots-shooting-for-the-moon-and-actually-getting-there-d-mckegney-tickets-102485719546?aff=erelpanelorg" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration Closed</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Registration Closed</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#sharook">
@@ -183,7 +259,7 @@
                                 <span class="name">Sharookh Daroowala</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/plan-your-speech-and-plan-to-succeed-sharookh-daroowala-tickets-102485719546" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#tom">
@@ -199,7 +275,7 @@
                                 <span class="name">Tom Everitt</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/around-the-world-in-80-anthems-tom-everitt-tickets-102485819846" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader">
                         <a data-toggle="modal" data-target="#emi">
@@ -215,7 +291,7 @@
                                 <span class="name">Emi Garzitto</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/how-to-create-a-resilient-dynamic-workplace-culture-emi-garzitto-tickets-102485904098?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                     <div class="committee leader ">
                         <a data-toggle="modal" data-target="#moreno">
@@ -231,33 +307,12 @@
                                 <span class="name">Moreno Perazollo</span>
                             </h4>
                         </a>
-                        <a href="https://www.eventbrite.ca/e/how-to-grow-your-online-visibility-with-rapid-fire-videos-m-perazzolo-tickets-102812488922?aff=erelpanelorg" class="btn btn-register" style="color:#ffffff" target=_blank>Register here</a>
+                        <a href="" class="btn btn-register disabled" style="color:#ffffff" target=_blank>Register here</a>
                     </div>
                 </div>
             </div>
+    
 
-            <h2 class="blue-bg hidden">June Workshops</h2>
-
-            <div class="row hidden">
-                <div class="ed-speakers">
-                    <div class="committee leader ">
-                        <a data-toggle="modal" data-target="#winston">
-                            <div class="img-circle center-block grow">
-                                <span class="field-content">
-                                    <img alt="Winston Yeung" class="img-responsive" height="200"
-                                        src="images/speakers/winston.jpg" typeof="Image" width="200">
-                                </span>
-                            </div>
-                            <h3>June 7</h3>
-                            <h4>
-                                Why Are You Only Aiming for the Moon?<br>
-                                <span class="name">Winston Yeung</span>
-                            </h4>
-                        </a>
-                    </div>
-                   
-                </div>
-                </div>
             </div>
                 <p>
                     <a href="#top" class="page-scroll  btn btn-primary hidden">Back to top</a>
@@ -298,6 +353,61 @@
                         the moon.</p>
                     <p>Mr. Yeung is an inventor, a mentor, a story architect, a transformational coach, and a community
                         builder.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="scotthayward" tabindex="-1" role="dialog" aria-labelledby="winstonLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="winstonLabel">June 14</h4>
+                </div>
+                <div class="modal-body bg-yellow faded bio">
+                    <h3 class="text-center">
+                        Come with a Topic Leave with a Speech<br>
+                        <span class="name">Scott Hayward</span>
+                    </h3>
+                    <p class="lead">Join the 2020 District 96 International Speech Champion Scott Hayward for an interactive session on crafting your speech.</p>
+                    
+                    <p>Bring a topic and learn how to:</p>
+                    <ul>
+                        <li>Define a clear purpose,</li>
+                        <li>Create an engaging opening and memorable closing,</li>
+                        <li>Structure your speech to take your audience on a journey, and</li>
+                        <li>Apply effective writing techniques to fill in your speech.</li>
+                    </ul>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="joanne" tabindex="-1" role="dialog" aria-labelledby="joanneLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="joanneLabel">June 28</h4>
+                </div>
+                <div class="modal-body bg-yellow faded bio">
+                    <h3 class="text-center">
+                        Leading with Club Decisions, Building New Skills.<br>
+                        <span class="name">Joanne Morrison</span>
+                    </h3>
+                    <p class="lead">Start this year with inclusive club decisions, that powerfully keep club members engaged.</p>
+                    
+                    <p>Are you a new club leader or long-time club leader? Me too! We get to be new, in a new Toastmaster year.</p>
+
+                    <p>Topics include: Who decides and why? What kinds of meetings engage members to participate in decisions? Directing discussions to include 
+                    that quiet, smart person and more.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -797,7 +907,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                                 aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title" id="adrianLabel">Personal Development Track</h4>
+                        <h4 class="modal-title" id="adrianLabel">June 21</h4>
                     </div>
                     <div class="modal-body bg-yellow faded bio">
                         <h3 class="text-center">
@@ -816,15 +926,7 @@
                             <li>Understand the 3 P’s of Preparation, Perseverance, and Patience</li>
                             <li>Use the 3 P’s to resolve your problems</li>
                         </ul>
-                        <p>Adrian Starks is a keynote speaker, personal development coach and best-selling
-                            author. Along with a Bachelor of Sciences in Exercise Physiology and 16 years in
-                            the human development and achievement field, he shares the teachings of his movement,
-                            Champion Up®. Adrian has discovered that to live the most fulfilling life, he had
-                            to make changes and create a system to help condition habits and behaviours for lasting
-                            change. </p>
-                        <p>Adrian’s mission is to help those feeling stuck, scared, lost, or unfulfilled to
-                            create a life of meaning. He offers solutions to courageously change and up-level
-                            creativity to make the largest impact in one’s world.</p>
+                        
                         <p>Adrian is a powerful storyteller and facilitator that has spoken to various audiences about
                             how to learn and act upon this revolutionary system designed for winning. This allows anyone
                             to believe that they can become a champion, overcome any challenge, and win for good.</p>
