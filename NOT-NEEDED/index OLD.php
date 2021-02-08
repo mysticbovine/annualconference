@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Annual Conference 2021 | District 96 Toastmasters</title>
+    <title>Annual 2019 Conference | District 96 Toastmasters</title>
 
 	<meta name="author" content="Rob Evans DTM, Rocky Coast Creative, www.rockycoastcreative.ca">
     <!-- Bootstrap -->
@@ -44,19 +44,17 @@
 	<!-- Carousel Start -->
 	<div class="banner vh_height100 homepage"> 
     <div class="conference-logo">
-  
-        <div class="col-sm-12 ">
-           
-          <img src="images/D96-AC2021-white.png" class="img-responsive center-block">
+     
+        <div class="col-sm-6 col-sm-offset-3">
+          <img src="images/d96conference2019logo.png" class="img-responsive center-block">
          
         </div>
 
     </div>
-    
     <p class="jump"><a class="page-scroll" href="#main-content">Jump to content</a></p>
 	</div>
 	<!-- Body Start -->
-	<div id="main-content" class="bg-blue faded container-full padding100">
+	<div id="main-content" class="bg-yellow faded container-full padding100">
     <div class="container">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 text-center">
@@ -65,18 +63,23 @@
               <img src="images/logo-blue.png" class="img-responsive center-block">
             </div>
           </div>
-          <h2>March  29 - 31, 2019</h2>         
-          
-          <p class="lead">The District 96 Annual Conference 2019 will be held at the Pinnacle Hotel at the Pier, in North Vancouver (near the Lonsdale Quay) from Friday, March 29 to Sunday,&nbsp;March&nbsp;31,&nbsp;2019.</p>
-          <p class="lead">Stay tuned for more information as the conference team plans out this fun, inspiring Toastmasters Conference.</p>
+          <h2>May 11 - 13, 2018</h2>
+          <p class="lead"><strong>Take a Risk</strong> at the District 96 Annual 
+          conference this spring at the Delta Grand (Marriott) Burnaby Conference Centre, 
+          adjacent to the Grand Villa Casino. It's a safe bet that your journey 
+          will be enriched after a weekend of education and entertainment with 
+          Toastmasters! </p>
+          <p class="lead">Double down and book your 
+          discounted hotel room at the same time! The odds are fixed you don't 
+          need to be a high-roller to attend. See <a href="#location" class="page-scroll" >Conference Location</a> for more details.</p>
           
           <p class="">
-            <a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-conference-2019-tickets-52593726251" target=_blank class="btn btn-lg btn-register">
+            <a href="https://d96annualconference.eventbrite.ca/" target=_blank class="btn btn-lg btn-register">
               Join us today!
             </a>
           </p> 
           
-          <p class="hidden">
+          <p class="">
             <a href="https://www.facebook.com/events/543524696011716/" target=_blank>
               <img src="images/FB-FindUsOnFacebook-printpackaging-2.png" height="50px">
             </a>
@@ -85,7 +88,7 @@
       </div>
     </div>
   </div>
-  <div id="keynote" class="bg-blue faded container-full padding100 text-white keynote hidden">	
+  <div id="keynote" class="bg-blue faded container-full padding100 text-white keynote">	
     <div class="container">
       <div class="row">
         <div class="col-md-5 col-sm-offset-1 callout-black">
@@ -129,7 +132,7 @@
       </div>
     </div>
   </div>
-  <div id="education" class="container-fluid hidden">
+  <div id="education" class="container-fluid">
 		<div class="ed-speakers row">
 		<div class="col-sm-12 bg-primary text-center">
 				<h2>Our Education Session Speakers</h2>	
@@ -205,26 +208,24 @@
 			
 		</div>
 	</div>	
-    
-  	<div id="includes" class="bg-blue container-full padding100 text-white text-center">
+  	<div id="includes" class="bg-burgundy container-full padding100 text-white text-center">
     <div class="container ">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
-          <h2> Your weekend includes:</h2>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Inspiring keynote speakers</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Educational sessions to ante up your speaking and leadership skills</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Delicious meals all weekend long</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District Council Annual Meeting and Elections</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication & Leadership Award</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> International Speech Contest</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Evaluation Speech Contest</p>
+          <h2>Your ticket includes:</h2>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> International Speech and Evaluation Speech Contests</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> 2 Keynote Presentations</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> 2 Education Sessions</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication and Leadership Award Recipient Speech</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Pathways Information</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> 5 Delicious Meals</p>
+          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Dancing, Risk-Taking and More!</p>
           <p class=""><a href="https://d96annualconference.eventbrite.ca/" target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p>
         </div>
       </div>
     </div>
   </div>
-  <div id="location" class="bg-blue faded container-full padding100 hidden">
+  <div id="location" class="bg-blue faded container-full padding100">
     <div class="container">
       <div class="row">
          <div class="col-sm-6">
@@ -264,14 +265,9 @@
       <div class="row">
         <div class="col-md-5 col-sm-6 callout-black">
           <h2 class="text-center">Interested in Helping?</h2>
-          <p class="lead"> Do you have sales, marketing or project management skills or are you willing to help in any capacity? </p>
-          <p class="lead">Email <a href="mailto:mark.zuberbuhler@gmail.com" class="text-muted" style="text-decoration: underline">Mark Zuberbuhler</a> if you are interested in joining the Conference Committee.</p>
-
-        </div>
-        <div class="col-md-5 col-md-offset-1 col-sm-6 callout-black">
-          <h2 class="text-center">See who is involved.</h2>
-          <p class="lead"> For a complete list of the conference team, including any positions we are looking visit the Conference Team page on <a href="https://d96toastmasters.ca/leaders/conference%20team" class="text-muted" style="text-decoration: underline" >d96toastmasters.ca</a></p>
-          <p class="text-center"><a href="https://d96toastmasters.ca/leaders/conference%20team" class="btn btn-register btn-lg" target=_blank >Conference Team</a></p>
+          <p class="lead">Are you interested in volunteering for the conference or being a 
+          member of the Conference Committee?</p>
+          <p class="lead">Please email District 96 Spring 2018 Conference Chair <a href="mailto:itrusttheuniverse@gmail.com" class="text-muted">Sheila Cameron</a></p>
 
         </div>
       </div>

@@ -1,8 +1,12 @@
 <?php
-  // Data //
+// Data //
+/*
+  NOTE: The idea with this was to have one place where info was entered.
+        Since most pages used the same content year after year, it was only the names and dates that changed.
+*/
   $general = array (
-    'conference'=>"District 96 2020 Annual Conference",
-    'year'=>"2020", 
+    'conference'=>"District 96 2021 Annual Conference",
+    'year'=>"2021", 
     'friday'=>"April 17",
     'saturday'=>"April 18",
     'sunday'=>"April 19",
