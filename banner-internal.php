@@ -1,1 +1,1 @@
-<img src="images/96banner.jpg" alt="Retro styled moon and rocket ship on the sides. In the middle words say 'Shoot the Moon: Your Time to Shine'." class="img-responsive center-block">
+<img src="images/96banner.jpg" alt="Group of people watching the sunet behind a city. Conference logo says 'Together Towards Tomorrow'." class="img-responsive center-block">
