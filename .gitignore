@@ -1,7 +1,7 @@
 # Ignore paths that contain user-generated content.
 ai-cache/*
 less/*
-notneeded/*
+NOT-NEEDED/*
 error-log
 mail/error_log
 
