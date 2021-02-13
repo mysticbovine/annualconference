@@ -1,0 +1,51 @@
+SNIPS
+
+EMBED A VIDEO from YOUTUBE
+Use this for video links.  It makes the video frame responsive.  Just replace [LINK HERE] with the URL to the video. 
+Don't change the width and hieght values.
+
+<div class="videoWrapper">
+    <iframe
+        src="[LINK HERE]" 
+        width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+ADD A SECTION ON A PAGE
+padding50
+padding100
+bg-blue
+bg-red
+bg-yellow
+bg-burgundy
+faded
+
+Full width column
+<div id="" class="bg-blue faded container-full padding100 hidden">
+    <div class="container">
+      <div class="row">
+        <!-- Add bootstrap columns here-->
+      </div>
+    </div>
+  </div>
+
+COLUMN OPTIONS
+See https://getbootstrap.com/docs/3.3/css/#grid for grids
+
+SPEAKER IMAGE
+ID_HERE = an idea used for scrolling to the content. Must be unqiue. Suggestion, use fistname_lastname as an ide. IE: #rob_evans
+Images should be square.  Anything bigger than 300x300 is a waste as the image is never shown that big.
+
+<div class="col-md-2 col-sm-4 col-xs-6 bio">
+    <a href="educations.php#ID_HERE" class="page-scroll">
+        <div class="grow pic">					
+            <img src="images/IMAGE.jpg" class="img-responsive center-block">
+        </div>
+    </a>
+    <div class="session">
+        <p>TITLE
+        <span class="name">FIRST LAST NAME</span></p>
+    </div>
+</div>
+
+
+

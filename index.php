@@ -65,9 +65,9 @@
               <img src="images/logo-blue.png" class="img-responsive center-block">
             </div>
           </div>
-          <h2>March  29 - 31, 2019</h2>         
+          <h2>April 30, May 1, May 8 and May 15</h2>         
           
-          <p class="lead">The District 96 Annual Conference 2019 will be held at the Pinnacle Hotel at the Pier, in North Vancouver (near the Lonsdale Quay) from Friday, March 29 to Sunday,&nbsp;March&nbsp;31,&nbsp;2019.</p>
+          <p class="lead">The District 96 Annual Conference 2021 will be held online on Friday, April 30, Saturday, May 1, Saturday,May 8 and Saturday, May 15, 2021.</p>
           <p class="lead">Stay tuned for more information as the conference team plans out this fun, inspiring Toastmasters Conference.</p>
           
           <p class="">
@@ -210,10 +210,9 @@
     <div class="container ">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
-          <h2> Your weekend includes:</h2>
+          <h2> Your ticket includes:</h2>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Inspiring keynote speakers</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Educational sessions to ante up your speaking and leadership skills</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Delicious meals all weekend long</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District Council Annual Meeting and Elections</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication & Leadership Award</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
@@ -224,40 +223,6 @@
       </div>
     </div>
   </div>
-  <div id="location" class="bg-blue faded container-full padding100 hidden">
-    <div class="container">
-      <div class="row">
-         <div class="col-sm-6">
-          <div class="videoWrapper">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10416.160580056458!2d-123.006916!3d49.256685!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x75cc3c83395a4b41!2sDelta+Hotels+by+Marriott+Burnaby+Conference+Centre!5e0!3m2!1sen!2sca!4v1516579659946" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
-          <p class="padding50">
-            <img src="images/delta.jpg" class="img-responsive center-block img-thumbnail">
-          </p>
-         </div>
-         <div class="col-sm-6 callout-black text-white ">
-           
-          <h2>Conference Location</h2>
-          <p class="lead">Delta Grand (Marriott) Burnaby Conference Centre is located at 
-          4331 Dominion Street, Burnaby, BC 
-          (<a href="https://goo.gl/maps/rRDq3Psvsor" target=_blank" class="text-muted">directions</a>).</p>
-          <p>Inside the hotel, you will find a fitness room, sauna and hot tub, 24-hour business centre, 
-          and the Grand Villa Casino with live entertainment at Personas Lounge.</p>
-          <p>Parking is free, and 
-          there is a free shuttle to/from Gilmore Skytrain Station, Brentwood Town Centre, or Metrotown. 
-          Call 604-436-2211 for shuttle times.</p>
- 
-          <h3>Special Hotel Rate</h3>
-          
-          <p>The deadline for a guaranteed discounted rate of $145 per night has now passed.</p>
-          <p>Get in touch with Conference Chair, <a href="mailto:itrusttheuniverse@gmail.com">Sheila Cameron</a>, for access to book a discounted room, based on availability.</p>
-          <p>This hotel will sell out, so act now for the best chance of reserving.</p>
-         </div>
-      </div>
-    </div>
-  </div>
-  
-</div>
 
   <div id="helping" class="bg-blue faded container-full padding100 text-white includes-bg">	
     <div class="container">
@@ -265,7 +230,7 @@
         <div class="col-md-5 col-sm-6 callout-black">
           <h2 class="text-center">Interested in Helping?</h2>
           <p class="lead"> Do you have sales, marketing or project management skills or are you willing to help in any capacity? </p>
-          <p class="lead">Email <a href="mailto:mark.zuberbuhler@gmail.com" class="text-muted" style="text-decoration: underline">Mark Zuberbuhler</a> if you are interested in joining the Conference Committee.</p>
+          <p class="lead">Email <a href="mailto:wong.adrian.26@gmail.com" class="text-muted" style="text-decoration: underline">Adrian Wong</a> if you are interested in joining the Conference Committee.</p>
 
         </div>
         <div class="col-md-5 col-md-offset-1 col-sm-6 callout-black">
@@ -283,9 +248,12 @@
 	<!-- Footer Start -->
 	<!-- Contact Section -->
     <?php include("contact.php");?>
+
 	<!-- Footer End -->
-	
     <?php include("scripts.php");?>
+
+  <!-- data -->
+  <?php include("data/data.php");?>
 
   </body>
 </html>
