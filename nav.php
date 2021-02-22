@@ -67,7 +67,8 @@
                 </li>
 
                 <li><a href="#contact" class="page-scroll">Contact</a></li>
-                <li><a href="https://d96annualconference2021.eventbrite.ca" target=_blank class="register">Register</a>
+                <li><a href="#" data-toggle="modal" data-target="#myModal" class="register">Register</a>
+                <!-- <li><a href="https://d96annualconference2021.eventbrite.ca" target=_blank class="register">Register</a> -->
                 </li>
             </ul>
         </div><!-- /.navbar-collapse -->

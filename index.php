@@ -210,15 +210,16 @@
     <div class="container ">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
-          <h2> Your ticket includes:</h2>
+          <h2> Why join?</h2>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Inspiring keynote speakers</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Educational sessions to ante up your speaking and leadership skills</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> District Council Annual Meeting and Elections</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Communication & Leadership Award</p>
-          <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
+          <p class="lead hanging-indent hidden"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Silent auction</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> International Speech Contest</p>
           <p class="lead hanging-indent"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Evaluation Speech Contest</p>
-          <p class=""><a href="https://d96annualconference.eventbrite.ca/" target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p>
+          <!-- <p class=""><a href="https://d96annualconference.eventbrite.ca/" target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p> -->
+          <p class=""><a href="" data-toggle="modal" data-target="#myModal"  target=_blank style="width:100%"class="btn btn-lg btn-primary">Register today!</a></p>
         </div>
       </div>
     </div>
@@ -248,7 +249,7 @@
 	<!-- Footer Start -->
 	<!-- Contact Section -->
     <?php include("contact.php");?>
-
+    <?php include("joinus.php");?>
 	<!-- Footer End -->
     <?php include("scripts.php");?>
 
