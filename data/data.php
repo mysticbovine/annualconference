@@ -1,50 +1,59 @@
 <?php
-  // Data //
+// Data //
+/*
+  NOTE: The idea with this was to have one place where info was entered.
+        Since most pages used the same content year after year, it was only the names and dates that changed.
+*/
   $general = array (
-    'conference'=>"District 96 2020 Annual Conference",
-    'year'=>"2020", 
-    'friday'=>"April 17",
-    'saturday'=>"April 18",
-    'sunday'=>"April 19",
+    'conference'=>"District 96 2021 Annual Conference",
+    'year'=>"2021",
+    'allDates' => "April 30, May 1, May 8, and May 15",
+    'friday'=> "",
+    'saturday'=> "",
+    'sunday'=> "",
+    'day1' => "Friday, April 30",
+    'day2'=> "Saturay, May 1",
+    'day3'=> "Saturay, MMay 8",
+    'day4'=> "Saturay, MMay 15",
+    'day5'=> "Saturay, MMay 1",
     'location'=>"Executive Hotel Vancouver Airport",
-    'address'=>"7311 Westminster Hwy, Richmond, BC V6X 1A3",
-    
+    'address'=>"Zoom and YouTube",
   );
   
   // Webmaster //
   $webmaster = array (
-    'name' => "Rob Evans",
-    'email' => "webmaster@district96.ca",
+    'name' => "Kimberly Huynh",
+    'email' => "kim@sitenetwork.ca",
   );
   
   // Conference chair //
   $chair = array (
-    'name' => "Janice Parkinson",
-    'email' => "jprknsn@gmail.com",
-    'name11' => "Kevin Pendergraft",
-    'email1' => "kpend@me.com",
+    'name' => "Adrian Wong",
+    'email' => "wong.adrian.26@gmail.com",
+    'name11' => "",
+    'email1' => "",
   );
   
   // CL award //
   $CLaward = array (
     'title' => "Communication and Leadership Award Chair",
-    'chair' => "Neila Scott",
-    'conference' => "District 96 2020 Annual Conference",
-    'year' => "2020",
-    'email' => "findingup@gmail.com",
-    'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Sunday, December 22, 2019",
+    'chair' => "",
+    'conference' => "District 96 2021 Annual Conference",
+    'year' => "2021",
+    'email' => "",
+    'email_mask' => "_*_",
+    'deadline' => "",
   );  
   
   // Ed Session //
   $EDsession = array (
     'title' => "Education Chair",
-    'chair' => "Neila Scott",
-    'conference' => "District 96 2020 Annual Conference",
-    'year' => "2020",
-    'email' => "findingup@gmail.com",
-    'email_mask' => "findingup_*_gmail.com",
-    'deadline' => "Sunday, December 22, 2019",
+    'chair' => "",
+    'conference' => "District 96 2021 Annual Conference",
+    'year' => "2021",
+    'email' => "",
+    'email_mask' => "_*_",
+    'deadline' => "",
   );
   
   // Business Meeting //
@@ -60,20 +69,20 @@
     'divsion' => "TBA",
     'area' => "TBA",
     'other' => "TBA",
-    'name' => "Gonul Guvenc"
+    'name' => ""
   );
   
   // Sponsor //
   $sponsors = array (
     'title' => "Sponsorship Chair",
-    'name1' => "Johanna Rzepa",
+    'name1' => "",
     'email1' => "sponsorships@d96toastmasters.ca",
-    'name2' => "William Baker",
+    'name2' => "",
     'email2' => "",
   );
   $advertising = array (
-    'program-chair' => "Rob Evans",
-    'program-chair-email' => "webmaster@d96toastmasters.ca",
+    'program-chair' => "",
+    'program-chair-email' => "",
 
     
   )

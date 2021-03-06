@@ -7,6 +7,9 @@ $300+  Four of a Kind - Bronze
 $500+  Straight Flush  - Silver
 $800+  Royal Flush - Gold
 
+NOTE: This worked quite well in 2019 to manage the sponsors.
+      We just had to update the information below and it updated the page.
+      There was no sponsorship in 2020.
   */
 
   
