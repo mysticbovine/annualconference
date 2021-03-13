@@ -70,7 +70,7 @@
 
         <li>Must not be presented to a recipient a second time.</li>
 
-        <li>Must be able to personally accept the award and give an acceptance address at the District 96 Spring 2020 Conference</li>
+        <li>Must be able to personally accept the award and give an acceptance address at the <?php echo $general['conference'] ?></li>
       </ul>
     
       <h3 class="text-center">How do you nominate someone for the 
