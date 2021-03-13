@@ -37,11 +37,11 @@
   // CL award //
   $CLaward = array (
     'title' => "Communication and Leadership Award Chair",
-    'chair' => "",
+    'chair' => "Jacqueline Diao",
     'conference' => "District 96 2021 Annual Conference",
     'year' => "2021",
-    'email' => "",
-    'email_mask' => "_*_",
+    'email' => "diao.xc@qq.com",
+    'email_mask' => "diao.xc_*_qq.com",
     'deadline' => "",
   );  
   
