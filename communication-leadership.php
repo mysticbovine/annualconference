@@ -58,21 +58,18 @@
       
       <p>The criteria used to select the recipient for this award includes the following:</p>
       <ul>
-        <li>Must be a resident of the geographical area covered by District 96.</li>
-
-        <li>Must be a non-Toastmaster or a former Toastmaster.</li>
-
-        <li>Should have distinguished himself/herself as a leader or spokesperson for a worthy cause or purpose, especially as it exemplified their communication and leadership skills.</li>
-
-        <li>Should have made a significant contribution to the communities within the District. The impact of this contribution must not be limited to one organization, but must be community/district wide.</li>
-
-        <li>Should support the Toastmasters organization.</li>
-
-        <li>Must not be presented to a recipient a second time.</li>
-
-        <li>Must be able to personally accept the award and give an acceptance address at the <?php echo $general['conference'] ?></li>
+        <li>Be a resident of the geographical area covered by District 96.</li>
+        <li>Be a non-Toastmaster.</li>
+        <li>Would have distinguished themselves as a leader or spokesperson for a worthy cause or purpose, especially as it exemplified their communication and leadership skills.</li>
+        <li>Could have made a significant contribution to the communities within the District. The impact of this contribution must not be limited to one organization, but must be community/district wide.</li>
+        <li>Even better is their leadership and communication supports aspects of the Toastmasters programs.</li>
+        <li>Not to be presented to a recipient a second time.</li>
+        <li>Be able to personally accept the award and give an acceptance address at the District 96 Annual Conference the evening of May 8, 2021.</li>
       </ul>
-    
+      
+
+     
+
       <h3 class="text-center">How do you nominate someone for the 
       Communication & Leadership Award?<br /></h3>
       <p class="text-center lead">Simple!  Fill out the <br />
