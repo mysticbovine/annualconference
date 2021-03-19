@@ -71,9 +71,9 @@
           <p class="lead">Stay tuned for more information as the conference team plans out this fun, inspiring Toastmasters Conference.</p>
 
           <p class="">
-            <a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-conference-2019-tickets-52593726251" target=_blank class="btn btn-lg btn-register">
-              Join us today!
-            </a>
+            <!-- <a href="https://www.eventbrite.ca/e/toastmasters-district-96-annual-conference-2019-tickets-52593726251" target=_blank class="btn btn-lg btn-register"> -->
+            <a href="" data-toggle="modal" data-target="#myModal"  target=_blank style="width:100%"class="btn btn-lg btn-primary btn-register">Register today!</a>
+      
           </p>
 
           <p class="hidden">
